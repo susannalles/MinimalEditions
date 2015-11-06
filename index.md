@@ -9,12 +9,12 @@ The main goal of this course is to introduce students to textual scholarship in 
 
 This course will have five main units: 
 
-UNIT 1. Introduction to textual scholarship: What does it mean to edit a work? 
-UNIT 2. Planning a minimal digital scholarly edition: Lazarillo de Tormes (1554) 
-UNIT 3. Structures of control in text processing: eXtensible Markup Language, Guidelines of the Text Encoding Initiative 
-UNIT 4. The ethics of memory in representation layers: HTML, CSS
-UNIT 5. Input and output and textual migrations: XSLT, Liquid
-UNIT 6. Infrastructure for publishing: Jekyll, Liquid Templating language
+UNIT 1. Introduction to textual scholarship: What does it mean to edit a work? <br/>
+UNIT 2. Planning a minimal digital scholarly edition: *Lazarillo de Tormes* (1554) <br/>
+UNIT 3. Structures of control in text processing: eXtensible Markup Language, Guidelines of the Text Encoding Initiative <br/>
+UNIT 4. The ethics of memory in representation layers: HTML, CSS<br/>
+UNIT 5. Input and output and textual migrations: XSLT, Liquid<br/>
+UNIT 6. Infrastructure for publishing: Jekyll, Liquid Templating language<br/>
 
 The learning goals of this course are as follows: 
 
