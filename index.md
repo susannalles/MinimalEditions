@@ -1,10 +1,10 @@
 ##Creating a Minimal Edition: From the Manuscript to the Web 
 
-#Instructors:
+###Instructors:
 Susanna Allés Torrent - sa3251@columbia.edu 
 Alexander Gil Fuentes - agil@clumbia.edu 
 
-#Course description 
+###Course description 
 The main goal of this course is to introduce students to textual scholarship in general and digital scholarly editing in particular. The main outcome of this new course will be to publish a small-scale digital scholarly edition online of one of the most remarkable Spanish literary works, the Lazarillo de Tormes (XVIth century). The course is conceived as a combination between collaborative research and technical skills. At all steps of the process, we will work together toward the completion of our digital edition. Unlike other courses in digital editing taught worldwide, this course will introduce you to a "full stack," giving you the ability to make your own digital editions in the future without the need for funding, a publisher, or a "technical" team.  The course will be divided into lectures and recitation sessions, in order to offer a theoretical concepts and to transfer them into practice. 
 
 This course will have five main units: 
@@ -27,7 +27,7 @@ The learning goals of this course are as follows:
 7. To understand the role of the XSLT language and Liquid. 
 8. To work collaboratively and to enhance the student’s experience while practicing the Spanish language and engaging in authentic communication.
 
-#Grading and Out-of-Class Assignments 
+###Grading and Out-of-Class Assignments 
 There will be a total of six assignments oriented around the following: 
 
 1. Exercise on Textual Criticism (Feb 1) - 5%
@@ -39,7 +39,7 @@ There will be a total of six assignments oriented around the following:
 
 There will be one midterm evaluation on March 7  (20%) and a final examination (20%) (Date as determined by the registrar’s office). The course is conceived as a collaborative project, where each student will be in charge of a main chapter, for this reason collaborative work will represent the rest of the grade (10%). 
 
-#Weekly Breakdown and assignments for each lecture
+###Weekly Breakdown and assignments for each lecture
 
 **Lecture 1 (Jan 20)** (Unit 1) General introduction to textual scholarship and text editing
 
@@ -111,7 +111,7 @@ Pierazzo 2015, “8.7. Trusting Digital Editions? Peer Review and Evaluation of 
 
 **Lecture 27 (May 2)** Testing and troubleshooting 
 
-#Bibliography:  
+###Bibliography:  
 -	“A Gentle Introduction to XML.” P5: Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1. Last updated on 15th October 2015
 -	Allés Torrent, Susanna. “Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT”, Insula. Revista de Letras y Ciencias Humanas 822 (2015): 18-21
 -	Burnard, Lou, Katherine O’Brien O’Keeffe, John Unsworth, Electronic Textual Editing, New York: Modern Language Association of America, 2006
@@ -142,9 +142,9 @@ Pierazzo 2015, “8.7. Trusting Digital Editions? Peer Review and Evaluation of 
 -	Van den Branden, Ron, Melissa Terras & Edward Vanhoutte. TEI by Example. http://www.teibyexample.org.
 
 
-#Departmental Policy on absences 
+###Departmental Policy on absences 
 
 The Department of Latin American and Iberian Cultures has an across-the-board policy on class absences. Students who have three (3) unexcused absences or more will see their final grade reduced by one letter. An excused absence is an absence due to a religious holiday or one for which you can provide some form of written justification from a physician or dean. You should not interpret this policy as entitling you to a given number of free absences from class. You should see it as a hedge against illness and other unforeseen circumstances that may make it impossible for you to attend class. 
 
-#Academic integrity 
+###Academic integrity 
 The Department of Latin American and Iberian Cultures fully supports and adheres to all Columbia University policies and procedures regarding academic dishonesty (plagiarism, fabrication, cheating, etc.). The work you submit in the class is expected to be your own. If you submit work that has been copied from any published or unpublished source (including the Internet) without attribution, or that has been prepared by some other than you, or that in any way misrepresents somebody else's work as your own, will have an F as final grade and he/she will face disciplining by the university. It is expected that all students abide by the University´s Code of Academic Integrity (http://www.college.columbia.edu/academics/academicintegrity) and refrain from any activity constitutive of academic dishonesty as defined therein. For additional information, visit the university´s page of frequently asked questions regarding academic integrity, or consult me in the event of any uncertainty on your part about what may constitute academic dishonesty. 
