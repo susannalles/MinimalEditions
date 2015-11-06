@@ -167,34 +167,34 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 **Lecture 27 (May 2)** Testing and troubleshooting 
 
 ###Bibliography:  
--	“A Gentle Introduction to XML.” P5: Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1. Last updated on 15th October 2015
+-	[“A Gentle Introduction to XML.”](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) P5: Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1. Last updated on 15th October 2015
 -	Allés Torrent, Susanna. [“Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT,”](http://academiccommons.columbia.edu/catalog/ac%3A189047) *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21
--	Burnard, Lou, Katherine O’Brien O’Keeffe, John Unsworth, Electronic Textual Editing, New York: Modern Language Association of America, 2006
+-	Burnard, Lou, Katherine O’Brien O’Keeffe, John Unsworth, [*Electronic Textual Editing*](http://www.tei-c.org/About/Archive_new/ETE/Preview/index.xml), New York: Modern Language Association of America, 2006
 -	Burnard, Lou, [*What is the Text Encoding Initiative? How to add intelligent markup to digital resources*](http://books.openedition.org/oep/679?lang=en), Marseille: Open Edition Press, 2014
--	Cummings, James. “Editing options.” digital.humanities@Oxford, 2009.
--	Flanders, Julia, Syd Bauman, and WWP. “RELAX NG for ODD-Writing”, A Gentle Introduction to XSLT, “Built-in templates rules and how to override them”, “The XSLT Processing Model”, “Variables and Conditionals”. Introduction to TEI Customization @ Brown University, May 2012
+-	Cummings, James. [*“Editing options.”*] digital.humanities@Oxford, 2009.
+-	Flanders, Julia, Syd Bauman, and WWP. “RELAX NG for ODD-Writing”, A Gentle Introduction to XSLT, “Built-in templates rules and how to override them”, “The XSLT Processing Model”, “Variables and Conditionals”. [*Taking TEI Further: Transforming and Publishing TEI*](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/), Brown University, May 2012
 -	Fraistat, Neil, Julia Flanders (eds.), [*The Cambridge Companion to Textual Scholarship*](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/ebook.jsf?bid=CCO9781139044073), Cambridge: Cambridge University Press, 2013   				
 -	GitHub, [GitHub Guides](https://guides.github.com/) 2015
 -	GitHub, [BootCamp](https://help.github.com/categories/bootcamp/), 2015
--	Greetham, D. C. Textual Scholarship: An Introduction (New York: Garland, 1994)	
+-	Greetham, D. C. *Textual Scholarship: An Introduction*. New York: Garland, 1994	
 -	Jekyll Tips, [*Get Started Guide*](http://jekyll.tips/), 2015
 -	Jekyll, [*Documentation*](http://jekyllrb.com/docs/home/), 2015
--	Lazarillo de Tormes, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011
+-	*Lazarillo de Tormes*, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011
 -	MacManus,Richard. [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), *ReadWrite*, Sept. 30, 2013
--	Mainer, José-Carlos (ed.), “Caminos de la ficción.” Historia de la literatura española. Madrid: Crítica, 2013, pp. 281-336
+-	Mainer, José-Carlos (ed.), “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013, pp. 281-336
 -	McCarty, Williard. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004, pp. 254-271
 -	Michaud, Thomas. *[Foundations of Web design : introduction to HTML and CSS](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270)]*. [San Francisco]: New Riders, [2014]
 -	Modern Language Association, [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions), June 2011
--	Pérez Priego, Miguel Ángel. La edición de textos. Madrid: Síntesis, 2012
--	Pierazzo, Elena. Digital Scholarly Editing. Theories, Models and Methods, Aldershot: Ashgate, 2015 
--	Sahle, Patrick. [“Criteria for Reviewing Scholarly Digital Editions", version 1.1.”](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/) A review journal for digital editions and resources, IDE, 2014
--	Sahle, Patrick. “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” Medieval & Modern Manuscripts Studies in the Digital Age, 2015
--	Shopify, Liquid. GitHub, 2015
--	Spence, Paul, Elena Pierazzo, and J. Bradley, An XSLT Tutorial. Introducing XSLT in a Humanities Context. King College London, 2007
+-	Pérez Priego, Miguel Ángel. *La edición de textos*. Madrid: Síntesis, 2012
+-	Pierazzo, Elena. *Digital Scholarly Editing. Theories, Models and Methods*. Aldershot: Ashgate, 2015 
+-	Sahle, Patrick. [“Criteria for Reviewing Scholarly Digital Editions", version 1.1.”](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/) *A review journal for digital editions and resources*, IDE, 2014
+-	Sahle, Patrick. “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015
+-	Shopify, [*Liquid*](https://github.com/Shopify/liquid). GitHub, 2015
+-	Spence, Paul, Elena Pierazzo, and J. Bradley, *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. King College London, 2007
 -	TEI Wiki, “Ways to Publish TEI on the Web,”
--	Tennen, Dennis, and G. Wythoff, “Sustainable Authorship in Plain Text using Pandoc and Markdown.” The Programming Historian, March 19, 2014.
+-	Tennen, Dennis, and G. Wythoff, [*“Sustainable Authorship in Plain Text using Pandoc and Markdown.”*](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*, March 19, 2014
 -	Tennen, Dennis. [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), Github, 2015
--	Van den Branden, Ron, Melissa Terras & Edward Vanhoutte. TEI by Example. http://www.teibyexample.org.
+-	Van den Branden, Ron, Melissa Terras & Edward Vanhoutte. TEI by Example. [http://www.teibyexample.org](http://www.teibyexample.org)
 
 
 ###Departmental Policy on absences 
