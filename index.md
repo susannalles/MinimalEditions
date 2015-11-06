@@ -76,7 +76,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 **Lecture 8 (Feb 15)** (Unit 3) Introduction to the Extensible Markup Languages
 >
 - “[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).” *P5: Guidelines for Electronic Text Encoding and Interchange*, Version 2.9.1. Last updated on 15th October 2015
-- Pierazzo 2015, 103-125 (“Work and Workflow of Digital Scholarly Editions.”).
+- - Pierazzo 2015, 103-125 (“Work and Workflow of Digital Scholarly Editions.”)
 
 **Lecture 9 (Feb 17)** The Guidelines of the Text Encoding Initiative (1)
 >
