@@ -90,22 +90,23 @@ Lecture 18 (March 30) Advanced XSLT (1): from XML to HTML
 P. Spence, E. Pierazzo, J. Bradley, An XSLT Tutorial. Introducing XSLT in a Humanities Context. King College London, 2007 (Chapters 3, 4); S. Bauman, and J. Flanders, [*“Navigating the Tree.”*] Brown University, 2012.
 
 **Lecture 19 (April 4)** Advanced XSLT (2): from XML to HTML
-P. Spence, E. Pierazzo, J. Bradley, An XSLT Tutorial. Introducing XSLT in a Humanities Context. King College London, 2007 (Chapters 5).
+P. Spence, E. Pierazzo, J. Bradley, *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. King College London, 2007 (Chapters 5).
 **Lecture 20 (April 6)** Advanced XSLT (3): from XML to other outputs
-J. Flanders, Syd Bauman, and WWP, “Built-in templates rules and how to override them”, “The XSLT Processing Model”, “Variables and Conditionals”, Brown University, 2012.
+J. Flanders, Syd Bauman, and WWP, [“Built-in templates rules and how to override them”](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt/djb_built-in_template_rules.xml#%281%29), [“The XSLT Processing Model”](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt_intro/xslt_processing.xml#%281%29), [“Variables and Conditionals”](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt_intro/conditionals.xml#%281%29), Brown University, 2012.
 
 **Lecture 21 (April 11)** (Unit 6) Creating the web prototype: the infrastructure
-S. Allés Torrent, Infrastructures for Digital Editions (Instructor’s notes); TEI Wiki, “Ways to Publish TEI on the Web,”; James Cummings, “Editing options.” digital.humanities@Oxford, 2009.
-Lecture 22 (April 13) Introduction to Jekyll 
-Jekyll Tips, Get Started Guide, 2015; Jekyll, Documentation, 2015. 
+S. Allés Torrent, "Infrastructures for Digital Editions" (Instructor’s notes); TEI Wiki, [“Ways to Publish TEI on the Web,”](http://wiki.tei-c.org/index.php/Ways_to_Publish_TEI_on_the_Web); James Cummings, [“Editing options.”](http://tei.oucs.ox.ac.uk/Talks/2009-04-galway/talk-D1L3_tools.xml) digital.humanities@Oxford, 2009.
+
+**Lecture 22 (April 13)** Introduction to Jekyll 
+Jekyll Tips, [*Get Started Guide*](http://jekyll.tips/), 2015; Jekyll, [*Documentation*](http://jekyllrb.com/docs/home/), 2015. 
 
 **Lecture 23 (April 18)** Technologies in use: Markdown and Liquid (1)
-D. Tennen, and G. Wythoff, “Sustainable Authorship in Plain Text using Pandoc and Markdown.” The Programming Historian, March 19, 2014. 
+D. Tennen, and G. Wythoff, [“Sustainable Authorship in Plain Text using Pandoc and Markdown.”](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*, March 19, 2014. 
 **Lecture 24 (April 20)** Technologies in use: Markdown and Liquid (2)
-Shopify, Liquid. GitHub, 2015
+Shopify, [*Liquid*](https://github.com/Shopify/liquid). GitHub, 2015
 
 **Lecture 25 (April 25)** Quality assurance and evaluation of the web prototype (1)
-Patrick Sahle, “Criteria for Reviewing Scholarly Digital Editions, version 1.1.” A review journal for digital editions and resources, IDE, 2014; MLA, Guidelines for Editors of Scholarly Editions, June 2011. 
+Patrick Sahle, “Criteria for Reviewing Scholarly Digital Editions, version 1.1.” *A review journal for digital editions and resources*, IDE, 2014; MLA, [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions), June 2011. 
 **Lecture 26 (April 27)** Quality assurance and evaluation of the web prototype (2)
 Pierazzo 2015, “8.7. Trusting Digital Editions? Peer Review and Evaluation of Digital Scholarship”, pp. 187-192. 
 
