@@ -66,7 +66,9 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 **Lecture 6 (Feb 8)** (Unit 2) *The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
 >
 - *Lazarillo de Tormes*, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011, pp. 91-205
-- José-Carlos Mainer (ed.), “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013, pp. 281-336 
+- José-Carlos Mainer (ed.), “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013, pp. 281-336
+<br/>
+
 **Lecture 7 (Feb 10)** A data model for the *Lazarillo* 
 >
 - Williard McCarty. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004, pp. 254-271
