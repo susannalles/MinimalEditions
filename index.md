@@ -50,7 +50,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 **Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
 >
-- Kathy Sutherland, “Anglo-American editorial theory.”  Fraistat &  Flanders 2013, pp. 42-78; <br/>Hans Ealter twentieth-century Shakespeares, Fraistat &  Flanders 2013, pp. 79-96
+- Kathy Sutherland, “Anglo-American editorial theory.”  Fraistat &  Flanders 2013, pp. 42-78
 - Miguel Ángel Pérez Priego, *La edición de textos*. Madrid: Síntesis, 2012, pp. 101-114 
 
 **Lecture 4 (Feb 1)** Introduction to Github (1)
