@@ -1,7 +1,7 @@
 ##Creating a Minimal Edition: From the Manuscript to the Web 
 
 ###Instructors:
-Susanna Allés Torrent - sa3251@columbia.edu 
+Susanna Allés Torrent - sa3251@columbia.edu <br/>
 Alexander Gil Fuentes - agil@clumbia.edu 
 
 ###Course description 
@@ -45,31 +45,37 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 **Lecture 2 (Jan 25)** What does it mean to edit a text?	
 David Greetham. “A history of textual scholarship.” *The Cambridge Companion to Textual Scholarship*. Ed. by N. Fraistat and J. Flanders. Cambridge: Cambridge University Press, 2013, pp. 14-42; Miguel Ángel Pérez Priego, *La edición de textos*. Madrid: Síntesis, 2012, pp. 15-46, 47-76; 77-100. 		
+
 **Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
 Kathy Sutherland, “Anglo-American editorial theory.”  Fraistat &  Flanders 2013, pp. 42-78; Hans Ealter twentieth-century Shakespeares, Fraistat &  Flanders 2013, pp. 79-96; Miguel Ángel Pérez Priego, *La edición de textos*. Madrid: Síntesis, 2012, pp. 101-114. 
 
 **Lecture 4 (Feb 1)** Introduction to Github (1)
 [GiHub, GiHub Guides](https://guides.github.com/), 2015; Richard MacManus, [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), *ReadWrite*, Sept. 30, 2013.
+
 **Lecture 5 (Feb 3)** Introduction to Github (2)
 GitHub, [BootCamp](https://help.github.com/categories/bootcamp/), 2015; Dennis Tennen, [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), Github, 2015. 
 
 **Lecture 6 (Feb 8)** (Unit 2) *The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
 *Lazarillo de Tormes*, edición, estudio y notas de Francisco Rico. Madrid: Real Academia Española – Barcelona: Galaxia Gutenberg-Círculo de Lectores, 2011, pp. 91-205; José-Carlos Mainer (ed.), “Caminos de la ficción.” *Historia de la literatura española*. Madrid: Crítica, 2013, pp. 281-336 
+
 **Lecture 7 (Feb 10)** A data model for the *Lazarillo* 
 Williard McCarty. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004, pp. 254-271; Patrick Sahle, “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015; Elena Pierazzo, *Digital Scholarly Editing. Theories, Models and Methods*, Aldershot: Ashgate, 2015, 37-64, 65-84.
 .
 **Lecture 8 (Feb 15)** (Unit 3) Introduction to the Extensible Markup Languages
 “[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).” *P5: Guidelines for Electronic Text Encoding and Interchange*, Version 2.9.1. Last updated on 15th October 2015; Pierazzo 2015, 103-125 (“Work and Workflow of Digital Scholarly Editions.”).
+
 **Lecture 9 (Feb 17)** The Guidelines of the Text Encoding Initiative (1)
 Lou Burnard, [*What is the Text Encoding Initiative? How to add intelligent markup to digital resources*](http://books.openedition.org/oep/679?lang=en), Marseille: Open Edition Press, 2014 (Part I); S. Allés Torrent, [Introduction to TEI](http://susannalles.github.io/Web-TEI/1.1.html) (Instructor’s notes). 
 
 **Lecture 10 (Feb 22)** The Guidelines of the Text Encoding Initiative (2)
 Lou Burnard, [What is the Text Encoding Initiative?](http://books.openedition.org/oep/679?lang=en), 2014 (Part II); Ron Van den Branden, Melissa Terras & Edward Vanhoutte. [TEI by Example](http://www.teibyexample.org). (0-3)
+
 **Lecture 11 (Feb 24)** The Guidelines of the Text Encoding Initiative (3)
 Ron Van den Branden, Melissa Terras & Edward Vanhoutte. [TEI by Example](http://www.teibyexample.org). (4-7)
 
 **Lecture 12 (Feb 29)** The role of schemas and ODD documents
 Ron Van den Branden, Melissa Terras & Edward Vanhoutte. [TEI by Example](http://www.teibyexample.org). (“8. Customising TEI, ODD, Roma”); J. Flanders, and Syd Bauman, “[RELAX NG for ODD-Writing](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/rng_odd/rng_odd.xml)”. Introduction to TEI Customization @ Brown University, May 2013.
+
 **Lecture 13 (March 2)** The encoding praxis: Practical session (no reading assignments).
 
 **Midterm (March 7)**
@@ -81,16 +87,19 @@ Michaud, Thomas. *[Foundations of Web design : introduction to HTML and CSS](htt
 
 **Lecture 15 (March 21)** Designing the web: HTML & CSS (1)
 Michaud, Thomas. [*Foundations of Web design : introduction to HTML and CSS*](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270). [San Francisco]: New Riders, [2014] (“05. CSS Introduction”, “Part 02”)
+
 **Lecture 16 (March 23)** Designing the web: CSS (2)
 Michaud, Thomas. [*Foundations of Web design : introduction to HTML and CSS*](http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/9780133408270). [San Francisco]: New Riders, [2014] (“05. CSS Introduction”, “Part 03”)
 
 **Lecture 17 (March 28)** (Unit 5) Transforming the code: (XSLT)
 P. Spence, E. Pierazzo, J. Bradley, *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. King College London, 2007 (Chapters 1, 2); S. Bauman, and J. Flanders, [*“A Gentle Introduction to XSLT.”*](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt_intro/xslt_intro.xml#%281%29) Brown University, 2012; Susanna Allés Torrent, “Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT,” *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21.
-Lecture 18 (March 30) Advanced XSLT (1): from XML to HTML
-P. Spence, E. Pierazzo, J. Bradley, An XSLT Tutorial. Introducing XSLT in a Humanities Context. King College London, 2007 (Chapters 3, 4); S. Bauman, and J. Flanders, [*“Navigating the Tree.”*] Brown University, 2012.
+
+**Lecture 18 (March 30)** Advanced XSLT (1): from XML to HTML
+P. Spence, E. Pierazzo, J. Bradley, *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. King College London, 2007 (Chapters 3, 4); S. Bauman, and J. Flanders, [*“Navigating the Tree.”*] Brown University, 2012.
 
 **Lecture 19 (April 4)** Advanced XSLT (2): from XML to HTML
 P. Spence, E. Pierazzo, J. Bradley, *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. King College London, 2007 (Chapters 5).
+
 **Lecture 20 (April 6)** Advanced XSLT (3): from XML to other outputs
 J. Flanders, Syd Bauman, and WWP, [“Built-in templates rules and how to override them”](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt/djb_built-in_template_rules.xml#%281%29), [“The XSLT Processing Model”](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt_intro/xslt_processing.xml#%281%29), [“Variables and Conditionals”](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt_intro/conditionals.xml#%281%29), Brown University, 2012.
 
@@ -102,11 +111,13 @@ Jekyll Tips, [*Get Started Guide*](http://jekyll.tips/), 2015; Jekyll, [*Documen
 
 **Lecture 23 (April 18)** Technologies in use: Markdown and Liquid (1)
 D. Tennen, and G. Wythoff, [“Sustainable Authorship in Plain Text using Pandoc and Markdown.”](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*, March 19, 2014. 
+
 **Lecture 24 (April 20)** Technologies in use: Markdown and Liquid (2)
 Shopify, [*Liquid*](https://github.com/Shopify/liquid). GitHub, 2015
 
 **Lecture 25 (April 25)** Quality assurance and evaluation of the web prototype (1)
 Patrick Sahle, “Criteria for Reviewing Scholarly Digital Editions, version 1.1.” *A review journal for digital editions and resources*, IDE, 2014; MLA, [*Guidelines for Editors of Scholarly Editions*](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions), June 2011. 
+
 **Lecture 26 (April 27)** Quality assurance and evaluation of the web prototype (2)
 Pierazzo 2015, “8.7. Trusting Digital Editions? Peer Review and Evaluation of Digital Scholarship”, pp. 187-192. 
 
