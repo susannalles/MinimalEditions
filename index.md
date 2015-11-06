@@ -60,7 +60,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 **Lecture 7 (Feb 10)** A data model for the *Lazarillo* 
 >Williard McCarty. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. Ed. S. Schreibman, et al. Malden: Blackwell, 2004, pp. 254-271; <br/>Patrick Sahle, “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015; <br/>Elena Pierazzo, *Digital Scholarly Editing. Theories, Models and Methods*, Aldershot: Ashgate, 2015, 37-64, 65-84.
-.
+
 **Lecture 8 (Feb 15)** (Unit 3) Introduction to the Extensible Markup Languages
 >“[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).” *P5: Guidelines for Electronic Text Encoding and Interchange*, Version 2.9.1. Last updated on 15th October 2015; <br/>Pierazzo 2015, 103-125 (“Work and Workflow of Digital Scholarly Editions.”).
 
