@@ -44,7 +44,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 **Lecture 1 (Jan 20)** (Unit 1) General introduction to textual scholarship and text editing
 
 **Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
->David Greetham. “A history of textual scholarship.” *The Cambridge Companion to Textual Scholarship*. Ed. by N. Fraistat and J. Flanders. Cambridge: Cambridge University Press, 2013, pp. 14-42; <br/> Miguel Ángel Pérez Priego, *La edición de textos*. Madrid: Síntesis, 2012, pp. 15-46, 47-76; 77-100. 		
+>-David Greetham. “A history of textual scholarship.” *The Cambridge Companion to Textual Scholarship*. Ed. by N. Fraistat and J. Flanders. Cambridge: Cambridge University Press, 2013, pp. 14-42 <br/>- Miguel Ángel Pérez Priego, *La edición de textos*. Madrid: Síntesis, 2012, pp. 15-46, 47-76; 77-100. 		
 
 **Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
 >Kathy Sutherland, “Anglo-American editorial theory.”  Fraistat &  Flanders 2013, pp. 42-78; <br/>Hans Ealter twentieth-century Shakespeares, Fraistat &  Flanders 2013, pp. 79-96; <br/>Miguel Ángel Pérez Priego, *La edición de textos*. Madrid: Síntesis, 2012, pp. 101-114. 
