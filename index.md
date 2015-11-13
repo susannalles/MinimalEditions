@@ -2,7 +2,7 @@
 
 ###Instructors:
 Susanna Allés Torrent - sa3251@columbia.edu <br/>
-Alexander Gil Fuentes - agil@clumbia.edu 
+Alexander Gil Fuentes - agil@columbia.edu 
 
 ###Course description 
 The main goal of this course is to introduce students to textual scholarship in general and digital scholarly editing in particular. The main outcome of this new course will be to publish a small-scale digital scholarly edition online of one of the most remarkable Spanish literary works, the Lazarillo de Tormes (XVIth century). The course is conceived as a combination between collaborative research and technical skills. At all steps of the process, we will work together toward the completion of our digital edition. Unlike other courses in digital editing taught worldwide, this course will introduce you to a "full stack," giving you the ability to make your own digital editions in the future without the need for funding, a publisher, or a "technical" team.  The course will be divided into lectures and recitation sessions, in order to offer theoretical concepts and to transfer them into practice. 
