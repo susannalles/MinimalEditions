@@ -10,14 +10,57 @@
             <author xml:id="AG">Alex Gil</author>
          </titleStmt>
          <publicationStmt>
-            <p>Columbia University</p>
+            <p>Edición digital para el curso "Creating a Minimal Edition: From the Manuscript to the
+               Text". Department of Latin American and Iberian Cultures, Columbia University</p>
          </publicationStmt>
          <sourceDesc>
-            <!-- Editions of the Lazarillo -->
-            <p>1554</p>
+            <!-- Ediciones del Lazarillo -->
+            <!-- 1 -->
+            <bibl>
+               <title>La vida de Lazarillo de Tormes y de sus fortunas y adversidades</title>
+               <placeName>Medina del Campo</placeName>
+               <publisher>en la imprenta de Mattheo y Francisco del Canto</publisher>
+               <date>1554</date>
+               <!-- Biblioteca de Extremadura: http://biex.gobex.es/biex/core/portada.action -->
+               <!-- Solo un ejemplar: -->
+               <!-- Portada: https://es.wikipedia.org/wiki/La_vida_de_Lazarillo_de_Tormes#/media/File:Lazarillo_de_Tormes.png -->
+            </bibl>
+
+            <!-- 2 -->
+            <bibl>
+               <title>La vida de Lazarillo de Tormes y de sus fortunas y adversidades</title>
+               <placeName>Amberes</placeName>
+               <publisher>en casa de Martin Nucio</publisher>
+               <date>1554</date>
+               <!-- Biblioteca Digital Hispánica, BNE: http://bdh-rd.bne.es/viewer.vm?id=0000120999&page=1  -->
+               <!-- Se conservan 7 ejemplares -->
+               <!-- Portada: https://es.wikipedia.org/wiki/La_vida_de_Lazarillo_de_Tormes#/media/File:Lazarillo-Amberes-Martin_Nucio.jpg  -->
+            </bibl>
+
+            <!-- 3 -->
+            <bibl>
+               <title>La vida de Lazarillo de Tormes y de sus fortunas y adversidades. Nuevamente
+                  impressa, corregida, y de nuevo añadida en esta segunda impression</title>
+               <placeName>Alcalá de Henares</placeName>
+               <publisher>en casa de Salcedo Librero</publisher>
+               <date>1554</date>
+               <!-- Solo un ejemplar:  -->
+               <!-- Portada: https://es.wikipedia.org/wiki/La_vida_de_Lazarillo_de_Tormes#/media/File:Lazarillo-Alcala_de_Henares-Salcedo.jpg -->
+            </bibl>
+
+            <!-- 4 -->
+            <bibl>
+               <title>La vida de Lazarillo de Tormes y de sus fortunas y adversidades</title>
+               <placeName>Burgos</placeName>
+               <publisher>Junta de Junta</publisher>
+               <date>1554</date>
+               <!-- Portada: https://es.wikipedia.org/wiki/La_vida_de_Lazarillo_de_Tormes#/media/File:Lazarillo-Burgos-Juan_de_Junta.jpg -->
+               <!-- Solo un ejemplar: -->
+            </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+
    <text>
       <front>
          <div type="prologo">
@@ -92,19 +135,19 @@
                mal gesto que tenía; mas, de que vi que con su venida mejoraba el comer, fuile
                queriendo bien, porque siempre traía pan, pedazos de carne y en el invierno leños a
                que nos calentábamos. </p>
-            <p>De manera que, continuando la posada y conversación, mi madre vino a darme un negrito
-               muy bonito, el cual yo brincaba y ayudaba a calentar. Y acuérdome que, estando el
-               negro de mi padrastro trebejando con el mozuelo, como el niño vía a mi madre y a mí
-               blancos y a él no, huía de él, con miedo, para mi madre, y, señalando con el dedo,
-               decía: </p>
-            <sp>
+            <p>De manera que, continuando la posada y conversación, mi madre vino a darme un
+                  <persName xml:id="hermano">negrito</persName> muy bonito, el cual yo brincaba y
+               ayudaba a calentar. Y acuérdome que, estando el negro de mi padrastro trebejando con
+               el mozuelo, como el niño vía a mi madre y a mí blancos y a él no, huía de él, con
+               miedo, para mi madre, y, señalando con el dedo, decía: </p>
+            <sp who="#hermano">
                <p>-¡Madre, coco! </p>
             </sp>
             <p>Respondió él riendo: </p>
-            <sp>
+            <sp who="#Zaide">
                <p> -¡Hideputa! </p>
             </sp>
-            <sp>
+            <sp who="#Lazaro">
                <p>Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre mí:
                      <quote>«¡Cuántos debe de haber en el mundo que huyen de otros porque no se ven
                      a sí mismos!»</quote>. </p>
@@ -142,7 +185,7 @@
                días, pareciéndole a <persName corresp="#ciego">mi amo</persName> que no era la
                ganancia a su contento, determinó irse de allí; y cuando nos hubimos de partir, yo
                fui a ver a mi madre, y, ambos llorando, me dio su bendición y dijo: </p>
-            <sp>
+            <sp who="#TGonzalez">
                <p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y Dios te guíe. Criado te
                   he y con buen amo te he puesto; válete por ti. </p>
             </sp>
@@ -152,14 +195,14 @@
                puente, está a la entrada de ella un animal de piedra, que casi tiene forma de toro,
                y el <persName corresp="#ciego">ciego</persName> mandóme que llegase cerca del
                animal, y, allí puesto, me dijo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-<persName corresp="#lazaro">Lázaro</persName>, llega el oído a este toro y oirás
                   gran ruido dentro de él. </p>
             </sp>
             <p> Yo simplemente llegué, creyendo ser así. Y como sintió que tenía la cabeza par de la
                piedra, afirmó recio la mano y diome una gran calabazada en el diablo del toro, que
                más de tres días me duró el dolor de la cornada, y díjome: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Necio, aprende, que el mozo del <persName corresp="#ciego">ciego</persName> un
                   punto ha de saber más que el diablo. </p>
             </sp>
@@ -169,7 +212,7 @@
                   avisar, pues solo soy, y pensar cómo me sepa valer»</quote>. </p>
             <p>Comenzamos nuestro camino, y en muy pocos días me mostró jerigonza. Y, como me viese
                de buen ingenio, holgábase mucho y decía: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te mostraré.
                </p>
             </sp>
@@ -191,7 +234,7 @@
                decía que <persName xml:id="Galeno">Galeno</persName> no supo la mitad que él para
                muelas, desmayos, males de madre. Finalmente, nadie le decía padecer alguna pasión,
                que luego no le decía: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Haced esto, haréis esto otro, cosed tal yerba, tomad tal raíz. </p>
             </sp>
             <p>Con esto andábase todo el mundo tras él, especialmente mujeres, que cuanto les decía
@@ -220,7 +263,7 @@
                él echaba la mano, ya iba de mi cambio aniquilada en la mitad del justo precio.
                Quejábaseme el mal <persName corresp="#ciego">ciego</persName>, porque al tiento
                luego conocía y sentía que no era blanca entera, y decía: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¿Qué diablo es esto, que, después que conmigo estás, no me dan sino medias
                   blancas, y de antes una blanca y un maravedí hartas veces me pagaban? En ti debe
                   estar esta desdicha. </p>
@@ -228,7 +271,7 @@
             <p>También él abreviaba el rezar y la mitad de la oración no acababa, porque me tenía
                mandado que, en yéndose el que la mandaba rezar, le tirase por cabo del capuz. Yo así
                lo hacía. Luego él tornaba a dar voces diciendo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¿Mandan rezar tal y tal oración? -como suelen decir. </p>
             </sp>
             <p>Usaba poner cabe sí un jarrillo de vino cuando comíamos, y yo muy de presto le asía y
@@ -272,7 +315,7 @@
                aunque me quería y regalaba y me curaba, bien vi que se había holgado del cruel
                castigo. Lavóme con vino las roturas que con los pedazos del jarro me había hecho, y,
                sonriéndose, decía: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¿Qué te parece <persName corresp="#Lazaro">Lázaro</persName>? Lo que te enfermó
                   te sana y da salud -y otros donaires que a mi gusto no lo eran. </p>
             </sp>
@@ -285,16 +328,18 @@
                repelándome. </p>
             <p>Y si alguno le decía por qué me trataba tan mal, luego contaba el cuento del jarro,
                diciendo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¿Pensaréis que este mi mozo es algún inocente? Pues oíd si el demonio ensayara
                   otra tal hazaña. </p>
             </sp>
             <p>Santiguándose los que lo oían, decían: </p>
             <sp>
+               <!--SAT: Aquí habla la gente -->
                <p>-¡Mirad quién pensara de un muchacho tan pequeño tal ruindad! </p>
             </sp>
             <p>Y reían mucho el artificio y decíanle: </p>
             <sp>
+               <!--SAT: Aquí habla la gente -->
                <p>-¡Castigadlo, castigadlo, que de Dios lo habréis! </p>
             </sp>
             <p>Y él, con aquello, nunca otra cosa hacía. </p>
@@ -321,7 +366,7 @@
                echarlo en el fardel, tornábase mosto, y lo que a él se llegaba. Acordó de hacer un
                banquete, así por no poder llevarlo, como por contentarme, que aquel día me había
                dado muchos rodillazos y golpes. Sentámonos en un valladar y dijo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Agora quiero yo usar contigo de una liberalidad, y es que ambos comamos este
                   racimo de uvas y que hayas de él tanta parte como yo. Partillo hemos de esta
                   manera: tú picarás una vez y yo otra, con tal que me prometas no tomar cada vez
@@ -333,34 +378,34 @@
                mismo. Como vi que él quebraba la postura, no me contenté ir a la par con él, mas aún
                pasaba adelante: dos a dos y tres a tres y como podía las comía. Acabado el racimo,
                estuvo un poco con el escobajo en la mano, y, meneando la cabeza, dijo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-<persName corresp="#Lazaro">Lázaro</persName>, engañado me has. Juraré yo a Dios
                   que has tú comido las uvas tres a tres. </p>
             </sp>
-            <sp>
+            <sp who="#Lazaro">
                <p>-No comí -dije yo-; mas ¿por qué sospecháis eso? </p>
             </sp>
             <p>Respondió el sagacísimo <persName corresp="#ciego">ciego</persName>: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¿Sabes en qué veo que las comiste tres a tres? En que comía yo dos a dos y
                   callabas. </p>
             </sp>
-            <p>1A lo cual yo no respondí. Yendo que íbamos así por debajo de unos soportales, en
+            <p>A lo cual yo no respondí. Yendo que íbamos así por debajo de unos soportales, en
                   <placeName xml:id="Escalona">Escalona</placeName> adonde a la sazón estábamos, en
                casa de un zapatero había muchas sogas y otras cosas que de esparto se hacen, y parte
                de ellas dieron a <persName corresp="#ciego">mi amo</persName> en la cabeza. El cual,
                alzando la mano, tocó en ellas, y viendo lo que era díjome: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Anda presto, muchacho; salgamos de entre tan mal manjar, que ahoga sin comerlo.
                </p>
             </sp>
             <p>Yo, que bien descuidado iba de aquello, miré lo que era y, como no vi sino sogas y
                cinchas, que no era cosa de comer, díjele: </p>
-            <sp>
+            <sp who="#Lazaro">
                <p>-Tío, ¿por qué decís eso? </p>
             </sp>
             <p>Respondióme: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Calla, sobrino; según las mañas que llevas, lo sabrás y verás cómo digo verdad.
                </p>
             </sp>
@@ -368,23 +413,23 @@
                cual había muchos cuernos en la pared, donde ataban los recueros sus bestias, y como
                iba tentando si era allí el mesón adonde él rezaba cada día por la mesonera la
                oración de la emparedada, asió de un cuerno, y con un gran suspiro dijo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¡Oh, mala cosa, peor que tienes la hechura! ¡De cuántos eres deseado poner tu
                   nombre sobre cabeza ajena y de cuán pocos tenerte ni aun oír tu nombre por ninguna
                   vía! </p>
             </sp>
             <p>Como le oí lo que decía, dije: </p>
-            <sp>
+            <sp who="#Lazaro">
                <p>-Tío, ¿qué es eso que decís? </p>
             </sp>
-            <sp>
+            <sp who="#ciego">
                <p>-Calla, sobrino, que algún día te dará éste que en la mano tengo alguna mala
                   comida y cena. </p>
             </sp>
-            <sp>
+            <sp who="#Lazaro">
                <p>-No le comeré yo -dije- y no me la dará. </p>
             </sp>
-            <sp>
+            <sp who="#ciego">
                <p>-Yo te digo verdad; si no, verlo has, si vives. </p>
             </sp>
             <p>Y así pasamos adelante hasta la puerta del mesón, adonde pluguiere a Dios nunca allá
@@ -415,14 +460,14 @@
                apretado el nabo, al cual aún no había conocido por no haberlo tentado con la mano.
                Como tomase las rebanadas y mordiese en ellas pensando también llevar parte de la
                longaniza, hallóse en frío con el frío nabo. Alteróse y dijo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-¿Qué es esto, <persName corresp="#Lazaro">Lazarillo</persName>? </p>
             </sp>
-            <sp>
+            <sp who="#Lazaro">
                <p>-¡Lacerado de mí! -dije yo-. ¿Si queréis a mí echar algo? ¿Yo no vengo de traer el
                   vino? Alguno estaba ahí y por burlar haría esto. </p>
             </sp>
-            <sp>
+            <sp who="#ciego">
                <p>-No, no -dijo él-, que yo no he dejado el asador de la mano; no es posible. </p>
             </sp>
             <p>Yo torné a jurar y perjurar que estaba libre de aquel trueco y cambio; mas poco me
@@ -462,15 +507,15 @@
             <p>Hiciéronnos amigos la mesonera y los que allí estaban, y, con el vino que para beber
                le había traído, laváronme la cara y la garganta. Sobre lo cual discantaba el mal
                   <persName corresp="#ciego">ciego</persName> donaires, diciendo: </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Por verdad, más vino me gasta este mozo en lavatorios al cabo del año, que yo
-                  bebo en dos. A lo menos, <persName corresp="#Lazaro"><persName corresp="#lazaro"
-                        >Lázaro</persName></persName>, eres en más cargo al vino que a tu padre,
-                  porque él una vez te engendró, mas el vino mil te ha dado la vida. </p>
+                  bebo en dos. A lo menos, <persName corresp="#Lazaro">Lázaro</persName>, eres en
+                  más cargo al vino que a tu padre, porque él una vez te engendró, mas el vino mil
+                  te ha dado la vida. </p>
             </sp>
             <p>Y luego contaba cuántas veces me había descalabrado y arpado la cara, y con vino
                luego sanaba. </p>
-            <sp>
+            <sp who="#ciego">
                <p>-Yo te digo -dijo- que, si hombre en el mundo ha de ser bienaventurado con vino,
                   que serás tú. </p>
             </sp>
@@ -1339,7 +1384,7 @@
                de sospecha, desenvolvíle el jubón y las calzas, que a la cabecera dejó, y hallé una
                bolsilla de terciopelo raso, hecha cien dobleces y sin maldita la blanca ni señal que
                la hubiese tenido mucho tiempo.</p>
-
+            <!-- sp? -->
             <p>
                <quote>«Éste -decía yo- es pobre, y nadie da lo que no tiene; mas el avariento
                      <persName corresp="#ciego">ciego</persName> y el malaventurado mezquino
