@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lazarillo de Tormes</title>
+            <title>Lazarillo de Tormes: digital minimal edition</title>
             <author xml:id="SAT">Susanna Allés Torrent</author>
             <author xml:id="AG">Alex Gil</author>
          </titleStmt>
@@ -63,8 +63,14 @@
 
    <text>
       <front>
+         <pb facs="img/Medina-1554_001.jpg"/>
+         <docTitle>
+            <titlePart>La Vida de Lazarillo de Tormes: y de sus fortunas y adversidades</titlePart>
+            <titlePart><date when="1554">M. D. liiij.</date></titlePart>
+         </docTitle>
+         <pb facs="img/Medina-1554_002.jpg"/>
          <div type="prologo">
-            <p>Prologo</p>
+            <head>Prólogo</head>        
             <p> Yo por bien tengo que cosas tan señaladas, y por ventura nunca oídas ni vistas,
                vengan a noticia de muchos y no se entierren en la sepultura del olvido, pues podría
                ser que alguno que las lea halle algo que le agrade, y a los que no ahondaren tanto
