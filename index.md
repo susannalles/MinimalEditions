@@ -45,7 +45,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 **Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
 > 
-- David Greetham. [“A history of textual scholarship.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A010) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 14-42
+- David Greetham. [“A history of textual scholarship.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A010) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 16-41
 - Miguel Ángel Pérez Priego, *La edición de textos*. 2012, pp. 15-46, 47-76; 77-100 		
 
 **Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
