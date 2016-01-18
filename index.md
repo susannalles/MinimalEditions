@@ -128,7 +128,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 **Lecture 19 (April 4)** Advanced XSLT (2): from XML to HTML
 >
-- Spence, et al., *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. 2007 (Chapters 5)
+- 
 
 **Lecture 20 (April 6)** Advanced XSLT (3): from XML to other outputs
 >
