@@ -8,6 +8,6 @@ Course Materials: Creating a Minimal Edition: From the Manuscript to the Web.
 - Learned about git and version control
 - Created an SSH key 
 - Synchronized a local repository with a remote
-— Received homework to make a change to this file
+- Received homework to make a change to this file
 
 
