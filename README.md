@@ -7,3 +7,4 @@ Course Materials: Creating a Minimal Edition: From the Manuscript to the Web.
 - Installed git
 - Learned about git and version control
 - Created an SSH key 
+- Syncronised a local repository with a remote
