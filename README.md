@@ -13,4 +13,6 @@ Course Materials: Creating a Minimal Edition: From the Manuscript to the Web.
 
 help idk what im doing
 Don't worry! We got you!
-how do I delete a branch?
+
+[Helpful cheat sheet for MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
