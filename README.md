@@ -13,3 +13,5 @@ Course Materials: Creating a Minimal Edition: From the Manuscript to the Web.
 
 help idk what im doing
 Don't worry! We got you!
+
+I am writing on my own branch. 
