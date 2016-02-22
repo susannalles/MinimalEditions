@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tratado tercero</title>
+            <title>Lazarillo de Tormes: A minimal edition</title>
             <author>Taewan Shim</author>
          </titleStmt>
          <publicationStmt>
@@ -21,8 +21,8 @@
       <body>
          <div type="texto">
             <head>Tratado tercero</head>
-            <head>Cómo <persName xml:id="Lazaro">Lázaro</persName> se asentó con un escudero y de lo
-               que le acaeció con él</head>
+            <head>Cómo <persName xml:id="Lazaro">Lázaro</persName> se asentó con un <persName
+                  xml:id="Escudero">escudero</persName> y de lo que le acaeció con él</head>
             <p>De esta manera me fue forzado sacar fuerzas de flaqueza, y poco a poco, con ayuda de
                las buenas gentes, di conmigo en esta insigne ciudad de Toledo, adonde, con la merced
                de Dios, dende a quince días se me cerró la herida. Y, mientras estaba malo, siempre
@@ -32,9 +32,9 @@
             <p><quote>¿Y adónde se hallará ése</quote> -decía yo entre mí-, <quote>si Dios agora de
                   nuevo, como crió el mundo, no le criase?</quote></p>
             <p>Andando así discurriendo de puerta en puerta, con harto poco remedio, porque ya la
-               caridad se subió al cielo, topóme Dios con un escudero que iba por la calle, con
-               razonable vestido, bien peinado, su paso y compás en orden. Miróme, y yo a él, y
-               díjome:</p>
+               caridad se subió al cielo, topóme Dios con un <persName corresp="#Escudero"
+                  >escudero</persName> que iba por la calle, con razonable vestido, bien peinado, su
+               paso y compás en orden. Miróme, y yo a él, y díjome:</p>
             <p><quote>Muchacho, ¿buscas amo?</quote></p>
             <p>Yo le dije:</p>
             <p><quote>Sí, señor.</quote></p>
@@ -77,11 +77,12 @@
                ella parecía casa encantada. Estando así, díjome:</p>
             <p><quote>Tú, mozo, ¿has comido?</quote></p>
             <p><quote>No, señor</quote> -dije yo-, <quote>que aún no eran dadas las ocho cuando con
-                     <persName>Vuestra Merced</persName> encontré.</quote></p>
+                     <persName xml:id="VuestraMerced">Vuestra Merced</persName>
+               encontré.</quote></p>
             <p><quote>Pues, aunque de mañana, yo había almorzado, y, cuando así como algo, hágote
                   saber que hasta la noche me estoy así. Por eso, pásate como pudieres, que después
                   cenaremos.</quote></p>
-            <p><persName xml:id="Vuestra Merced">Vuestra Merced</persName> crea, cuando esto le oí,
+            <p><persName corresp="#VuestraMerced">Vuestra Merced</persName> crea, cuando esto le oí,
                que estuve en poco de caer de mi estado, no tanto de hambre como por conocer de todo
                en todo la fortuna serme adversa. Allí se me representaron de nuevo mis fatigas y
                torné a llorar mis trabajos; allí se me vino a la memoria la consideración que hacía
@@ -137,11 +138,11 @@
                flaquísimo puerco. Y sobre aquel hambriento colchón, un alfamar del mismo jaez, del
                cual el color yo no pude alcanzar.</p>
             <p>Hecha la cama, y la noche venida, díjome:</p>
-            <p><quote><persName>Lázaro</persName>, ya es tarde, y de aquí a la plaza hay gran
-                  trecho. También en esta ciudad andan muchos ladrones, que, siendo de noche,
-                  capean. Pasemos como podamos, y mañana, venido el día, Dios hará merced; porque
-                  yo, por estar solo, no estoy proveído, antes he comido estos días por allá fuera.
-                  Mas agora hacerlo hemos de otra manera.</quote></p>
+            <p><quote><persName corresp="#Lazaro">Lázaro</persName>, ya es tarde, y de aquí a la
+                  plaza hay gran trecho. También en esta ciudad andan muchos ladrones, que, siendo
+                  de noche, capean. Pasemos como podamos, y mañana, venido el día, Dios hará merced;
+                  porque yo, por estar solo, no estoy proveído, antes he comido estos días por allá
+                  fuera. Mas agora hacerlo hemos de otra manera.</quote></p>
             <p><quote>Señor, de mí</quote> -dije yo- <quote>ninguna pena tenga <persName>Vuestra
                      Merced</persName>, que bien sé pasar una noche y aún más, si es menester, sin
                   comer.</quote></p>
@@ -173,10 +174,10 @@
                paso sosegado y el cuerpo derecho, haciendo con él y con la cabeza muy gentiles
                meneos, echando el cabo de la capa sobre el hombro y a veces so el brazo, y poniendo
                la mano derecha en el costado, salió por la puerta, diciendo:</p>
-            <p><quote><persName>Lázaro</persName>, mira por la casa en tanto que voy a oír misa, y
-                  haz la cama y ve por la vasija de agua al río, que aquí bajo está, y cierra la
-                  puerta con llave, no nos hurten algo, y ponla aquí al quicio porque, si yo viniere
-                  en tanto, pueda entrar.</quote></p>
+            <p><quote><persName corresp="#Lazaro">Lázaro</persName>, mira por la casa en tanto que
+                  voy a oír misa, y haz la cama y ve por la vasija de agua al río, que aquí bajo
+                  está, y cierra la puerta con llave, no nos hurten algo, y ponla aquí al quicio
+                  porque, si yo viniere en tanto, pueda entrar.</quote></p>
             <p>Y súbese por la calle arriba con tan gentil semblante y continente, que quien no le
                conociera pensara ser muy cercano pariente al conde de Arcos, o, al menos, camarero
                que le daba de vestir. </p>
@@ -187,12 +188,12 @@
                   secretos son, Señor, los que vos hacéis y las gentes ignoran! ¿A quién no engañará
                   aquella buena disposición y razonable capa y sayo? ¿Y quién pensará que aquel
                   gentil hombre se pasó ayer todo el día sin comer con aquel mendrugo de pan que su
-                  criado <persName>Lázaro</persName> trajo un día y una noche en el arca de su seno,
-                  do no se le podía pegar mucha limpieza, y hoy, lavándose las manos y cara, a falta
-                  de paño de manos, se hacía servir de la halda del sayo? Nadie por cierto lo
-                  sospechará. ¡Oh Señor, y cuántos de aquéstos debéis Vos tener por el mundo
-                  derramados, que padecen por la negra que llaman honra, lo que por Vos no
-                  sufrirán!</quote></p>
+                  criado <persName corresp="#Lazaro">Lázaro</persName> trajo un día y una noche en
+                  el arca de su seno, do no se le podía pegar mucha limpieza, y hoy, lavándose las
+                  manos y cara, a falta de paño de manos, se hacía servir de la halda del sayo?
+                  Nadie por cierto lo sospechará. ¡Oh Señor, y cuántos de aquéstos debéis Vos tener
+                  por el mundo derramados, que padecen por la negra que llaman honra, lo que por Vos
+                  no sufrirán!</quote></p>
             <p>Así estaba yo a la puerta, mirando y considerando estas cosas y otras muchas, hasta
                que el señor mi amo traspuso la larga y angosta calle. Y, como lo vi trasponer,
                tornéme a entrar en casa y en un credo la anduve toda, alto y bajo, sin hacer
@@ -260,9 +261,9 @@
                la vianda y menos mi hambre.</p>
             <p>Quiso Dios cumplir mi deseo, y aun pienso que el suyo; porque como comencé a comer y
                él se andaba paseando, llegóse a mí y díjome:</p>
-            <p>Dígote, <persName>Lázaro</persName>, que tienes en comer la mejor gracia que en mi
-               vida vi a hombre, y que nadie te lo verá hacer que no le pongas gana, aunque no la
-               tenga.</p>
+            <p>Dígote, <persName corresp="#Lazaro">Lázaro</persName>, que tienes en comer la mejor
+               gracia que en mi vida vi a hombre, y que nadie te lo verá hacer que no le pongas
+               gana, aunque no la tenga.</p>
             <p><quote>La muy buena que tú tienes</quote> -dije yo entre mí- <quote>te hace parecer
                   la mía hermosa.</quote></p>
             <p>Con todo, parecióme ayudarle, pues se ayudaba y me abría camino para ello, y
@@ -287,7 +288,8 @@
                nos fuimos a dormir, como la noche pasada.</p>
             <p>Y por evitar prolijidad, de esta manera estuvimos ocho o diez días, yéndose el
                pecador en la mañana con aquel contento y paso contado a papar aire por las calles,
-               teniendo en el pobre <persName>Lázaro</persName> una cabeza de lobo.</p>
+               teniendo en el pobre <persName corresp="#Lazaro">Lázaro</persName> una cabeza de
+               lobo.</p>
             <p>Contemplaba yo muchas veces mi desastre, que, escapando de los amos ruines que había
                tenido y buscando mejoría, viniese a topar con quien no sólo no me mantuviese, mas a
                quien yo había de mantener. Con todo, le quería bien, con ver que no tenía ni podía
@@ -339,14 +341,14 @@
                o ventura, en el pobre poder de mi amo entró un real, con el cual él vino a casa tan
                ufano como si tuviera el tesoro de Venecia, y con gesto muy alegre y risueño me lo
                dio, diciendo: </p>
-            <p><quote>Toma, <persName>Lázaro</persName>, que Dios ya va abriendo su mano. Ve a la
-                  plaza y merca pan y vino y carne: ¡quebremos el ojo al diablo! Y más te hago
-                  saber, porque te huelgues: que he alquilado otra casa y en ésta desastrada no
-                  hemos de estar más de en cumpliendo el mes. ¡Maldita sea ella y el que en ella
-                  puso la primera teja, que con mal en ella entré! Por nuestro Señor, cuanto ha que
-                  en ella vivo, gota de vino ni bocado de carne no he comido, ni he habido descanso
-                  ninguno; mas ¡tal vista tiene y tal oscuridad y tristeza! Ve y ven presto y
-                  comamos hoy como condes.</quote></p>
+            <p><quote>Toma, <persName corresp="#Lazaro">Lázaro</persName>, que Dios ya va abriendo
+                  su mano. Ve a la plaza y merca pan y vino y carne: ¡quebremos el ojo al diablo! Y
+                  más te hago saber, porque te huelgues: que he alquilado otra casa y en ésta
+                  desastrada no hemos de estar más de en cumpliendo el mes. ¡Maldita sea ella y el
+                  que en ella puso la primera teja, que con mal en ella entré! Por nuestro Señor,
+                  cuanto ha que en ella vivo, gota de vino ni bocado de carne no he comido, ni he
+                  habido descanso ninguno; mas ¡tal vista tiene y tal oscuridad y tristeza! Ve y ven
+                  presto y comamos hoy como condes.</quote></p>
             <p>Tomo mi real y jarro y, a los pies dándoles prisa, comienzo a subir mi calle
                encaminando mis pasos para la plaza, muy contento y alegre. Mas, ¿qué me aprovecha,
                si está constituido en mi triste fortuna que ningún gozo me venga sin zozobra? Y así
@@ -380,19 +382,20 @@
                aldaba a la puerta y puesto el hombro en ella por más defensa. Pasó la gente con su
                muerto, y yo todavía me recelaba que nos le habían de meter en casa. Y, desque fue ya
                más harto de reír que de comer, el bueno de mi amo, díjome:</p>
-            <p><quote>Verdad es, <persName>Lázaro</persName>, según la viuda lo va diciendo, tú
-                  tuviste razón de pensar lo que pensaste; mas, pues Dios lo ha hecho mejor y pasan
-                  adelante, abre, abre y ve por de comer.</quote></p>
+            <p><quote>Verdad es, <persName corresp="#Lazaro">Lázaro</persName>, según la viuda lo va
+                  diciendo, tú tuviste razón de pensar lo que pensaste; mas, pues Dios lo ha hecho
+                  mejor y pasan adelante, abre, abre y ve por de comer.</quote></p>
             <p><quote>Dejálos, señor, acaben de pasar la calle</quote> -dije yo.</p>
             <p>Al fin vino mi amo a la puerta de la calle, y ábrela esforzándome, que bien era
                menester, según el miedo y alteración, y me torno a encaminar. Mas, aunque comimos
                bien aquel día, maldito el gusto yo tomaba en ello. Ni en aquellos tres días torné en
                mi color. Y mi amo, muy risueño todas las veces que se le acordaba aquella mi
                consideración.</p>
-            <p>De esta manera estuve con mi tercero y pobre amo, que fue este escudero, algunos
-               días, y en todos deseando saber la intención de su venida y estada en esta tierra;
-               porque, desde el primer día que con él asenté, le conocí ser extranjero, por el poco
-               conocimiento y trato que con los naturales de ella tenía.</p>
+            <p>De esta manera estuve con mi tercero y pobre amo, que fue este <persName
+                  corresp="#Escudero">escudero</persName>, algunos días, y en todos deseando saber
+               la intención de su venida y estada en esta tierra; porque, desde el primer día que
+               con él asenté, le conocí ser extranjero, por el poco conocimiento y trato que con los
+               naturales de ella tenía.</p>
             <p>Al fin se cumplió mi deseo y supe lo que deseaba; porque, un día que habíamos comido
                razonablemente y estaba algo contento, contóme su hacienda y díjome ser de Castilla
                la Vieja, y que había dejado su tierra no más de por no quitar el bonete a un
@@ -407,15 +410,15 @@
                   con mis mayores que yo y que tienen más.</quote></p>
             <p><quote>Eres muchacho</quote> -me respondió- <quote>y no sientes las cosas de honra,
                   en que el día de hoy está todo el caudal de los hombres de bien. Pues te hago
-                  saber que yo soy, como ves, un escudero; mas ¡vótote a Dios!, si al Conde topo en
-                  la calle y no me quita muy bien quitado del todo el bonete, que otra vez que
-                  venga, me sepa yo entrar en una casa, fingiendo yo en ella algún negocio, o
-                  atravesar otra calle, si la hay, antes que llegue a mí, por no quitárselo. Que un
-                  hidalgo no debe a otro que a Dios y al rey nada, ni es justo, siendo hombre de
-                  bien, se descuide un punto de tener en mucho su persona. Acuérdome que un día
-                  deshonré en mi tierra a un oficial y quise poner en él las manos, porque cada vez
-                  que le topaba, me decía: <quote>Mantenga Dios a <persName>Vuestra
-                        Merced</persName>.</quote>
+                  saber que yo soy, como ves, un <persName corresp="#Escudero">escudero</persName>;
+                  mas ¡vótote a Dios!, si al Conde topo en la calle y no me quita muy bien quitado
+                  del todo el bonete, que otra vez que venga, me sepa yo entrar en una casa,
+                  fingiendo yo en ella algún negocio, o atravesar otra calle, si la hay, antes que
+                  llegue a mí, por no quitárselo. Que un hidalgo no debe a otro que a Dios y al rey
+                  nada, ni es justo, siendo hombre de bien, se descuide un punto de tener en mucho
+                  su persona. Acuérdome que un día deshonré en mi tierra a un oficial y quise poner
+                  en él las manos, porque cada vez que le topaba, me decía: <quote>Mantenga Dios a
+                        <persName>Vuestra Merced</persName>.</quote>
                   <quote>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
                      ¿Manténgaos Dios, me habéis de decir, como si fuese quienquiera?</quote> De
                   allí adelante, de aquí acullá, me quitaba el bonete y hablaba como
@@ -424,11 +427,12 @@
                   <quote>decirle que le mantenga Dios?</quote></p>
             <p><quote>¡Mira, mucho de enhoramala!</quote> -dijo él-. <quote>A los hombres de poca
                   arte dicen eso; mas a los más altos, como yo, no les han de hablar menos de:
-                     <quote>Beso las manos de <persName>Vuestra Merced</persName></quote>, o por lo
-                  menos: <quote>Bésoos, señor, las manos</quote>, si el que me habla es caballero. Y
-                  así, de aquél de mi tierra que me atestaba de mantenimiento, nunca más le quise
-                  sufrir, ni sufriría ni sufriré a hombre del mundo, del rey abajo, que:
-                     <quote>Manténgaos Dios</quote>, me diga.</quote></p>
+                     <quote>Beso las manos de <persName corresp="#VuestraMerced">Vuestra
+                        Merced</persName></quote>, o por lo menos: <quote>Bésoos, señor, las
+                     manos</quote>, si el que me habla es caballero. Y así, de aquél de mi tierra
+                  que me atestaba de mantenimiento, nunca más le quise sufrir, ni sufriría ni
+                  sufriré a hombre del mundo, del rey abajo, que: <quote>Manténgaos Dios</quote>, me
+                  diga.</quote></p>
             <p><quote>Pecador de mí</quote> -dije yo-, <quote>por eso tiene tan poco cuidado de
                   mantenerte, pues no sufres que nadie se lo ruegue.</quote></p>
             <p><quote>Mayormente</quote> -dijo- <quote>que no soy tan pobre que no tengo en mi
@@ -441,21 +445,21 @@
                   como pensé. Canónigos y señores de la iglesia muchos hallo; mas es gente tan
                   limitada que no los sacarán de su paso todo el mundo. Caballeros de media talla
                   también me ruegan; mas servir a éstos es gran trabajo, porque de hombre os habéis
-                  de convertir en malilla, y, si no, <quote>andad con Dios</quote> os dicen. Y las más veces son
-                  los pagamentos a largos plazos, y las más y las más ciertas, comido por servido.
-                  Ya, cuando quieren reformar consciencia y satisfaceros vuestros sudores, sois
-                  librado en la recámara, en un sudado jubón o raída capa o sayo. Ya, cuando asienta
-                  un hombre con un señor de título, todavía pasa su lacería. Pues por ventura ¿no
-                  hay en mí habilidad para servir y contentar a éstos? Por Dios, si con él topase,
-                  muy gran su privado pienso que fuese, y que mil servicios le hiciese, porque yo
-                  sabría mentille tan bien como otro y agradalle a las mil maravillas. Reílle ya
-                  mucho sus donaires y costumbres, aunque no fuesen las mejores del mundo; nunca
-                  decille cosa con que le pesase, aunque mucho le cumpliese; ser muy diligente en su
-                  persona, en dicho y hecho; no me matar por no hacer bien las cosas que él no había
-                  de ver, y ponerme a reñir, donde él lo oyese, con la gente de servicio, porque
-                  pareciese tener gran cuidado de lo que a él tocaba. Si riñese con algún su criado,
-                  dar unos puntillos agudos para encenderle la ira y que pareciesen en favor del
-                  culpado; decirle bien de lo que bien le estuviese y, por el contrario, ser
+                  de convertir en malilla, y, si no, <quote>andad con Dios</quote> os dicen. Y las
+                  más veces son los pagamentos a largos plazos, y las más y las más ciertas, comido
+                  por servido. Ya, cuando quieren reformar consciencia y satisfaceros vuestros
+                  sudores, sois librado en la recámara, en un sudado jubón o raída capa o sayo. Ya,
+                  cuando asienta un hombre con un señor de título, todavía pasa su lacería. Pues por
+                  ventura ¿no hay en mí habilidad para servir y contentar a éstos? Por Dios, si con
+                  él topase, muy gran su privado pienso que fuese, y que mil servicios le hiciese,
+                  porque yo sabría mentille tan bien como otro y agradalle a las mil maravillas.
+                  Reílle ya mucho sus donaires y costumbres, aunque no fuesen las mejores del mundo;
+                  nunca decille cosa con que le pesase, aunque mucho le cumpliese; ser muy diligente
+                  en su persona, en dicho y hecho; no me matar por no hacer bien las cosas que él no
+                  había de ver, y ponerme a reñir, donde él lo oyese, con la gente de servicio,
+                  porque pareciese tener gran cuidado de lo que a él tocaba. Si riñese con algún su
+                  criado, dar unos puntillos agudos para encenderle la ira y que pareciesen en favor
+                  del culpado; decirle bien de lo que bien le estuviese y, por el contrario, ser
                   malicioso, mofador, malsinar a los de casa, y a los de fuera pesquisar y procurar
                   de saber vidas ajenas para contárselas, y otras muchas galas de esta calidad que
                   hoy día se usan en palacio y a los señores de él parecen bien; y no quieren ver en
@@ -513,10 +517,11 @@
             <p><quote>Bastante relación es ésta para cobrar vuestra deuda, aunque mejor
                   fuese.</quote></p>
             <p>Las vecinas, que estaban presentes, dijeron:</p>
-            <p><quote>Señores, éste es un niño inocente y ha pocos días que está con ese escudero y
-                  no sabe de él más que vuestras mercedes; sino cuanto el pecadorcico se llega aquí
-                  a nuestra casa, y le damos de comer lo que podemos por amor de Dios, y a las
-                  noches se iba a dormir con él.</quote></p>
+            <p><quote>Señores, éste es un niño inocente y ha pocos días que está con ese <persName
+                     corresp="#Escudero">escudero</persName> y no sabe de él más que vuestras
+                  mercedes; sino cuanto el pecadorcico se llega aquí a nuestra casa, y le damos de
+                  comer lo que podemos por amor de Dios, y a las noches se iba a dormir con
+                  él.</quote></p>
             <p>Vista mi inocencia, dejáronme, dándome por libre. Y el alguacil y el escribano piden
                al hombre y a la mujer sus derechos. Sobre lo cual tuvieron gran contienda y ruido,
                porque ellos alegaron no ser obligados a pagar, pues no había de qué ni se hacía el
