@@ -97,7 +97,7 @@
                     rogaba me tratase bien y mirase por mí, pues era huérfano. Él respondió que así
                     lo haría y que me recibía, no por mozo, sino por hijo. Y así le comencé a servir
                     y adestrar a mi nuevo y viejo amo.</p>
-                <p> Como estuvimos en <placeName corresp="#Salamanca">Salamanca</placeName> algunos
+                <p> Como estuvimos en <placeName xml:id="Salamanca">Salamanca</placeName> algunos
                     días, pareciéndole a mi amo que no era la ganancia a su contento, determinó irse
                     de allí; y cuando nos hubimos de partir, yo fui a ver a mi madre, y, ambos
                     llorando, me dio su bendición y dijo:</p>
@@ -320,7 +320,7 @@
                 <p> Mas, por no ser prolijo, dejo de contar muchas cosas, así graciosas como de
                     notar, que con este mi primer amo me acaecieron, y quiero decir el despidiente
                     y, con él, acabar.</p>
-                <p> Estábamos en <placeName corresp="#Escalona">Escalona,</placeName> villa del duque
+                <p> Estábamos en <placeName xml:id="Escalona">Escalona,</placeName> villa del duque
                     de ella, en un mesón, y diome un pedazo de longaniza que le asase. Ya que la
                     longaniza había pringado y comídose las pringadas, sacó un maravedí de la bolsa
                     y mandó que fuese por él de vino a la taberna. Púsome el demonio el aparejo
@@ -1319,7 +1319,7 @@
                     mas aprovechábase de un gentil y bien cortado romance y desenvoltísima lengua. Y
                     si sabía que los dichos clérigos eran de los reverendos, digo que más con
                     dineros que con letras y con reverendas se ordenan, hacíase entre ellos un
-                        <persName xml:id="Tomás">santo Tomás</persName>, y hablaba dos horas en
+                        <persName xml:id="Tomas">santo Tomás</persName>, y hablaba dos horas en
                     latín, a lo menos que lo parecía, aunque no lo era.</p>
                 <p>Cuando por bien no le tomaban las bulas, buscaba cómo por mal se las tomasen. Y
                     para aquello hacía molestias al pueblo, y otras veces con mañosos artificios. Y
@@ -1546,7 +1546,7 @@
                         Pascasio Gómez</persName>, que a su costa se saquen más de diez
                     cautivos.</p>
                 <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName xml:id="Toledo"
-                        >Toledo</placeName>, hacia <placeName xml:id="Mancha">la Mancha</placeName>
+                        >Toledo</placeName>, hacia <placeName xml:id="LaMancha">la Mancha</placeName>
                     que se dice, adonde topamos otros más obstinados en tomar bulas. Hechas
                         <persName corresp="#buldero">mi amo</persName> y los demás que íbamos
                     nuestras diligencias, en dos fiestas que allí estuvimos, no se habían echado
