@@ -24,30 +24,30 @@
             </div>
             <div type="texto" xml:id="tratado1">
                 <p> Pues sepa <persName xml:id="VuestraMerced">Vuestra Merced,</persName> ante todas
-                    cosas, que a mí llaman <persName xml:id="LazarodeTormes">Lázaro de
-                        Tormes,</persName> hijo de <persName xml:id="TomeGonzalez">Tomé
-                        González</persName> y de <persName xml:id="AntonaPerez">Antona
-                        Pérez,</persName> naturales de <placeName ref="Tejares">Tejares,</placeName>
-                    aldea de <placeName ref="Salamanca">Salamanca.</placeName> Mi nacimiento fue
-                    dentro del río <placeName ref="Tormes">Tormes,</placeName> por la cual causa
-                    tomé el sobrenombre; y fue de esta manera: mi padre, que <persName xml:id="Dios"
-                        >Dios</persName> perdone, tenía cargo de proveer una molienda de una aceña
-                    que está ribera de aquel río, en la cual fue molinero más de quince años; y,
-                    estando mi madre una noche en la aceña, preñada de mí, tomóle el parto y parióme
-                    allí. De manera que con verdad me puedo decir nacido en el río.</p>
+                    cosas, que a mí llaman <persName xml:id="Lazaro">Lázaro de Tormes,</persName>
+                    hijo de <persName xml:id="TomeGonzalez">Tomé González</persName> y de <persName
+                        xml:id="AntonaPerez">Antona Pérez,</persName> naturales de <placeName
+                        ref="Tejares">Tejares,</placeName> aldea de <placeName ref="Salamanca"
+                        >Salamanca.</placeName> Mi nacimiento fue dentro del río <placeName
+                        ref="Tormes">Tormes,</placeName> por la cual causa tomé el sobrenombre; y
+                    fue de esta manera: mi padre, que <persName xml:id="Dios">Dios</persName>
+                    perdone, tenía cargo de proveer una molienda de una aceña que está ribera de
+                    aquel río, en la cual fue molinero más de quince años; y, estando mi madre una
+                    noche en la aceña, preñada de mí, tomóle el parto y parióme allí. De manera que
+                    con verdad me puedo decir nacido en el río.</p>
                 <p> Pues siendo yo niño de ocho años, achacaron a mi padre ciertas sangrías mal
                     hechas en los costales de los que allí a moler venían, por lo cual fue preso, y
                     confesó y no negó, y padeció persecución por justicia. Espero en <placeName
-                        corresp="#Dios">Dios</placeName> que está en la gloria, pues el <persName
-                        xml:id="Evangelio">Evangelio</persName> los llama bienaventurados. En este
-                    tiempo se hizo cierta armada contra moros, entre los cuales fue mi padre (que a
-                    la sazón estaba desterrado por el desastre ya dicho), con cargo de acemilero de
-                    un caballero que allá fue. Y con su señor, como leal criado, feneció su vida. </p>
+                        corresp="#Dios">Dios</placeName> que está en la gloria, pues el Evangelio
+                    los llama bienaventurados. En este tiempo se hizo cierta armada contra moros,
+                    entre los cuales fue mi padre (que a la sazón estaba desterrado por el desastre
+                    ya dicho), con cargo de acemilero de un caballero que allá fue. Y con su señor,
+                    como leal criado, feneció su vida. </p>
                 <p> Mi viuda madre, como sin marido y sin abrigo se viese, determinó arrimarse a los
                     buenos por ser uno de ellos, y vínose a vivir a la ciudad y alquiló una casilla
                     y metióse a guisar de comer a ciertos estudiantes, y lavaba la ropa a ciertos
-                    mozos de caballos del comendador de la <persName xml:id="Magdalena"
-                        >Magdalena,</persName> de manera que fue frecuentando las caballerizas.</p>
+                        <persName xml:id="Magdalena">mozos de caballos del comendador de la
+                        Magdalena</persName>, de manera que fue frecuentando las caballerizas.</p>
                 <p> Ella y un hombre moreno de aquellos que las bestias curaban vinieron en
                     conocimiento. Éste algunas veces se venía a nuestra casa y se iba a la mañana.
                     Otras veces, de día llegaba a la puerta en achaque de comprar huevos, y
@@ -444,19 +444,19 @@
 
             <div type="titulo" corresp="#tratado2">
                 <head>Tratado segundo</head>
-                <p>Cómo <persName xml:id="Lazarillo">Lázaro</persName> se asentó con <persName
-                        xml:id="Clérigo">un clérigo</persName>, y de las cosas que con él pasó</p>
+                <p>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con <persName
+                        xml:id="clerigo">un clérigo</persName>, y de las cosas que con él pasó</p>
             </div>
             <div type="texto" xml:id="tratado2">
                 <p>Otro día, no pareciéndome estar allí seguro, fuime a un lugar que llaman
                         <placeName xml:id="Maqeuda">Maqueda</placeName>, adonde me toparon mis
-                    pecados con <persName corresp="#Clérigo">un clérigo</persName>, que, llegando a
+                    pecados con <persName corresp="#clerigo">un clérigo</persName>, que, llegando a
                     pedir limosna, me preguntó si sabía ayudar a misa. Yo dije que sí, como era
                     verdad; que, aunque maltratado, mil cosas buenas me mostró el pecador del
-                        <persName xml:id="Ciego">ciego</persName>, y una de ellas fue ésta.
-                    Finalmente, <persName corresp="#Clérigo">el clérigo</persName> me recibió por
+                        <persName corresp="#ciego">ciego</persName>, y una de ellas fue ésta.
+                    Finalmente, <persName corresp="#clerigo">el clérigo</persName> me recibió por
                     suyo. </p>
-                <p>Escapé del trueno y di en el relámpago, porque era <persName corresp="#Ciego">el
+                <p>Escapé del trueno y di en el relámpago, porque era <persName corresp="#ciego">el
                         ciego</persName> para con éste un <persName xml:id="AlejandroMagno"
                         >Alejandro Magno</persName>, con ser la misma avaricia, como he contado. No
                     digo más, sino que toda la lacería del mundo estaba encerrada en éste: no sé si
@@ -515,7 +515,7 @@
                     naturaleza humana sino entonces. Y esto era porque comíamos bien y me hartaban.
                     Deseaba y aun rogaba a Dios que cada día matase el suyo. Y cuando dábamos
                     sacramento a los enfermos, especialmente la extremaunción, como manda <persName
-                        corresp="#Clérigo">el clérigo</persName> rezar a los que están allí, yo
+                        corresp="#clerigo">el clérigo</persName> rezar a los que están allí, yo
                     cierto no era el postrero de la oración, y con todo mi corazón y buena voluntad
                     rogaba al Señor, no que le echase a la parte que más servido fuese, como se
                     suele decir, mas que le llevase de aqueste mundo.</p>
@@ -537,8 +537,8 @@
                     ya con ella en la sepultura; pues si de éste desisto y doy en otro más bajo,
                     ¿qué será, sino fenecer?». Con esto no me osaba menear, porque tenía por fe que
                     todos los grados había de hallar más ruines. Y a abajar otro punto, no sonara
-                        <persName corresp="#Lazarillo">Lázaro</persName> ni se oyera en el mundo.
-                    Pues estando en tal aflicción, cual plega al Señor librar de ella a todo fiel
+                        <persName corresp="#Lazaro">Lázaro</persName> ni se oyera en el mundo. Pues
+                    estando en tal aflicción, cual plega al Señor librar de ella a todo fiel
                     cristiano, y sin saber darme consejo, viéndome ir de mal en peor, un día que el
                     cuitado, ruin y lacerado de mi amo había ido fuera del lugar, llegóse acaso a mi
                     puerta un calderero, el cual yo creo que fue ángel enviado a mí por la mano de
@@ -599,8 +599,8 @@
                     contrahecho de como ellos lo suelen hacer. Miró todo el arcaz de un cabo a otro
                     y viole ciertos agujeros por do sospechaba habían entrado. Llamóme,
                     diciendo:</p>
-                <p>-¡<persName corresp="#Lazarillo">Lázaro</persName>, mira, mira, qué persecución
-                    ha venido aquesta noche por nuestro pan!</p>
+                <p>-¡<persName corresp="#Lazaro">Lázaro</persName>, mira, mira, qué persecución ha
+                    venido aquesta noche por nuestro pan!</p>
                 <p>Yo híceme muy maravillado, preguntándole qué sería.</p>
                 <p>-¿Qué ha de ser? -dijo él-. Ratones, que no dejan cosa a vida.</p>
                 <p>Pusímonos a comer, y quiso Dios que aun en esto me fue bien: que me cupo más pan
@@ -705,7 +705,7 @@
                     digo, hecho trasgo.</p>
                 <p>Yo hube miedo que con aquellas diligencias no me topase con la llave, que debajo
                     de las pajas tenía, y parecióme lo más seguro metella de noche en la boca,
-                    porque ya, desde que viví con <persName corresp="#Ciego">el ciego</persName>, la
+                    porque ya, desde que viví con <persName corresp="#ciego">el ciego</persName>, la
                     tenía tan hecha bolsa que me acaeció tener en ella doce o quince maravedís, todo
                     en medias blancas, sin que me estorbase el comer, porque de otra manera no era
                     señor de una blanca que el maldito ciego no cayese con ella, no dejando costura
@@ -743,7 +743,7 @@
                 <p>A cabo de tres días yo torné en mi sentido, y vime echado en mis pajas, la cabeza
                     toda emplastada y llena de aceites y ungüentos, y, espantado, dije:</p>
                 <p>-¿Qué es esto?</p>
-                <p>Respondióme el cruel <persName corresp="#Clérigo">sacerdote</persName>:</p>
+                <p>Respondióme el cruel <persName corresp="#clerigo">sacerdote</persName>:</p>
                 <p>-A fe que los ratones y culebras que me destruían ya los he cazado.</p>
                 <p>Y miré por mí, y vime tan maltratado que luego sospeché mi mal.</p>
                 <p>A esta hora entró una vieja que ensalmaba, y los vecinos. Y comiénzanme a quitar
@@ -756,7 +756,7 @@
                     levanté y estuve sin peligro (mas no sin hambre) y medio sano.</p>
                 <p>Luego otro día que fui levantado, el señor mi amo me tomó por la mano y sacóme la
                     puerta fuera y, puesto en la calle, díjome:</p>
-                <p>-<persName corresp="#Lazarillo">Lázaro</persName>, de hoy más eres tuyo y no mío.
+                <p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy más eres tuyo y no mío.
                     Busca amo y vete con Dios, que yo no quiero en mi compañía tan diligente
                     servidor. No es posible sino que hayas sido mozo de ciego.</p>
                 <p>Y santiguándose de mí, como si yo estuviera endemoniado, tórnase a meter en casa
@@ -765,7 +765,7 @@
 
             <div type="titulo" corresp="#tratado3">
                 <head>Tratado tercero</head>
-                <head>Cómo <persName xml:id="Lazaro">Lázaro</persName> se asentó con un escudero y
+                <head>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un escudero y
                     de lo que le acaeció con él</head>
             </div>
             <div type="texto" xml:id="tratado3">
@@ -1510,7 +1510,7 @@
                     aun para los niños de la cuna y para todos sus difuntos, contando desde los
                     hijos hasta el menor criado que tenían, contándolos por los dedos. Vímonos en
                     tanta prisa, que a mí aínas me acabaron de romper un pobre y viejo sayo que
-                    traía, de manera que certifico a <persName xml:id="vMerced">Vuestra
+                    traía, de manera que certifico a <persName corresp="#VuestraMerced">Vuestra
                         Merced</persName> que en poco más de una hora no quedó bula en las alforjas
                     y fue necesario ir a la posada por más.</p>
                 <p>Acabados de tomar todos, dijo <persName corresp="#buldero">mi amo</persName>
@@ -1542,8 +1542,9 @@
                     >escribano</persName>:</p>
                 <p>-¿Qué os parece, cómo a estos villanos, que con sólo decir cristianos viejos
                     somos, sin hacer obras de caridad, se piensan salvar, sin poner nada de su
-                    hacienda? Pues, por vida del <persName xml:id="Gómez">licenciado Pascasio
-                        Gómez</persName>, que a su costa se saquen más de diez cautivos.</p>
+                    hacienda? Pues, por vida del <persName xml:id="PascasioGomez">licenciado
+                        Pascasio Gómez</persName>, que a su costa se saquen más de diez
+                    cautivos.</p>
                 <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName xml:id="Toledo"
                         >Toledo</placeName>, hacia <placeName xml:id="Mancha">la Mancha</placeName>
                     que se dice, adonde topamos otros más obstinados en tomar bulas. Hechas
@@ -1579,8 +1580,8 @@
                     ardía.</p>
                 <p>Fue tanta la prisa que hubo en el tomar de la bula, que no bastaban dos
                     escribanos ni los clérigos ni sacristanes a escribir. Creo de cierto que se
-                    tomaron más de tres mil bulas, como tengo dicho a <persName corresp="#vMerced"
-                        >Vuestra Merced</persName>.</p>
+                    tomaron más de tres mil bulas, como tengo dicho a <persName
+                        corresp="#VuestraMerced">Vuestra Merced</persName>.</p>
                 <p>Después, al partir, <persName corresp="#buldero">él</persName> fue con gran
                     reverencia, como es razón, a tomar la santa cruz, diciendo que le había de hacer
                     engastonar en oro, como era razón. Fue rogado mucho del Concejo y clérigos del
