@@ -46,8 +46,8 @@
                 <p> Mi viuda madre, como sin marido y sin abrigo se viese, determinó arrimarse a los
                     buenos por ser uno de ellos, y vínose a vivir a la ciudad y alquiló una casilla
                     y metióse a guisar de comer a ciertos estudiantes, y lavaba la ropa a ciertos
-                        <persName xml:id="Magdalena">mozos de caballos del comendador de la
-                        Magdalena</persName>, de manera que fue frecuentando las caballerizas.</p>
+                    mozos de caballos del comendador de <persName xml:id="Magdalena"> la
+                        Magdalena,</persName>de manera que fue frecuentando las caballerizas.</p>
                 <p> Ella y un hombre moreno de aquellos que las bestias curaban vinieron en
                     conocimiento. Éste algunas veces se venía a nuestra casa y se iba a la mañana.
                     Otras veces, de día llegaba a la puerta en achaque de comprar huevos, y
@@ -97,14 +97,14 @@
                     rogaba me tratase bien y mirase por mí, pues era huérfano. Él respondió que así
                     lo haría y que me recibía, no por mozo, sino por hijo. Y así le comencé a servir
                     y adestrar a mi nuevo y viejo amo.</p>
-                <p> Como estuvimos en <placeName xml:id="Salamanca">Salamanca</placeName> algunos
+                <p> Como estuvimos en <placeName corresp="#Salamanca">Salamanca</placeName> algunos
                     días, pareciéndole a mi amo que no era la ganancia a su contento, determinó irse
                     de allí; y cuando nos hubimos de partir, yo fui a ver a mi madre, y, ambos
                     llorando, me dio su bendición y dijo:</p>
                 <p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y Dios te guíe. Criado te
                     he y con buen amo te he puesto; válete por ti.</p>
                 <p> Y así me fui para mi amo, que esperándome estaba.</p>
-                <p> Salimos de <placeName ref="Salamanca">Salamanca,</placeName> y, llegando a la
+                <p> Salimos de <placeName corresp="#Salamanca">Salamanca,</placeName> y, llegando a la
                     puente, está a la entrada de ella un animal de piedra, que casi tiene forma de
                     toro, y <persName corresp="#ciego">el ciego</persName> mandóme que llegase cerca
                     del animal, y, allí puesto, me dijo:</p>
@@ -320,7 +320,7 @@
                 <p> Mas, por no ser prolijo, dejo de contar muchas cosas, así graciosas como de
                     notar, que con este mi primer amo me acaecieron, y quiero decir el despidiente
                     y, con él, acabar.</p>
-                <p> Estábamos en <placeName xml:id="Escalona">Escalona,</placeName> villa del duque
+                <p> Estábamos en <placeName corresp="#Escalona">Escalona,</placeName> villa del duque
                     de ella, en un mesón, y diome un pedazo de longaniza que le asase. Ya que la
                     longaniza había pringado y comídose las pringadas, sacó un maravedí de la bolsa
                     y mandó que fuese por él de vino a la taberna. Púsome el demonio el aparejo
@@ -825,11 +825,11 @@
                     casa encantada. Estando así, díjome:</p>
                 <p><quote>Tú, mozo, ¿has comido?</quote></p>
                 <p><quote>No, señor</quote> -dije yo-, <quote>que aún no eran dadas las ocho cuando
-                        con <persName>Vuestra Merced</persName> encontré.</quote></p>
+                        con <persName corresp="#VuestraMerced">Vuestra Merced</persName> encontré.</quote></p>
                 <p><quote>Pues, aunque de mañana, yo había almorzado, y, cuando así como algo,
                         hágote saber que hasta la noche me estoy así. Por eso, pásate como pudieres,
                         que después cenaremos.</quote></p>
-                <p><persName>Vuestra Merced</persName> crea, cuando esto le oí, que estuve en poco
+                <p><persName corresp="#VuestraMerced">Vuestra Merced</persName> crea, cuando esto le oí, que estuve en poco
                     de caer de mi estado, no tanto de hambre como por conocer de todo en todo la
                     fortuna serme adversa. Allí se me representaron de nuevo mis fatigas y torné a
                     llorar mis trabajos; allí se me vino a la memoria la consideración que hacía
@@ -885,12 +885,12 @@
                     parecían a lo proprio entrecuesto de flaquísimo puerco. Y sobre aquel hambriento
                     colchón, un alfamar del mismo jaez, del cual el color yo no pude alcanzar.</p>
                 <p>Hecha la cama, y la noche venida, díjome:</p>
-                <p><quote><persName>Lázaro</persName>, ya es tarde, y de aquí a la plaza hay gran
+                <p><quote><persName corresp="#Lazaro">Lázaro</persName>, ya es tarde, y de aquí a la plaza hay gran
                         trecho. También en esta ciudad andan muchos ladrones, que, siendo de noche,
                         capean. Pasemos como podamos, y mañana, venido el día, Dios hará merced;
                         porque yo, por estar solo, no estoy proveído, antes he comido estos días por
                         allá fuera. Mas agora hacerlo hemos de otra manera.</quote></p>
-                <p><quote>Señor, de mí</quote> -dije yo- <quote>ninguna pena tenga <persName>Vuestra
+                <p><quote>Señor, de mí</quote> -dije yo- <quote>ninguna pena tenga <persName corresp="#VuestraMerced">Vuestra
                             Merced</persName>, que bien sé pasar una noche y aún más, si es
                         menester, sin comer.</quote></p>
                 <p><quote>Vivirás más y más sano</quote> -me respondió-, <quote>porque, como
@@ -923,7 +923,7 @@
                     gentiles meneos, echando el cabo de la capa sobre el hombro y a veces so el
                     brazo, y poniendo la mano derecha en el costado, salió por la puerta,
                     diciendo:</p>
-                <p><quote><persName>Lázaro</persName>, mira por la casa en tanto que voy a oír misa,
+                <p><quote><persName corresp="#Lazaro">Lázaro</persName>, mira por la casa en tanto que voy a oír misa,
                         y haz la cama y ve por la vasija de agua al río, que aquí bajo está, y
                         cierra la puerta con llave, no nos hurten algo, y ponla aquí al quicio
                         porque, si yo viniere en tanto, pueda entrar.</quote></p>
@@ -937,7 +937,7 @@
                         almorzado? ¡Grandes secretos son, Señor, los que vos hacéis y las gentes
                         ignoran! ¿A quién no engañará aquella buena disposición y razonable capa y
                         sayo? ¿Y quién pensará que aquel gentil hombre se pasó ayer todo el día sin
-                        comer con aquel mendrugo de pan que su criado <persName>Lázaro</persName>
+                        comer con aquel mendrugo de pan que su criado <persName corresp="#Lazaro">Lázaro</persName>
                         trajo un día y una noche en el arca de su seno, do no se le podía pegar
                         mucha limpieza, y hoy, lavándose las manos y cara, a falta de paño de manos,
                         se hacía servir de la halda del sayo? Nadie por cierto lo sospechará. ¡Oh
@@ -984,7 +984,7 @@
                     Pensé que me quería reñir por la tardanza; mas mejor lo hizo Dios. Preguntóme dó
                     venía. Yo le dije:</p>
                 <p><quote>Señor, hasta que dio las dos estuve aquí, y de que vi que
-                            <persName>Vuestra Merced</persName> no venía, fuime por esa ciudad a
+                            <persName corresp="#VuestraMerced">Vuestra Merced</persName> no venía, fuime por esa ciudad a
                         encomendarme a las buenas gentes, y hanme dado esto que veis.</quote></p>
                 <p>Mostréle el pan y las tripas, que en un cabo de la halda traía, a lo cual él
                     mostró buen semblante, y dijo:</p>
@@ -1013,7 +1013,7 @@
                     mejor aparejo, por ser mejor la vianda y menos mi hambre.</p>
                 <p>Quiso Dios cumplir mi deseo, y aun pienso que el suyo; porque como comencé a
                     comer y él se andaba paseando, llegóse a mí y díjome:</p>
-                <p>Dígote, <persName>Lázaro</persName>, que tienes en comer la mejor gracia que en
+                <p>Dígote, <persName corresp="#Lazaro">Lázaro</persName>, que tienes en comer la mejor gracia que en
                     mi vida vi a hombre, y que nadie te lo verá hacer que no le pongas gana, aunque
                     no la tenga.</p>
                 <p><quote>La muy buena que tú tienes</quote> -dije yo entre mí- <quote>te hace
@@ -1042,7 +1042,7 @@
                     contentos nos fuimos a dormir, como la noche pasada.</p>
                 <p>Y por evitar prolijidad, de esta manera estuvimos ocho o diez días, yéndose el
                     pecador en la mañana con aquel contento y paso contado a papar aire por las
-                    calles, teniendo en el pobre <persName>Lázaro</persName> una cabeza de lobo.</p>
+                    calles, teniendo en el pobre <persName corresp="#Lazaro">Lázaro</persName> una cabeza de lobo.</p>
                 <p>Contemplaba yo muchas veces mi desastre, que, escapando de los amos ruines que
                     había tenido y buscando mejoría, viniese a topar con quien no sólo no me
                     mantuviese, mas a quien yo había de mantener. Con todo, le quería bien, con ver
@@ -1096,7 +1096,7 @@
                     dicha o ventura, en el pobre poder de mi amo entró un real, con el cual él vino
                     a casa tan ufano como si tuviera el tesoro de Venecia, y con gesto muy alegre y
                     risueño me lo dio, diciendo: </p>
-                <p><quote>Toma, <persName>Lázaro</persName>, que Dios ya va abriendo su mano. Ve a
+                <p><quote>Toma, <persName corresp="#Lazaro">Lázaro</persName>, que Dios ya va abriendo su mano. Ve a
                         la plaza y merca pan y vino y carne: ¡quebremos el ojo al diablo! Y más te
                         hago saber, porque te huelgues: que he alquilado otra casa y en ésta
                         desastrada no hemos de estar más de en cumpliendo el mes. ¡Maldita sea ella
@@ -1140,7 +1140,7 @@
                     gente con su muerto, y yo todavía me recelaba que nos le habían de meter en
                     casa. Y, desque fue ya más harto de reír que de comer, el bueno de mi amo,
                     díjome:</p>
-                <p><quote>Verdad es, <persName>Lázaro</persName>, según la viuda lo va diciendo, tú
+                <p><quote>Verdad es, <persName corresp="#Lazaro">Lázaro</persName>, según la viuda lo va diciendo, tú
                         tuviste razón de pensar lo que pensaste; mas, pues Dios lo ha hecho mejor y
                         pasan adelante, abre, abre y ve por de comer.</quote></p>
                 <p><quote>Dejálos, señor, acaben de pasar la calle</quote> -dije yo.</p>
@@ -1175,7 +1175,7 @@
                         justo, siendo hombre de bien, se descuide un punto de tener en mucho su
                         persona. Acuérdome que un día deshonré en mi tierra a un oficial y quise
                         poner en él las manos, porque cada vez que le topaba, me decía:
-                            <quote>Mantenga Dios a <persName>Vuestra Merced</persName>.</quote>
+                            <quote>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra Merced</persName>.</quote>
                         <quote>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
                             ¿Manténgaos Dios, me habéis de decir, como si fuese quienquiera?</quote>
                         De allí adelante, de aquí acullá, me quitaba el bonete y hablaba como
@@ -1184,7 +1184,7 @@
                         <quote>decirle que le mantenga Dios?</quote></p>
                 <p><quote>¡Mira, mucho de enhoramala!</quote> -dijo él-. <quote>A los hombres de
                         poca arte dicen eso; mas a los más altos, como yo, no les han de hablar
-                        menos de: <quote>Beso las manos de <persName>Vuestra
+                        menos de: <quote>Beso las manos de <persName corresp="#VuestraMerced">Vuestra
                             Merced</persName></quote>, o por lo menos: <quote>Bésoos, señor, las
                             manos</quote>, si el que me habla es caballero. Y así, de aquél de mi
                         tierra que me atestaba de mantenimiento, nunca más le quise sufrir, ni
@@ -1545,7 +1545,7 @@
                     hacienda? Pues, por vida del <persName xml:id="PascasioGomez">licenciado
                         Pascasio Gómez</persName>, que a su costa se saquen más de diez
                     cautivos.</p>
-                <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName xml:id="Toledo"
+                <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName corresp="#Toledo"
                         >Toledo</placeName>, hacia <placeName xml:id="LaMancha">la Mancha</placeName>
                     que se dice, adonde topamos otros más obstinados en tomar bulas. Hechas
                         <persName corresp="#buldero">mi amo</persName> y los demás que íbamos
