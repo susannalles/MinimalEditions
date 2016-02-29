@@ -1299,13 +1299,13 @@
                     mas que mi amo me dejase y huyese de mí.</p>
             </div>
             </div>
-            <div type="titulo" corresp="#tratado5">
-                <head>Tratado quinto</head>
-                <head>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un <persName
+            <div xml:id="tratado5">
+                <head type="titulo">Tratado quinto</head>
+                <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un <persName
                         xml:id="buldero">buldero</persName>, y de las cosas que con <persName
                         corresp="#buldero">él</persName> pasó</head>
-            </div>
-            <div type="tratado" xml:id="tratado5">
+            
+            <div type="texto">
                 <p>En el quinto por mi ventura di, que fue un <persName corresp="#buldero"
                         >buldero</persName>, el más desenvuelto y desvergonzado, y el mayor echador
                     de ellas que jamás yo vi ni ver espero, ni pienso nadie vio, porque tenía y
@@ -1594,6 +1594,7 @@
                 <p>Finalmente, estuve con este mi <persName corresp="#buldero">quinto amo</persName>
                     cerca de cuatro meses, en los cuales pasé también hartas fatigas, aunque me daba
                     bien de comer, a costa de los curas y otros clérigos do iba a predicar.</p>
+            </div>
             </div>
         </body>
 
