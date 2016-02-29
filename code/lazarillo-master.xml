@@ -19,422 +19,444 @@
     </teiHeader>
     <text>
         <body>
-            <p> Pues sepa <persName xml:id="VuestraMerced">Vuestra Merced,</persName> ante todas
-                cosas, que a mí llaman <persName xml:id="LazarodeTormes">Lázaro de
-                    Tormes,</persName> hijo de <persName xml:id="TomeGonzalez">Tomé
-                    González</persName> y de <persName xml:id="AntonaPerez">Antona Pérez,</persName>
-                naturales de <placeName ref="Tejares">Tejares,</placeName> aldea de <placeName
-                    ref="Salamanca">Salamanca.</placeName> Mi nacimiento fue dentro del río
-                    <placeName ref="Tormes">Tormes,</placeName> por la cual causa tomé el
-                sobrenombre; y fue de esta manera: mi padre, que <persName xml:id="Dios"
-                    >Dios</persName> perdone, tenía cargo de proveer una molienda de una aceña que
-                está ribera de aquel río, en la cual fue molinero más de quince años; y, estando mi
-                madre una noche en la aceña, preñada de mí, tomóle el parto y parióme allí. De
-                manera que con verdad me puedo decir nacido en el río.</p>
-            <p> Pues siendo yo niño de ocho años, achacaron a mi padre ciertas sangrías mal hechas
-                en los costales de los que allí a moler venían, por lo cual fue preso, y confesó y
-                no negó, y padeció persecución por justicia. Espero en <placeName corresp="#Dios"
-                    >Dios</placeName> que está en la gloria, pues el <persName xml:id="Evangelio"
-                    >Evangelio</persName> los llama bienaventurados. En este tiempo se hizo cierta
-                armada contra moros, entre los cuales fue mi padre (que a la sazón estaba desterrado
-                por el desastre ya dicho), con cargo de acemilero de un caballero que allá fue. Y
-                con su señor, como leal criado, feneció su vida. </p>
-            <p> Mi viuda madre, como sin marido y sin abrigo se viese, determinó arrimarse a los
-                buenos por ser uno de ellos, y vínose a vivir a la ciudad y alquiló una casilla y
-                metióse a guisar de comer a ciertos estudiantes, y lavaba la ropa a ciertos mozos de
-                caballos del comendador de la <persName xml:id="Magdalena">Magdalena,</persName> de
-                manera que fue frecuentando las caballerizas.</p>
-            <p> Ella y un hombre moreno de aquellos que las bestias curaban vinieron en
-                conocimiento. Éste algunas veces se venía a nuestra casa y se iba a la mañana. Otras
-                veces, de día llegaba a la puerta en achaque de comprar huevos, y entrábase en casa.
-                Yo, al principio de su entrada, pesábame con él y habíale miedo, viendo el color y
-                mal gesto que tenía; mas, de que vi que con su venida mejoraba el comer, fuile
-                queriendo bien, porque siempre traía pan, pedazos de carne y en el invierno leños a
-                que nos calentábamos. </p>
-            <p> De manera que, continuando la posada y conversación, mi madre vino a darme un
-                negrito muy bonito, el cual yo brincaba y ayudaba a calentar. Y acuérdome que,
-                estando el negro de mi padrastro trebejando con el mozuelo, como el niño vía a mi
-                madre y a mí blancos y a él no, huía de él, con miedo, para mi madre, y, señalando
-                con el dedo, decía: </p>
-            <p> -¡Madre, coco! </p>
-            <p> Respondió él riendo: </p>
-            <p> -¡Hideputa! </p>
-            <p> Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre mí:
-                «¡Cuántos debe de haber en el mundo que huyen de otros porque no se ven a sí
-                mismos!».</p>
-            <p> Quiso nuestra fortuna que la conversación del <placeName xml:id="Zaide"
-                    >Zaide,</placeName> que así se llamaba, llegó a oídos del mayordomo, y, hecha
-                pesquisa, hallóse que la mitad por medio de la cebada, que para las bestias le
-                daban, hurtaba, y salvados, leña, almohazas, mandiles, y las mantas y sábanas de los
-                caballos hacía perdidas; y, cuando otra cosa no tenía, las bestias desherraba, y con
-                todo esto acudía a mi madre para criar a mi hermanico. No nos maravillemos de un
-                clérigo ni fraile, porque el uno hurta de los pobres y el otro de casa para sus
-                devotas y para ayuda de otro tanto, cuando a un pobre esclavo el amor le animaba a
-                esto.</p>
-            <p> Y probósele cuanto digo, y aún más; porque a mí con amenazas me preguntaban, y, como
-                niño, respondía y descubría cuanto sabía con miedo: hasta ciertas herraduras que por
-                mandado de mi madre a un herrero vendí. </p>
-            <p> Al triste de mi <persName xml:id="padrastro">padrastro</persName> azotaron y
-                pringaron, y a mi madre pusieron pena por justicia, sobre el acostumbrado
-                centenario, que en casa del sobredicho comendador no entrase ni al lastimado Zaide
-                en la suya acogiese. </p>
-            <p> Por no echar la soga tras el caldero, la triste se esforzó y cumplió la sentencia.
-                Y, por evitar peligro y quitarse de malas lenguas, se fue a servir a los que al
-                presente vivían en el mesón de la <placeName ref="Solana">Solana;</placeName> y
-                allí, padeciendo mil importunidades, se acabó de criar mi hermanico hasta que supo
-                andar, y a mí hasta ser buen mozuelo, que iba a los huéspedes por vino y candelas y
-                por lo demás que me mandaban.</p>
-            <p> En este tiempo vino a posar al mesón <persName xml:id="ciego">un ciego,</persName>
-                el cual, pareciéndole que yo sería para adestrarle, me pidió a mi madre, y ella me
-                encomendó a él, diciéndole cómo era hijo de un buen hombre, el cual, por ensalzar la
-                fe, había muerto en la de <placeName ref="Gelves">los Gelves,</placeName> y que ella
-                confiaba en <persName corresp="Dios">Dios</persName> no saldría peor hombre que mi
-                padre, y que le rogaba me tratase bien y mirase por mí, pues era huérfano. Él
-                respondió que así lo haría y que me recibía, no por mozo, sino por hijo. Y así le
-                comencé a servir y adestrar a mi nuevo y viejo amo.</p>
-            <p> Como estuvimos en <placeName corresp="Salamanca">Salamanca</placeName> algunos días,
-                pareciéndole a mi amo que no era la ganancia a su contento, determinó irse de allí;
-                y cuando nos hubimos de partir, yo fui a ver a mi madre, y, ambos llorando, me dio
-                su bendición y dijo:</p>
-            <p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y Dios te guíe. Criado te he y
-                con buen amo te he puesto; válete por ti.</p>
-            <p> Y así me fui para mi amo, que esperándome estaba.</p>
-            <p> Salimos de <placeName ref="Salamanca">Salamanca,</placeName> y, llegando a la
-                puente, está a la entrada de ella un animal de piedra, que casi tiene forma de toro,
-                y <persName corresp="ciego">el ciego</persName> mandóme que llegase cerca del
-                animal, y, allí puesto, me dijo:</p>
-            <p> -<persName corresp="Lázaro">Lázaro,</persName> llega el oído a este toro y oirás
-                gran ruido dentro de él.</p>
-            <p> Yo simplemente llegué, creyendo ser así. Y como sintió que tenía la cabeza par de la
-                piedra, afirmó recio la mano y diome una gran calabazada en el diablo del toro, que
-                más de tres días me duró el dolor de la cornada, y díjome:</p>
-            <p> -Necio, aprende, que el mozo del <persName corresp="ciego">ciego</persName> un punto
-                ha de saber más que el diablo.</p>
-            <p> Y rió mucho la burla.</p>
-            <p> Parecióme que en aquel instante desperté de la simpleza en que, como niño, dormido
-                estaba. Dije entre mí: «Verdad dice éste, que me cumple avivar el ojo y avisar, pues
-                solo soy, y pensar cómo me sepa valer».</p>
-            <p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te mostraré.</p>
-            <p>Y fue así, que, después de Dios, éste me dio la vida, y, siendo <persName
-                    corresp="ciego">ciego,</persName> me alumbró y adestró en la carrera de
-                vivir.</p>
-            <p>Huelgo de contar a <persName corresp="Vuestra Merced">Vuestra Merced</persName> estas
-                niñerías, para mostrar cuánta virtud sea saber los hombres subir siendo bajos, y
-                dejarse bajar siendo altos cuánto vicio.</p>
-            <p>Pues, tornando al bueno de <persName corresp="ciego">mi ciego</persName> y contando
-                sus cosas, <persName corresp="Vuestra Merced">Vuestra Merced</persName> sepa que,
-                desde que <persName corresp="Dios">Dios</persName> crió el mundo, ninguno formó más
-                astuto ni sagaz. En su oficio era un águila: ciento y tantas oraciones sabía de
-                coro; un tono bajo, reposado y muy sonable, que hacía resonar la iglesia donde
-                rezaba; un rostro humilde y devoto, que, con muy buen continente, ponía cuando
-                rezaba, sin hacer gestos ni visajes con boca ni ojos, como otros suelen hacer.</p>
-            <p>Allende de esto, tenía otras mil formas y maneras para sacar el dinero. Decía saber
-                oraciones para muchos y diversos efectos: para mujeres que no parían; para las que
-                estaban de parto; para las que eran malcasadas, que sus maridos las quisiesen bien.
-                Echaba pronósticos a las preñadas si traían hijo o hija. Pues en caso de medicina
-                decía que <placeName ref="Galeno">Galeno</placeName> no supo la mitad que él para
-                muelas, desmayos, males de madre. Finalmente, nadie le decía padecer alguna pasión,
-                que luego no le decía:</p>
-            <p> -Haced esto, haréis esto otro, cosed tal yerba, tomad tal raíz.</p>
-            <p>Con esto andábase todo el mundo tras él, especialmente mujeres, que cuanto les decía
-                creían. De éstas sacaba él grandes provechos con las artes que digo, y ganaba más en
-                un mes que cien ciegos en un año.</p>
-            <p>Mas también quiero que sepa <persName corresp="Vuestra Merced">Vuestra
-                    Merced</persName>que, con todo lo que adquiría y tenía, jamás tan avariento ni
-                mezquino hombre no vi; tanto, que me mataba a mí de hambre, y así no me demediaba de
-                lo necesario. Digo verdad: si con mi sutileza y buenas mañas no me supiera remediar,
-                muchas veces me finara de hambre; mas, con todo su saber y aviso, le contaminaba de
-                tal suerte que siempre, o las más veces, me cabía lo más y mejor. Para esto le hacía
-                burlas endiabladas, de las cuales contaré algunas, aunque no todas a mi salvo.</p>
-            <p> Él traía el pan y todas las otras cosas en un fardel de lienzo, que por la boca se
-                cerraba con una argolla de hierro y su candado y llave; y al meter de todas las
-                cosas y sacallas, era con tanta vigilancia y tan por contadero, que no bastara todo
-                el mundo a hacerle menos una migaja. Mas yo tomaba aquella lacería que él me daba,
-                la cual en menos de dos bocados era despachada. Después que cerraba el candado y se
-                descuidaba, pensando que yo estaba entendiendo en otras cosas, por un poco de
-                costura, que muchas veces del un lado del fardel descosía y tornaba a coser,
-                sangraba el avariento fardel, sacando, no por tasa pan, más buenos pedazos,
-                torreznos y longaniza. Y así, buscaba conveniente tiempo para rehacer, no la chaza,
-                sino la endiablada falta que <persName corresp="ciego">el mal ciego</persName> me
-                faltaba.</p>
-            <p>Todo lo que podía sisar y hurtar traía en medias blancas, y, cuando le mandaban rezar
-                y le daban blancas, como él carecía de vista, no había el que se la daba amagado con
-                ella, cuando yo la tenía lanzada en la boca y la media aparejada, que, por presto
-                que él echaba la mano, ya iba de mi cambio aniquilada en la mitad del justo precio.
-                Quejábaseme <persName corresp="ciego">el mal ciego,</persName> porque al tiento
-                luego conocía y sentía que no era blanca entera, y decía:</p>
-            <p> -¿Qué diablo es esto, que, después que conmigo estás, no me dan sino medias blancas,
-                y de antes una blanca y un maravedí hartas veces me pagaban? En ti debe estar esta
-                desdicha.</p>
-            <p> También él abreviaba el rezar y la mitad de la oración no acababa, porque me tenía
-                mandado que, en yéndose el que la mandaba rezar, le tirase por cabo del capuz. Yo
-                así lo hacía. Luego él tornaba a dar voces diciendo:</p>
-            <p>-¿Mandan rezar tal y tal oración? -como suelen decir.</p>
-            <p> Usaba poner cabe sí un jarrillo de vino cuando comíamos, y yo muy de presto le asía
-                y daba un par de besos callados y tornábale a su lugar. Mas duróme poco, que en los
-                tragos conocía la falta, y, por reservar su vino a salvo, nunca después desamparaba
-                el jarro, antes lo tenía por el asa asido. Mas no había piedra imán que así trajese
-                a sí como yo con una paja larga de centeno que para aquel menester tenía hecha, la
-                cual, metiéndola en la boca del jarro, chupando el vino, lo dejaba a buenas noches.
-                Mas, como fuese el traidor tan astuto, pienso que me sintió, y dende en adelante
-                mudó propósito y asentaba su jarro entre las piernas y atapábale con la mano, y así
-                bebía seguro.</p>
-            <p> Yo, como estaba hecho al vino, moría por él, y viendo que aquel remedio de la paja
-                no me aprovechaba ni valía, acordé en el suelo del jarro hacerle una fuentecilla y
-                agujero sutil, y, delicadamente, con una muy delgada tortilla de cera, taparlo; y,
-                al tiempo de comer, fingiendo haber frío, entrábame entre las piernas del triste
-                    <persName corresp="ciego">ciego</persName> a calentarme en la pobrecilla lumbre
-                que teníamos, y, al calor de ella luego derretida la cera, por ser muy poca,
-                comenzaba la fuentecilla a destilarme en la boca, la cual yo de tal manera ponía,
-                que maldita la gota se perdía. Cuando el pobreto iba a beber, no hallaba nada.
-                Espantábase, maldecíase, daba al diablo el jarro y el vino, no sabiendo qué podía
-                ser.</p>
-            <p>-No diréis, tío, que os lo bebo yo -decía-, pues no le quitáis de la mano.</p>
-            <p>Tantas vueltas y tientos dio al jarro, que halló la fuente y cayó en la burla; mas
-                así lo disimuló como si no lo hubiera sentido.</p>
-            <p>Y luego otro día, teniendo yo rezumando mi jarro como solía, no pensando el daño que
-                me estaba aparejado ni que <persName corresp="ciego">el mal ciego</persName> me
-                sentía, sentéme como solía; estando recibiendo aquellos dulces tragos, mi cara
-                puesta hacia el cielo, un poco cerrados los ojos por mejor gustar el sabroso licor,
-                sintió el desesperado <persName corresp="ciego">ciego</persName> que agora tenía
-                tiempo de tomar de mí venganza, y con toda su fuerza, alzando con dos manos aquel
-                dulce y amargo jarro, le dejó caer sobre mi boca, ayudándose, como digo, con todo su
-                poder, de manera que <persName corresp="Lázaro">el pobre Lázaro,</persName> que de
-                nada de esto se guardaba, antes, como otras veces, estaba descuidado y gozoso,
-                verdaderamente me pareció que el cielo, con todo lo que en él hay, me había caído
-                encima.</p>
-            <p>Fue tal el golpecillo, que me desatinó y sacó de sentido, y el jarrazo tan grande,
-                que los pedazos de él se me metieron por la cara, rompiéndomela por muchas partes, y
-                me quebró los dientes, sin los cuales hasta hoy día me quedé.</p>
-            <p>Desde aquella hora quise mal <persName corresp="ciego">al mal ciego,</persName> y,
-                aunque me quería y regalaba y me curaba, bien vi que se había holgado del cruel
-                castigo. Lavóme con vino las roturas que con los pedazos del jarro me había hecho,
-                y, sonriéndose, decía:</p>
-            <p>-¿Qué te parece <persName corresp="Lázaro">Lázaro?</persName> Lo que te enfermó te
-                sana y da salud -y otros donaires que a mi gusto no lo eran.</p>
-            <p>Ya que estuve medio bueno de mi negra trepa y cardenales, considerando que, a pocos
-                golpes tales, <persName corresp="ciego">el cruel ciego</persName> ahorraría de mí,
-                quise yo ahorrar de él; mas no lo hice tan presto, por hacello más a mi salvo y
-                provecho. Y aunque yo quisiera asentar mi corazón y perdonalle el jarrazo, no daba
-                lugar el maltratamiento que <persName corresp="ciego">el mal ciego</persName> dende
-                allí adelante me hacía, que sin causa ni razón me hería, dándome coscorrones y
-                repelándome.</p>
-            <p>Y si alguno le decía por qué me trataba tan mal, luego contaba el cuento del jarro,
-                diciendo:</p>
-            <p>-¿Pensaréis que este mi mozo es algún inocente? Pues oíd si el demonio ensayara otra
-                tal hazaña.</p>
-            <p>Santiguándose los que lo oían, decían:</p>
-            <p>-¡Mirad quién pensara de un muchacho tan pequeño tal ruindad!</p>
-            <p>Y reían mucho el artificio y decíanle:</p>
-            <p>-¡Castigadlo, castigadlo, que de <persName corresp="Dios">Dios</persName> lo
-                habréis!</p>
-            <p>Y él, con aquello, nunca otra cosa hacía.</p>
-            <p>Y en esto yo siempre le llevaba por los peores caminos, y adrede, por hacerle mal y
-                daño; si había piedras, por ellas; si lodo, por lo más alto; que, aunque yo no iba
-                por lo más enjuto, holgábame a mí de quebrar un ojo por quebrar dos al que ninguno
-                tenía. Con esto, siempre con el cabo alto del tiento me atentaba el colodrillo, el
-                cual siempre traía lleno de tolondrones y pelado de sus manos. Y, aunque yo juraba
-                no hacerlo con malicia, sino por no hallar mejor camino, no me aprovechaba ni me
-                creía, mas tal era el sentido y el grandísimo entendimiento del traidor.</p>
-            <p>Y porque vea <persName corresp="Vuestra Merced">Vuestra Merced</persName> a cuánto se
-                extendía el ingenio de este astuto <persName corresp="ciego">ciego,</persName>
-                contaré un caso de muchos que con él me acaecieron, en el cual me parece dio bien a
-                entender su gran astucia. Cuando salimos de <placeName corresp="Salamanca"
-                    >Salamanca,</placeName> su motivo fue venir a tierra de <placeName
-                    corresp="Toledo">Toledo,</placeName> porque decía ser la gente más rica, aunque
-                no muy limosnera. Arrimábase a este refrán: «Más da el duro que el desnudo». Y
-                vinimos a este camino por los mejores lugares. Donde hallaba buena acogida y
-                ganancia, deteníamonos; donde no, a tercero día hacíamos <placeName ref="San Juan"
-                    >San Juan.</placeName></p>
-            <p>Acaeció que, llegando a un lugar que llaman <placeName ref="Almorox"
-                    >Almorox</placeName> al tiempo que cogían las uvas, un vendimiador le dio un
-                racimo de ellas en limosna. Y como suelen ir los cestos maltratados, y también
-                porque la uva en aquel tiempo está muy madura, desgranábasele el racimo en la mano.
-                Para echarlo en el fardel, tornábase mosto, y lo que a él se llegaba. Acordó de
-                hacer un banquete, así por no poder llevarlo, como por contentarme, que aquel día me
-                había dado muchos rodillazos y golpes. Sentámonos en un valladar y dijo:</p>
-            <p>-Agora quiero yo usar contigo de una liberalidad, y es que ambos comamos este racimo
-                de uvas y que hayas de él tanta parte como yo. Partillo hemos de esta manera: tú
-                picarás una vez y yo otra, con tal que me prometas no tomar cada vez más de una uva.
-                Yo haré lo mismo hasta que lo acabemos, y de esta suerte no habrá engaño.</p>
-            <p> Hecho así el concierto, comenzamos; mas luego al segundo lance, el traidor mudó
-                propósito, y comenzó a tomar de dos en dos, considerando que yo debería hacer lo
-                mismo. Como vi que él quebraba la postura, no me contenté ir a la par con él, mas
-                aún pasaba adelante: dos a dos y tres a tres y como podía las comía. Acabado el
-                racimo, estuvo un poco con el escobajo en la mano, y, meneando la cabeza, dijo:</p>
-            <p> -<persName corresp="Lázaro">Lázaro,</persName> engañado me has. Juraré yo a
-                    <persName corresp="Dios">Dios</persName> que has tú comido las uvas tres a
-                tres.</p>
-            <p> -No comí -dije yo-; mas ¿por qué sospecháis eso?</p>
-            <p> Respondió el sagacísimo <persName corresp="ciego">ciego:</persName></p>
-            <p> -¿Sabes en qué veo que las comiste tres a tres? En que comía yo dos a dos y
-                callabas.</p>
-            <p> A lo cual yo no respondí. Yendo que íbamos así por debajo de unos soportales, en
-                    <placeName ref="Escalona">Escalona</placeName> adonde a la sazón estábamos, en
-                casa de un zapatero había muchas sogas y otras cosas que de esparto se hacen, y
-                parte de ellas dieron a mi amo en la cabeza. El cual, alzando la mano, tocó en
-                ellas, y viendo lo que era díjome:</p>
-            <p>-Anda presto, muchacho; salgamos de entre tan mal manjar, que ahoga sin comerlo.</p>
-            <p> Yo, que bien descuidado iba de aquello, miré lo que era y, como no vi sino sogas y
-                cinchas, que no era cosa de comer, díjele:</p>
-            <p> -Tío, ¿por qué decís eso?</p>
-            <p> Respondióme:</p>
-            <p> -Calla, sobrino; según las mañas que llevas, lo sabrás y verás cómo digo verdad. </p>
-            <p> Y así pasamos adelante por el mismo portal y llegamos a un mesón, a la puerta del
-                cual había muchos cuernos en la pared, donde ataban los recueros sus bestias, y como
-                iba tentando si era allí el mesón adonde él rezaba cada día por la mesonera la
-                oración de la emparedada, asió de un cuerno, y con un gran suspiro dijo:</p>
-            <p> -¡Oh, mala cosa, peor que tienes la hechura! ¡De cuántos eres deseado poner tu
-                nombre sobre cabeza ajena y de cuán pocos tenerte ni aun oír tu nombre por ninguna
-                vía!</p>
-            <p> Como le oí lo que decía, dije:</p>
-            <p> -Tío, ¿qué es eso que decís?</p>
-            <p>-Calla, sobrino, que algún día te dará éste que en la mano tengo alguna mala comida y
-                cena.</p>
-            <p>-No le comeré yo -dije- y no me la dará.</p>
-            <p>- Yo te digo verdad; si no, verlo has, si vives.</p>
-            <p> Y así pasamos adelante hasta la puerta del mesón, adonde pluguiere a <persName
-                    corresp="Dios">Dios</persName> nunca allá llegáramos, según lo que me sucedió en
-                él.</p>
-            <p> Era todo lo más que rezaba por mesoneras y por bodegoneras y turroneras y rameras y
-                así por semejantes mujercillas, que por hombre casi nunca le vi decir oración.</p>
-            <p> Reíme entre mí y, aunque muchacho, noté mucho la discreta consideración del
-                    <persName corresp="ciego">ciego.</persName></p>
-            <p> Mas, por no ser prolijo, dejo de contar muchas cosas, así graciosas como de notar,
-                que con este mi primer amo me acaecieron, y quiero decir el despidiente y, con él,
-                acabar.</p>
-            <p> Estábamos en <placeName corresp="Escalona">Escalona,</placeName> villa del duque de
-                ella, en un mesón, y diome un pedazo de longaniza que le asase. Ya que la longaniza
-                había pringado y comídose las pringadas, sacó un maravedí de la bolsa y mandó que
-                fuese por él de vino a la taberna. Púsome el demonio el aparejo delante los ojos, el
-                cual, como suelen decir, hace al ladrón, y fue que había cabe el fuego un nabo
-                pequeño, larguillo y ruinoso, y tal que, por no ser para la olla, debió ser echado
-                allí. Y como al presente nadie estuviese, sino él y yo solos, como me vi con apetito
-                goloso, habiéndoseme puesto dentro el sabroso olor de la longaniza, del cual
-                solamente sabía que había de gozar, no mirando qué me podría suceder, pospuesto todo
-                el temor por cumplir con el deseo, en tanto que <persName corresp="ciego">el
-                    ciego</persName> sacaba de la bolsa el dinero, saqué la longaniza y muy presto
-                metí el sobredicho nabo en el asador, el cual, mi amo, dándome el dinero para el
-                vino, tomó y comenzó a dar vueltas al fuego, queriendo asar al que, de ser cocido,
-                por sus deméritos había escapado. Yo fui por el vino, con el cual no tardé en
-                despachar la longaniza y, cuando vine, hallé al pecador del <persName
-                    corresp="ciego">ciego</persName> que tenía entre dos rebanadas apretado el nabo,
-                al cual aún no había conocido por no haberlo tentado con la mano. Como tomase las
-                rebanadas y mordiese en ellas pensando también llevar parte de la longaniza, hallóse
-                en frío con el frío nabo. Alteróse y dijo:</p>
-            <p> -¿Qué es esto, Lazarillo?</p>
-            <p>-¡Lacerado de mí! -dije yo-. ¿Si queréis a mí echar algo? ¿Yo no vengo de traer el
-                vino? Alguno estaba ahí y por burlar haría esto.</p>
-            <p> -No, no -dijo él-, que yo no he dejado el asador de la mano; no es posible.</p>
-            <p> Yo torné a jurar y perjurar que estaba libre de aquel trueco y cambio; mas poco me
-                aprovechó, pues a las astucias del maldito <persName corresp="ciego"
-                    >ciego</persName> nada se le escondía. Levantóse y asióme por la cabeza y
-                llegóse a olerme. Y como debió sentir el huelgo, a uso de buen podenco, por mejor
-                satisfacerse de la verdad, y con la gran agonía que llevaba, asiéndome con las
-                manos, abríame la boca más de su derecho y desatentadamente metía la nariz. La cual
-                él tenía luenga y afilada, y a aquella sazón, con el enojo, se había aumentado un
-                palmo; con el pico de la cual me llegó a la golilla.</p>
-            <p> Y con esto, y con el gran miedo que tenía, y con la brevedad del tiempo, la negra
-                longaniza aún no había hecho asiento en el estómago; y lo más principal: con el
-                destiento de la cumplidísima nariz, medio cuasi ahogándome, todas estas cosas se
-                juntaron y fueron causa que el hecho y golosina se manifestase y lo suyo fuese
-                vuelto a su dueño. De manera que, antes que <persName corresp="ciego">el mal
-                    ciego</persName> sacase de mi boca su trompa, tal alteración sintió mi estómago,
-                que le dio con el hurto en ella, de suerte que su nariz y la negra mal mascada
-                longaniza a un tiempo salieron de mi boca.</p>
-            <p> ¡Oh gran <persName corresp="Dios">Dios,</persName> quién estuviera aquella hora
-                sepultado, que muerto ya lo estaba! Fue tal el coraje del perverso <persName
-                    corresp="ciego">ciego,</persName> que, si al ruido no acudieran, pienso no me
-                dejara con la vida. Sacáronme de entre sus manos, dejándoselas llenas de aquellos
-                pocos cabellos que tenía, arañada la cara y rascuñado el pescuezo y la garganta. Y
-                esto bien lo merecía, pues por su maldad me venían tantas persecuciones.</p>
-            <p> Contaba <persName corresp="ciego">el mal ciego</persName> a todos cuantos allí se
-                allegaban mis desastres, y dábales cuenta una y otra vez, así de la del jarro como
-                de la del racimo, y agora de lo presente. Era la risa de todos tan grande, que toda
-                la gente que por la calle pasaba entraba a ver la fiesta; mas con tanta gracia y
-                donaire contaba <persName corresp="ciego">el ciego</persName> mis hazañas, que,
-                aunque yo estaba tan maltratado y llorando, me parecía que hacía sinjusticia en no
-                reírselas.</p>
-            <p> Y en cuanto esto pasaba, a la memoria me vino una cobardía y flojedad que hice, por
-                que me maldecía, y fue no dejalle sin narices, pues tan buen tiempo tuve para ello,
-                que la mitad del camino estaba andado; que con sólo apretar los dientes se me
-                quedaran en casa, y, con ser de aquel malvado, por ventura lo retuviera mejor mi
-                estómago que retuvo la longaniza, y, no pareciendo ellas, pudiera negar la demanda.
-                ¡Pluguiera a <persName corresp="Dios">Dios</persName> que lo hubiera hecho, que eso
-                fuera así que así!</p>
-            <p> Hiciéronnos amigos la mesonera y los que allí estaban, y, con el vino que para beber
-                le había traído, laváronme la cara y la garganta. Sobre lo cual discantaba <persName
-                    corresp="ciego">el mal ciego</persName> donaires, diciendo:</p>
-            <p>-Por verdad, más vino me gasta este mozo en lavatorios al cabo del año, que yo bebo
-                en dos. A lo menos, <persName corresp="Lázaro">Lázaro,</persName> eres en más cargo
-                al vino que a tu padre, porque él una vez te engendró, mas el vino mil te ha dado la
-                vida.</p>
-            <p>Y luego contaba cuántas veces me había descalabrado y arpado la cara, y con vino
-                luego sanaba.</p>
-            <p> -Yo te digo -dijo- que, si hombre en el mundo ha de ser bienaventurado con vino, que
-                serás tú.</p>
-            <p> Y reían mucho los que me lavaban con esto, aunque yo renegaba. Mas el pronóstico del
-                    <persName corresp="ciego">ciego</persName> no salió mentiroso, y después acá
-                muchas veces me acuerdo de aquel hombre, que sin duda debía tener espíritu de
-                profecía, y me pesa de los sinsabores que le hice, aunque bien se lo pagué,
-                considerando lo que aquel día me dijo salirme tan verdadero como adelante <persName
-                    corresp="Vuestra Merced">Vuestra Merced</persName> oirá.</p>
-            <p> Visto esto y las malas burlas que <persName corresp="ciego">el ciego</persName>
-                burlaba de mí, determiné de todo en todo dejalle, y, como lo traía pensado y lo
-                tenía en voluntad, con este postrer juego que me hizo afirmélo más. Y fue así que
-                luego otro día salimos por la villa a pedir limosna, y había llovido mucho la noche
-                antes; y porque el día también llovía, y andaba rezando debajo de unos portales que
-                en aquel pueblo había, donde no nos mojamos, mas como la noche se venía y el llover
-                no cesaba, díjome <persName corresp="ciego">el ciego:</persName></p>
-            <p> -<persName corresp="Lázaro">Lázaro,</persName> esta agua es muy porfiada, y cuanto
-                la noche más cierra, más recia. Acojámonos a la posada con tiempo. </p>
-            <p> Para ir allá habíamos de pasar un arroyo, que con la mucha agua iba grande. Yo le
-                dije:</p>
-            <p> -Tío, el arroyo va muy ancho; mas si queréis, yo veo por donde travesemos más aína
-                sin mojarnos, porque se estrecha allí mucho y, saltando, pasaremos a pie enjuto. </p>
-            <p> Parecióle buen consejo y dijo:</p>
-            <p> -Discreto eres, por esto te quiero bien; llévame a ese lugar donde el arroyo se
-                ensangosta, que agora es invierno y sabe mal el agua, y más llevar los pies
-                mojados.</p>
-            <p> Yo que vi el aparejo a mi deseo, saquéle de bajo de los portales y llevélo derecho
-                de un pilar o poste de piedra que en la plaza estaba, sobre el cual y sobre otros
-                cargaban saledizos de aquellas casas, y dígole:</p>
-            <p> -Tío, éste es el paso más angosto que en el arroyo hay.</p>
-            <p> Como llovía recio y el triste se mojaba, y con la priesa que llevábamos de salir del
-                agua, que encima de nos caía, y, lo más principal, porque <persName corresp="Dios"
-                    >Dios</persName> le cegó aquella hora el entendimiento (fue por darme de él
-                venganza), creyóse de mí, y dijo:</p>
-            <p> -Ponme bien derecho y salta tú el arroyo.</p>
-            <p> Yo le puse bien derecho enfrente del pilar, y doy un salto y póngome detrás del
-                poste, como quien espera tope de toro, y díjele:</p>
-            <p> -¡Sus, saltad todo lo que podáis, porque deis de este cabo del agua!</p>
-            <p> Aun apenas lo había acabado de decir, cuando se abalanza el pobre <persName
-                    corresp="ciego">ciego</persName> como cabrón y de toda su fuerza arremete,
-                tomando un paso atrás de la corrida para hacer mayor salto, y da con la cabeza en el
-                poste, que sonó tan recio como si diera con una gran calabaza, y cayó luego para
-                atrás medio muerto y hendida la cabeza.</p>
-            <p> -¿Cómo, y olisteis la longaniza y no el poste? ¡Oled! ¡Oled! -le dije yo.</p>
-            <p>Y dejéle en poder de mucha gente que lo había ido a socorrer, y tomo la puerta de la
-                villa en los pies de un trote, y, antes de que la noche viniese, di conmigo en
-                    <placeName ref="Torrijos">Torrijos.</placeName> No supe más lo que <persName
-                    corresp="Dios">Dios</persName> de él hizo ni curé de saberlo.</p>
-
-
-            <div type="titulo">
-                <head>Tratado segundo</head>
-                <p>Cómo <persName xml:id="Lazarillo">Lázaro</persName> se asentó con <persName
-                        xml:id="Clérigo">un clérigo</persName>, y de las cosas que con él pasó</p>
+            <div type="titulo" corresp="#tratado1">
+                <!-- aquí se requiere el título -->
             </div>
-            <div type="texto">
+            <div type="texto" xml:id="tratado1">
+                <p> Pues sepa <persName xml:id="VuestraMerced">Vuestra Merced,</persName> ante todas
+                    cosas, que a mí llaman <persName xml:id="Lazaro">Lázaro de Tormes,</persName>
+                    hijo de <persName xml:id="TomeGonzalez">Tomé González</persName> y de <persName
+                        xml:id="AntonaPerez">Antona Pérez,</persName> naturales de <placeName
+                        ref="Tejares">Tejares,</placeName> aldea de <placeName ref="Salamanca"
+                        >Salamanca.</placeName> Mi nacimiento fue dentro del río <placeName
+                        ref="Tormes">Tormes,</placeName> por la cual causa tomé el sobrenombre; y
+                    fue de esta manera: mi padre, que <name type="religious" xml:id="Dios">Dios</name>
+                    perdone, tenía cargo de proveer una molienda de una aceña que está ribera de
+                    aquel río, en la cual fue molinero más de quince años; y, estando mi madre una
+                    noche en la aceña, preñada de mí, tomóle el parto y parióme allí. De manera que
+                    con verdad me puedo decir nacido en el río.</p>
+                <p> Pues siendo yo niño de ocho años, achacaron a mi padre ciertas sangrías mal
+                    hechas en los costales de los que allí a moler venían, por lo cual fue preso, y
+                    confesó y no negó, y padeció persecución por justicia. Espero en <name type="religious"
+                        corresp="#Dios">Dios</name> que está en la gloria, pues el Evangelio
+                    los llama bienaventurados. En este tiempo se hizo cierta armada contra moros,
+                    entre los cuales fue mi padre (que a la sazón estaba desterrado por el desastre
+                    ya dicho), con cargo de acemilero de un caballero que allá fue. Y con su señor,
+                    como leal criado, feneció su vida. </p>
+                <p> Mi viuda madre, como sin marido y sin abrigo se viese, determinó arrimarse a los
+                    buenos por ser uno de ellos, y vínose a vivir a la ciudad y alquiló una casilla
+                    y metióse a guisar de comer a ciertos estudiantes, y lavaba la ropa a ciertos
+                    mozos de caballos del comendador de <persName xml:id="Magdalena"> la
+                        Magdalena,</persName>de manera que fue frecuentando las caballerizas.</p>
+                <p> Ella y un hombre moreno de aquellos que las bestias curaban vinieron en
+                    conocimiento. Éste algunas veces se venía a nuestra casa y se iba a la mañana.
+                    Otras veces, de día llegaba a la puerta en achaque de comprar huevos, y
+                    entrábase en casa. Yo, al principio de su entrada, pesábame con él y habíale
+                    miedo, viendo el color y mal gesto que tenía; mas, de que vi que con su venida
+                    mejoraba el comer, fuile queriendo bien, porque siempre traía pan, pedazos de
+                    carne y en el invierno leños a que nos calentábamos. </p>
+                <p> De manera que, continuando la posada y conversación, mi madre vino a darme un
+                    negrito muy bonito, el cual yo brincaba y ayudaba a calentar. Y acuérdome que,
+                    estando el negro de mi padrastro trebejando con el mozuelo, como el niño vía a
+                    mi madre y a mí blancos y a él no, huía de él, con miedo, para mi madre, y,
+                    señalando con el dedo, decía: </p>
+                <p> -¡Madre, coco! </p>
+                <p> Respondió él riendo: </p>
+                <p> -¡Hideputa! </p>
+                <p> Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre mí:
+                    «¡Cuántos debe de haber en el mundo que huyen de otros porque no se ven a sí
+                    mismos!».</p>
+                <p> Quiso nuestra fortuna que la conversación del <placeName xml:id="Zaide"
+                        >Zaide,</placeName> que así se llamaba, llegó a oídos del mayordomo, y,
+                    hecha pesquisa, hallóse que la mitad por medio de la cebada, que para las
+                    bestias le daban, hurtaba, y salvados, leña, almohazas, mandiles, y las mantas y
+                    sábanas de los caballos hacía perdidas; y, cuando otra cosa no tenía, las
+                    bestias desherraba, y con todo esto acudía a mi madre para criar a mi hermanico.
+                    No nos maravillemos de un clérigo ni fraile, porque el uno hurta de los pobres y
+                    el otro de casa para sus devotas y para ayuda de otro tanto, cuando a un pobre
+                    esclavo el amor le animaba a esto.</p>
+                <p> Y probósele cuanto digo, y aún más; porque a mí con amenazas me preguntaban, y,
+                    como niño, respondía y descubría cuanto sabía con miedo: hasta ciertas
+                    herraduras que por mandado de mi madre a un herrero vendí. </p>
+                <p> Al triste de mi <persName xml:id="padrastro">padrastro</persName> azotaron y
+                    pringaron, y a mi madre pusieron pena por justicia, sobre el acostumbrado
+                    centenario, que en casa del sobredicho comendador no entrase ni al lastimado
+                    Zaide en la suya acogiese. </p>
+                <p> Por no echar la soga tras el caldero, la triste se esforzó y cumplió la
+                    sentencia. Y, por evitar peligro y quitarse de malas lenguas, se fue a servir a
+                    los que al presente vivían en el mesón de la <placeName ref="Solana"
+                        >Solana;</placeName> y allí, padeciendo mil importunidades, se acabó de
+                    criar mi hermanico hasta que supo andar, y a mí hasta ser buen mozuelo, que iba
+                    a los huéspedes por vino y candelas y por lo demás que me mandaban.</p>
+                <p> En este tiempo vino a posar al mesón <persName xml:id="ciego">un
+                        ciego,</persName> el cual, pareciéndole que yo sería para adestrarle, me
+                    pidió a mi madre, y ella me encomendó a él, diciéndole cómo era hijo de un buen
+                    hombre, el cual, por ensalzar la fe, había muerto en la de <placeName
+                        ref="Gelves">los Gelves,</placeName> y que ella confiaba en <name type="religious"
+                        corresp="#Dios">Dios</name> no saldría peor hombre que mi padre, y que le
+                    rogaba me tratase bien y mirase por mí, pues era huérfano. Él respondió que así
+                    lo haría y que me recibía, no por mozo, sino por hijo. Y así le comencé a servir
+                    y adestrar a mi nuevo y viejo amo.</p>
+                <p> Como estuvimos en <placeName corresp="#Salamanca">Salamanca</placeName> algunos
+                    días, pareciéndole a mi amo que no era la ganancia a su contento, determinó irse
+                    de allí; y cuando nos hubimos de partir, yo fui a ver a mi madre, y, ambos
+                    llorando, me dio su bendición y dijo:</p>
+                <p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y Dios te guíe. Criado te
+                    he y con buen amo te he puesto; válete por ti.</p>
+                <p> Y así me fui para mi amo, que esperándome estaba.</p>
+                <p> Salimos de <placeName corresp="#Salamanca">Salamanca,</placeName> y, llegando a la
+                    puente, está a la entrada de ella un animal de piedra, que casi tiene forma de
+                    toro, y <persName corresp="#ciego">el ciego</persName> mandóme que llegase cerca
+                    del animal, y, allí puesto, me dijo:</p>
+                <p> -<persName corresp="#Lazaro">Lázaro,</persName> llega el oído a este toro y oirás
+                    gran ruido dentro de él.</p>
+                <p> Yo simplemente llegué, creyendo ser así. Y como sintió que tenía la cabeza par
+                    de la piedra, afirmó recio la mano y diome una gran calabazada en el diablo del
+                    toro, que más de tres días me duró el dolor de la cornada, y díjome:</p>
+                <p> -Necio, aprende, que el mozo del <persName corresp="#ciego">ciego</persName> un
+                    punto ha de saber más que el diablo.</p>
+                <p> Y rió mucho la burla.</p>
+                <p> Parecióme que en aquel instante desperté de la simpleza en que, como niño,
+                    dormido estaba. Dije entre mí: «Verdad dice éste, que me cumple avivar el ojo y
+                    avisar, pues solo soy, y pensar cómo me sepa valer».</p>
+                <p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te
+                    mostraré.</p>
+                <p>Y fue así, que, después de Dios, éste me dio la vida, y, siendo <persName
+                        corresp="#ciego">ciego,</persName> me alumbró y adestró en la carrera de
+                    vivir.</p>
+                <p>Huelgo de contar a <persName corresp="#VuestraMerced">Vuestra Merced</persName>
+                    estas niñerías, para mostrar cuánta virtud sea saber los hombres subir siendo
+                    bajos, y dejarse bajar siendo altos cuánto vicio.</p>
+                <p>Pues, tornando al bueno de <persName corresp="#ciego">mi ciego</persName> y
+                    contando sus cosas, <persName corresp="#VuestraMerced">Vuestra Merced</persName>
+                    sepa que, desde que <name type="religious" corresp="#Dios">Dios</name> crió el mundo,
+                    ninguno formó más astuto ni sagaz. En su oficio era un águila: ciento y tantas
+                    oraciones sabía de coro; un tono bajo, reposado y muy sonable, que hacía resonar
+                    la iglesia donde rezaba; un rostro humilde y devoto, que, con muy buen
+                    continente, ponía cuando rezaba, sin hacer gestos ni visajes con boca ni ojos,
+                    como otros suelen hacer.</p>
+                <p>Allende de esto, tenía otras mil formas y maneras para sacar el dinero. Decía
+                    saber oraciones para muchos y diversos efectos: para mujeres que no parían; para
+                    las que estaban de parto; para las que eran malcasadas, que sus maridos las
+                    quisiesen bien. Echaba pronósticos a las preñadas si traían hijo o hija. Pues en
+                    caso de medicina decía que <placeName ref="Galeno">Galeno</placeName> no supo la
+                    mitad que él para muelas, desmayos, males de madre. Finalmente, nadie le decía
+                    padecer alguna pasión, que luego no le decía:</p>
+                <p> -Haced esto, haréis esto otro, cosed tal yerba, tomad tal raíz.</p>
+                <p>Con esto andábase todo el mundo tras él, especialmente mujeres, que cuanto les
+                    decía creían. De éstas sacaba él grandes provechos con las artes que digo, y
+                    ganaba más en un mes que cien ciegos en un año.</p>
+                <p>Mas también quiero que sepa <persName corresp="#VuestraMerced">Vuestra
+                        Merced</persName>que, con todo lo que adquiría y tenía, jamás tan avariento
+                    ni mezquino hombre no vi; tanto, que me mataba a mí de hambre, y así no me
+                    demediaba de lo necesario. Digo verdad: si con mi sutileza y buenas mañas no me
+                    supiera remediar, muchas veces me finara de hambre; mas, con todo su saber y
+                    aviso, le contaminaba de tal suerte que siempre, o las más veces, me cabía lo
+                    más y mejor. Para esto le hacía burlas endiabladas, de las cuales contaré
+                    algunas, aunque no todas a mi salvo.</p>
+                <p> Él traía el pan y todas las otras cosas en un fardel de lienzo, que por la boca
+                    se cerraba con una argolla de hierro y su candado y llave; y al meter de todas
+                    las cosas y sacallas, era con tanta vigilancia y tan por contadero, que no
+                    bastara todo el mundo a hacerle menos una migaja. Mas yo tomaba aquella lacería
+                    que él me daba, la cual en menos de dos bocados era despachada. Después que
+                    cerraba el candado y se descuidaba, pensando que yo estaba entendiendo en otras
+                    cosas, por un poco de costura, que muchas veces del un lado del fardel descosía
+                    y tornaba a coser, sangraba el avariento fardel, sacando, no por tasa pan, más
+                    buenos pedazos, torreznos y longaniza. Y así, buscaba conveniente tiempo para
+                    rehacer, no la chaza, sino la endiablada falta que <persName corresp="#ciego">el
+                        mal ciego</persName> me faltaba.</p>
+                <p>Todo lo que podía sisar y hurtar traía en medias blancas, y, cuando le mandaban
+                    rezar y le daban blancas, como él carecía de vista, no había el que se la daba
+                    amagado con ella, cuando yo la tenía lanzada en la boca y la media aparejada,
+                    que, por presto que él echaba la mano, ya iba de mi cambio aniquilada en la
+                    mitad del justo precio. Quejábaseme <persName corresp="#ciego">el mal
+                        ciego,</persName> porque al tiento luego conocía y sentía que no era blanca
+                    entera, y decía:</p>
+                <p> -¿Qué diablo es esto, que, después que conmigo estás, no me dan sino medias
+                    blancas, y de antes una blanca y un maravedí hartas veces me pagaban? En ti debe
+                    estar esta desdicha.</p>
+                <p> También él abreviaba el rezar y la mitad de la oración no acababa, porque me
+                    tenía mandado que, en yéndose el que la mandaba rezar, le tirase por cabo del
+                    capuz. Yo así lo hacía. Luego él tornaba a dar voces diciendo:</p>
+                <p>-¿Mandan rezar tal y tal oración? -como suelen decir.</p>
+                <p> Usaba poner cabe sí un jarrillo de vino cuando comíamos, y yo muy de presto le
+                    asía y daba un par de besos callados y tornábale a su lugar. Mas duróme poco,
+                    que en los tragos conocía la falta, y, por reservar su vino a salvo, nunca
+                    después desamparaba el jarro, antes lo tenía por el asa asido. Mas no había
+                    piedra imán que así trajese a sí como yo con una paja larga de centeno que para
+                    aquel menester tenía hecha, la cual, metiéndola en la boca del jarro, chupando
+                    el vino, lo dejaba a buenas noches. Mas, como fuese el traidor tan astuto,
+                    pienso que me sintió, y dende en adelante mudó propósito y asentaba su jarro
+                    entre las piernas y atapábale con la mano, y así bebía seguro.</p>
+                <p> Yo, como estaba hecho al vino, moría por él, y viendo que aquel remedio de la
+                    paja no me aprovechaba ni valía, acordé en el suelo del jarro hacerle una
+                    fuentecilla y agujero sutil, y, delicadamente, con una muy delgada tortilla de
+                    cera, taparlo; y, al tiempo de comer, fingiendo haber frío, entrábame entre las
+                    piernas del triste <persName corresp="#ciego">ciego</persName> a calentarme en la
+                    pobrecilla lumbre que teníamos, y, al calor de ella luego derretida la cera, por
+                    ser muy poca, comenzaba la fuentecilla a destilarme en la boca, la cual yo de
+                    tal manera ponía, que maldita la gota se perdía. Cuando el pobreto iba a beber,
+                    no hallaba nada. Espantábase, maldecíase, daba al diablo el jarro y el vino, no
+                    sabiendo qué podía ser.</p>
+                <p>-No diréis, tío, que os lo bebo yo -decía-, pues no le quitáis de la mano.</p>
+                <p>Tantas vueltas y tientos dio al jarro, que halló la fuente y cayó en la burla;
+                    mas así lo disimuló como si no lo hubiera sentido.</p>
+                <p>Y luego otro día, teniendo yo rezumando mi jarro como solía, no pensando el daño
+                    que me estaba aparejado ni que <persName corresp="#ciego">el mal ciego</persName>
+                    me sentía, sentéme como solía; estando recibiendo aquellos dulces tragos, mi
+                    cara puesta hacia el cielo, un poco cerrados los ojos por mejor gustar el
+                    sabroso licor, sintió el desesperado <persName corresp="#ciego">ciego</persName>
+                    que agora tenía tiempo de tomar de mí venganza, y con toda su fuerza, alzando
+                    con dos manos aquel dulce y amargo jarro, le dejó caer sobre mi boca,
+                    ayudándose, como digo, con todo su poder, de manera que <persName
+                        corresp="#Lazaro">el pobre Lázaro,</persName> que de nada de esto se
+                    guardaba, antes, como otras veces, estaba descuidado y gozoso, verdaderamente me
+                    pareció que el cielo, con todo lo que en él hay, me había caído encima.</p>
+                <p>Fue tal el golpecillo, que me desatinó y sacó de sentido, y el jarrazo tan
+                    grande, que los pedazos de él se me metieron por la cara, rompiéndomela por
+                    muchas partes, y me quebró los dientes, sin los cuales hasta hoy día me
+                    quedé.</p>
+                <p>Desde aquella hora quise mal <persName corresp="#ciego">al mal ciego,</persName>
+                    y, aunque me quería y regalaba y me curaba, bien vi que se había holgado del
+                    cruel castigo. Lavóme con vino las roturas que con los pedazos del jarro me
+                    había hecho, y, sonriéndose, decía:</p>
+                <p>-¿Qué te parece <persName corresp="#Lazaro">Lázaro?</persName> Lo que te enfermó
+                    te sana y da salud -y otros donaires que a mi gusto no lo eran.</p>
+                <p>Ya que estuve medio bueno de mi negra trepa y cardenales, considerando que, a
+                    pocos golpes tales, <persName corresp="#ciego">el cruel ciego</persName>
+                    ahorraría de mí, quise yo ahorrar de él; mas no lo hice tan presto, por hacello
+                    más a mi salvo y provecho. Y aunque yo quisiera asentar mi corazón y perdonalle
+                    el jarrazo, no daba lugar el maltratamiento que <persName corresp="#ciego">el mal
+                        ciego</persName> dende allí adelante me hacía, que sin causa ni razón me
+                    hería, dándome coscorrones y repelándome.</p>
+                <p>Y si alguno le decía por qué me trataba tan mal, luego contaba el cuento del
+                    jarro, diciendo:</p>
+                <p>-¿Pensaréis que este mi mozo es algún inocente? Pues oíd si el demonio ensayara
+                    otra tal hazaña.</p>
+                <p>Santiguándose los que lo oían, decían:</p>
+                <p>-¡Mirad quién pensara de un muchacho tan pequeño tal ruindad!</p>
+                <p>Y reían mucho el artificio y decíanle:</p>
+                <p>-¡Castigadlo, castigadlo, que de <name type="religious" corresp="#Dios">Dios</name> lo
+                    habréis!</p>
+                <p>Y él, con aquello, nunca otra cosa hacía.</p>
+                <p>Y en esto yo siempre le llevaba por los peores caminos, y adrede, por hacerle mal
+                    y daño; si había piedras, por ellas; si lodo, por lo más alto; que, aunque yo no
+                    iba por lo más enjuto, holgábame a mí de quebrar un ojo por quebrar dos al que
+                    ninguno tenía. Con esto, siempre con el cabo alto del tiento me atentaba el
+                    colodrillo, el cual siempre traía lleno de tolondrones y pelado de sus manos. Y,
+                    aunque yo juraba no hacerlo con malicia, sino por no hallar mejor camino, no me
+                    aprovechaba ni me creía, mas tal era el sentido y el grandísimo entendimiento
+                    del traidor.</p>
+                <p>Y porque vea <persName corresp="#VuestraMerced">Vuestra Merced</persName> a
+                    cuánto se extendía el ingenio de este astuto <persName corresp="#ciego"
+                        >ciego,</persName> contaré un caso de muchos que con él me acaecieron, en el
+                    cual me parece dio bien a entender su gran astucia. Cuando salimos de <placeName
+                        corresp="#Salamanca">Salamanca,</placeName> su motivo fue venir a tierra de
+                        <placeName corresp="#Toledo">Toledo,</placeName> porque decía ser la gente
+                    más rica, aunque no muy limosnera. Arrimábase a este refrán: «Más da el duro que
+                    el desnudo». Y vinimos a este camino por los mejores lugares. Donde hallaba
+                    buena acogida y ganancia, deteníamonos; donde no, a tercero día hacíamos
+                        <placeName ref="San Juan">San Juan.</placeName></p>
+                <p>Acaeció que, llegando a un lugar que llaman <placeName ref="Almorox"
+                        >Almorox</placeName> al tiempo que cogían las uvas, un vendimiador le dio un
+                    racimo de ellas en limosna. Y como suelen ir los cestos maltratados, y también
+                    porque la uva en aquel tiempo está muy madura, desgranábasele el racimo en la
+                    mano. Para echarlo en el fardel, tornábase mosto, y lo que a él se llegaba.
+                    Acordó de hacer un banquete, así por no poder llevarlo, como por contentarme,
+                    que aquel día me había dado muchos rodillazos y golpes. Sentámonos en un
+                    valladar y dijo:</p>
+                <p>-Agora quiero yo usar contigo de una liberalidad, y es que ambos comamos este
+                    racimo de uvas y que hayas de él tanta parte como yo. Partillo hemos de esta
+                    manera: tú picarás una vez y yo otra, con tal que me prometas no tomar cada vez
+                    más de una uva. Yo haré lo mismo hasta que lo acabemos, y de esta suerte no
+                    habrá engaño.</p>
+                <p> Hecho así el concierto, comenzamos; mas luego al segundo lance, el traidor mudó
+                    propósito, y comenzó a tomar de dos en dos, considerando que yo debería hacer lo
+                    mismo. Como vi que él quebraba la postura, no me contenté ir a la par con él,
+                    mas aún pasaba adelante: dos a dos y tres a tres y como podía las comía. Acabado
+                    el racimo, estuvo un poco con el escobajo en la mano, y, meneando la cabeza,
+                    dijo:</p>
+                <p> -<persName corresp="#Lazaro">Lázaro,</persName> engañado me has. Juraré yo a
+                        <name type="religious" corresp="#Dios">Dios</name> que has tú comido las uvas tres a
+                    tres.</p>
+                <p> -No comí -dije yo-; mas ¿por qué sospecháis eso?</p>
+                <p> Respondió el sagacísimo <persName corresp="#ciego">ciego:</persName></p>
+                <p> -¿Sabes en qué veo que las comiste tres a tres? En que comía yo dos a dos y
+                    callabas.</p>
+                <p> A lo cual yo no respondí. Yendo que íbamos así por debajo de unos soportales, en
+                        <placeName ref="Escalona">Escalona</placeName> adonde a la sazón estábamos,
+                    en casa de un zapatero había muchas sogas y otras cosas que de esparto se hacen,
+                    y parte de ellas dieron a mi amo en la cabeza. El cual, alzando la mano, tocó en
+                    ellas, y viendo lo que era díjome:</p>
+                <p>-Anda presto, muchacho; salgamos de entre tan mal manjar, que ahoga sin
+                    comerlo.</p>
+                <p> Yo, que bien descuidado iba de aquello, miré lo que era y, como no vi sino sogas
+                    y cinchas, que no era cosa de comer, díjele:</p>
+                <p> -Tío, ¿por qué decís eso?</p>
+                <p> Respondióme:</p>
+                <p> -Calla, sobrino; según las mañas que llevas, lo sabrás y verás cómo digo verdad. </p>
+                <p> Y así pasamos adelante por el mismo portal y llegamos a un mesón, a la puerta
+                    del cual había muchos cuernos en la pared, donde ataban los recueros sus
+                    bestias, y como iba tentando si era allí el mesón adonde él rezaba cada día por
+                    la mesonera la oración de la emparedada, asió de un cuerno, y con un gran
+                    suspiro dijo:</p>
+                <p> -¡Oh, mala cosa, peor que tienes la hechura! ¡De cuántos eres deseado poner tu
+                    nombre sobre cabeza ajena y de cuán pocos tenerte ni aun oír tu nombre por
+                    ninguna vía!</p>
+                <p> Como le oí lo que decía, dije:</p>
+                <p> -Tío, ¿qué es eso que decís?</p>
+                <p>-Calla, sobrino, que algún día te dará éste que en la mano tengo alguna mala
+                    comida y cena.</p>
+                <p>-No le comeré yo -dije- y no me la dará.</p>
+                <p>- Yo te digo verdad; si no, verlo has, si vives.</p>
+                <p> Y así pasamos adelante hasta la puerta del mesón, adonde pluguiere a <name type="religious"
+                        corresp="#Dios">Dios</name> nunca allá llegáramos, según lo que me
+                    sucedió en él.</p>
+                <p> Era todo lo más que rezaba por mesoneras y por bodegoneras y turroneras y
+                    rameras y así por semejantes mujercillas, que por hombre casi nunca le vi decir
+                    oración.</p>
+                <p> Reíme entre mí y, aunque muchacho, noté mucho la discreta consideración del
+                        <persName corresp="#ciego">ciego.</persName></p>
+                <p> Mas, por no ser prolijo, dejo de contar muchas cosas, así graciosas como de
+                    notar, que con este mi primer amo me acaecieron, y quiero decir el despidiente
+                    y, con él, acabar.</p>
+                <p> Estábamos en <placeName corresp="#Escalona">Escalona,</placeName> villa del duque
+                    de ella, en un mesón, y diome un pedazo de longaniza que le asase. Ya que la
+                    longaniza había pringado y comídose las pringadas, sacó un maravedí de la bolsa
+                    y mandó que fuese por él de vino a la taberna. Púsome el demonio el aparejo
+                    delante los ojos, el cual, como suelen decir, hace al ladrón, y fue que había
+                    cabe el fuego un nabo pequeño, larguillo y ruinoso, y tal que, por no ser para
+                    la olla, debió ser echado allí. Y como al presente nadie estuviese, sino él y yo
+                    solos, como me vi con apetito goloso, habiéndoseme puesto dentro el sabroso olor
+                    de la longaniza, del cual solamente sabía que había de gozar, no mirando qué me
+                    podría suceder, pospuesto todo el temor por cumplir con el deseo, en tanto que
+                        <persName corresp="#ciego">el ciego</persName> sacaba de la bolsa el dinero,
+                    saqué la longaniza y muy presto metí el sobredicho nabo en el asador, el cual,
+                    mi amo, dándome el dinero para el vino, tomó y comenzó a dar vueltas al fuego,
+                    queriendo asar al que, de ser cocido, por sus deméritos había escapado. Yo fui
+                    por el vino, con el cual no tardé en despachar la longaniza y, cuando vine,
+                    hallé al pecador del <persName corresp="#ciego">ciego</persName> que tenía entre
+                    dos rebanadas apretado el nabo, al cual aún no había conocido por no haberlo
+                    tentado con la mano. Como tomase las rebanadas y mordiese en ellas pensando
+                    también llevar parte de la longaniza, hallóse en frío con el frío nabo. Alteróse
+                    y dijo:</p>
+                <p> -¿Qué es esto, Lazarillo?</p>
+                <p>-¡Lacerado de mí! -dije yo-. ¿Si queréis a mí echar algo? ¿Yo no vengo de traer
+                    el vino? Alguno estaba ahí y por burlar haría esto.</p>
+                <p> -No, no -dijo él-, que yo no he dejado el asador de la mano; no es posible.</p>
+                <p> Yo torné a jurar y perjurar que estaba libre de aquel trueco y cambio; mas poco
+                    me aprovechó, pues a las astucias del maldito <persName corresp="#ciego"
+                        >ciego</persName> nada se le escondía. Levantóse y asióme por la cabeza y
+                    llegóse a olerme. Y como debió sentir el huelgo, a uso de buen podenco, por
+                    mejor satisfacerse de la verdad, y con la gran agonía que llevaba, asiéndome con
+                    las manos, abríame la boca más de su derecho y desatentadamente metía la nariz.
+                    La cual él tenía luenga y afilada, y a aquella sazón, con el enojo, se había
+                    aumentado un palmo; con el pico de la cual me llegó a la golilla.</p>
+                <p> Y con esto, y con el gran miedo que tenía, y con la brevedad del tiempo, la
+                    negra longaniza aún no había hecho asiento en el estómago; y lo más principal:
+                    con el destiento de la cumplidísima nariz, medio cuasi ahogándome, todas estas
+                    cosas se juntaron y fueron causa que el hecho y golosina se manifestase y lo
+                    suyo fuese vuelto a su dueño. De manera que, antes que <persName corresp="#ciego"
+                        >el mal ciego</persName> sacase de mi boca su trompa, tal alteración sintió
+                    mi estómago, que le dio con el hurto en ella, de suerte que su nariz y la negra
+                    mal mascada longaniza a un tiempo salieron de mi boca.</p>
+                <p> ¡Oh gran <name type="religious" corresp="#Dios">Dios,</name> quién estuviera aquella hora
+                    sepultado, que muerto ya lo estaba! Fue tal el coraje del perverso <persName
+                        corresp="#ciego">ciego,</persName> que, si al ruido no acudieran, pienso no
+                    me dejara con la vida. Sacáronme de entre sus manos, dejándoselas llenas de
+                    aquellos pocos cabellos que tenía, arañada la cara y rascuñado el pescuezo y la
+                    garganta. Y esto bien lo merecía, pues por su maldad me venían tantas
+                    persecuciones.</p>
+                <p> Contaba <persName corresp="#ciego">el mal ciego</persName> a todos cuantos allí
+                    se allegaban mis desastres, y dábales cuenta una y otra vez, así de la del jarro
+                    como de la del racimo, y agora de lo presente. Era la risa de todos tan grande,
+                    que toda la gente que por la calle pasaba entraba a ver la fiesta; mas con tanta
+                    gracia y donaire contaba <persName corresp="#ciego">el ciego</persName> mis
+                    hazañas, que, aunque yo estaba tan maltratado y llorando, me parecía que hacía
+                    sinjusticia en no reírselas.</p>
+                <p> Y en cuanto esto pasaba, a la memoria me vino una cobardía y flojedad que hice,
+                    por que me maldecía, y fue no dejalle sin narices, pues tan buen tiempo tuve
+                    para ello, que la mitad del camino estaba andado; que con sólo apretar los
+                    dientes se me quedaran en casa, y, con ser de aquel malvado, por ventura lo
+                    retuviera mejor mi estómago que retuvo la longaniza, y, no pareciendo ellas,
+                    pudiera negar la demanda. ¡Pluguiera a <name type="religious" corresp="#Dios">Dios</name>
+                    que lo hubiera hecho, que eso fuera así que así!</p>
+                <p> Hiciéronnos amigos la mesonera y los que allí estaban, y, con el vino que para
+                    beber le había traído, laváronme la cara y la garganta. Sobre lo cual discantaba
+                        <persName corresp="#ciego">el mal ciego</persName> donaires, diciendo:</p>
+                <p>-Por verdad, más vino me gasta este mozo en lavatorios al cabo del año, que yo
+                    bebo en dos. A lo menos, <persName corresp="#Lazaro">Lázaro,</persName> eres en
+                    más cargo al vino que a tu padre, porque él una vez te engendró, mas el vino mil
+                    te ha dado la vida.</p>
+                <p>Y luego contaba cuántas veces me había descalabrado y arpado la cara, y con vino
+                    luego sanaba.</p>
+                <p> -Yo te digo -dijo- que, si hombre en el mundo ha de ser bienaventurado con vino,
+                    que serás tú.</p>
+                <p> Y reían mucho los que me lavaban con esto, aunque yo renegaba. Mas el pronóstico
+                    del <persName corresp="#ciego">ciego</persName> no salió mentiroso, y después acá
+                    muchas veces me acuerdo de aquel hombre, que sin duda debía tener espíritu de
+                    profecía, y me pesa de los sinsabores que le hice, aunque bien se lo pagué,
+                    considerando lo que aquel día me dijo salirme tan verdadero como adelante
+                        <persName corresp="#VuestraMerced">Vuestra Merced</persName> oirá.</p>
+                <p> Visto esto y las malas burlas que <persName corresp="#ciego">el ciego</persName>
+                    burlaba de mí, determiné de todo en todo dejalle, y, como lo traía pensado y lo
+                    tenía en voluntad, con este postrer juego que me hizo afirmélo más. Y fue así
+                    que luego otro día salimos por la villa a pedir limosna, y había llovido mucho
+                    la noche antes; y porque el día también llovía, y andaba rezando debajo de unos
+                    portales que en aquel pueblo había, donde no nos mojamos, mas como la noche se
+                    venía y el llover no cesaba, díjome <persName corresp="#ciego">el
+                        ciego:</persName></p>
+                <p> -<persName corresp="#Lazaro">Lázaro,</persName> esta agua es muy porfiada, y
+                    cuanto la noche más cierra, más recia. Acojámonos a la posada con tiempo. </p>
+                <p> Para ir allá habíamos de pasar un arroyo, que con la mucha agua iba grande. Yo
+                    le dije:</p>
+                <p> -Tío, el arroyo va muy ancho; mas si queréis, yo veo por donde travesemos más
+                    aína sin mojarnos, porque se estrecha allí mucho y, saltando, pasaremos a pie
+                    enjuto. </p>
+                <p> Parecióle buen consejo y dijo:</p>
+                <p> -Discreto eres, por esto te quiero bien; llévame a ese lugar donde el arroyo se
+                    ensangosta, que agora es invierno y sabe mal el agua, y más llevar los pies
+                    mojados.</p>
+                <p> Yo que vi el aparejo a mi deseo, saquéle de bajo de los portales y llevélo
+                    derecho de un pilar o poste de piedra que en la plaza estaba, sobre el cual y
+                    sobre otros cargaban saledizos de aquellas casas, y dígole:</p>
+                <p> -Tío, éste es el paso más angosto que en el arroyo hay.</p>
+                <p> Como llovía recio y el triste se mojaba, y con la priesa que llevábamos de salir
+                    del agua, que encima de nos caía, y, lo más principal, porque <name type="religious"
+                        corresp="#Dios">Dios</name> le cegó aquella hora el entendimiento (fue
+                    por darme de él venganza), creyóse de mí, y dijo:</p>
+                <p> -Ponme bien derecho y salta tú el arroyo.</p>
+                <p> Yo le puse bien derecho enfrente del pilar, y doy un salto y póngome detrás del
+                    poste, como quien espera tope de toro, y díjele:</p>
+                <p> -¡Sus, saltad todo lo que podáis, porque deis de este cabo del agua!</p>
+                <p> Aun apenas lo había acabado de decir, cuando se abalanza el pobre <persName
+                        corresp="#ciego">ciego</persName> como cabrón y de toda su fuerza arremete,
+                    tomando un paso atrás de la corrida para hacer mayor salto, y da con la cabeza
+                    en el poste, que sonó tan recio como si diera con una gran calabaza, y cayó
+                    luego para atrás medio muerto y hendida la cabeza.</p>
+                <p> -¿Cómo, y olisteis la longaniza y no el poste? ¡Oled! ¡Oled! -le dije yo.</p>
+                <p>Y dejéle en poder de mucha gente que lo había ido a socorrer, y tomo la puerta de
+                    la villa en los pies de un trote, y, antes de que la noche viniese, di conmigo
+                    en <placeName ref="Torrijos">Torrijos.</placeName> No supe más lo que <name type="religious"
+                        corresp="#Dios">Dios</name> de él hizo ni curé de saberlo.</p>
+            </div>
+
+
+            <div type="titulo" corresp="#tratado2">
+                <head>Tratado segundo</head>
+                <p>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con <persName
+                        xml:id="clerigo">un clérigo</persName>, y de las cosas que con él pasó</p>
+            </div>
+            <div type="texto" xml:id="tratado2">
                 <p>Otro día, no pareciéndome estar allí seguro, fuime a un lugar que llaman
                         <placeName xml:id="Maqeuda">Maqueda</placeName>, adonde me toparon mis
-                    pecados con <persName corresp="#Clérigo">un clérigo</persName>, que, llegando a
+                    pecados con <persName corresp="#clerigo">un clérigo</persName>, que, llegando a
                     pedir limosna, me preguntó si sabía ayudar a misa. Yo dije que sí, como era
                     verdad; que, aunque maltratado, mil cosas buenas me mostró el pecador del
-                        <persName xml:id="Ciego">ciego</persName>, y una de ellas fue ésta.
-                    Finalmente, <persName corresp="#Clérigo">el clérigo</persName> me recibió por
+                        <persName corresp="#ciego">ciego</persName>, y una de ellas fue ésta.
+                    Finalmente, <persName corresp="#clerigo">el clérigo</persName> me recibió por
                     suyo. </p>
-                <p>Escapé del trueno y di en el relámpago, porque era <persName corresp="#Ciego">el
+                <p>Escapé del trueno y di en el relámpago, porque era <persName corresp="#ciego">el
                         ciego</persName> para con éste un <persName xml:id="AlejandroMagno"
                         >Alejandro Magno</persName>, con ser la misma avaricia, como he contado. No
                     digo más, sino que toda la lacería del mundo estaba encerrada en éste: no sé si
@@ -493,7 +515,7 @@
                     naturaleza humana sino entonces. Y esto era porque comíamos bien y me hartaban.
                     Deseaba y aun rogaba a Dios que cada día matase el suyo. Y cuando dábamos
                     sacramento a los enfermos, especialmente la extremaunción, como manda <persName
-                        corresp="#Clérigo">el clérigo</persName> rezar a los que están allí, yo
+                        corresp="#clerigo">el clérigo</persName> rezar a los que están allí, yo
                     cierto no era el postrero de la oración, y con todo mi corazón y buena voluntad
                     rogaba al Señor, no que le echase a la parte que más servido fuese, como se
                     suele decir, mas que le llevase de aqueste mundo.</p>
@@ -515,8 +537,8 @@
                     ya con ella en la sepultura; pues si de éste desisto y doy en otro más bajo,
                     ¿qué será, sino fenecer?». Con esto no me osaba menear, porque tenía por fe que
                     todos los grados había de hallar más ruines. Y a abajar otro punto, no sonara
-                        <persName corresp="#Lazarillo">Lázaro</persName> ni se oyera en el mundo.
-                    Pues estando en tal aflicción, cual plega al Señor librar de ella a todo fiel
+                        <persName corresp="#Lazaro">Lázaro</persName> ni se oyera en el mundo. Pues
+                    estando en tal aflicción, cual plega al Señor librar de ella a todo fiel
                     cristiano, y sin saber darme consejo, viéndome ir de mal en peor, un día que el
                     cuitado, ruin y lacerado de mi amo había ido fuera del lugar, llegóse acaso a mi
                     puerta un calderero, el cual yo creo que fue ángel enviado a mí por la mano de
@@ -577,8 +599,8 @@
                     contrahecho de como ellos lo suelen hacer. Miró todo el arcaz de un cabo a otro
                     y viole ciertos agujeros por do sospechaba habían entrado. Llamóme,
                     diciendo:</p>
-                <p>-¡<persName corresp="#Lazarillo">Lázaro</persName>, mira, mira, qué persecución
-                    ha venido aquesta noche por nuestro pan!</p>
+                <p>-¡<persName corresp="#Lazaro">Lázaro</persName>, mira, mira, qué persecución ha
+                    venido aquesta noche por nuestro pan!</p>
                 <p>Yo híceme muy maravillado, preguntándole qué sería.</p>
                 <p>-¿Qué ha de ser? -dijo él-. Ratones, que no dejan cosa a vida.</p>
                 <p>Pusímonos a comer, y quiso Dios que aun en esto me fue bien: que me cupo más pan
@@ -683,7 +705,7 @@
                     digo, hecho trasgo.</p>
                 <p>Yo hube miedo que con aquellas diligencias no me topase con la llave, que debajo
                     de las pajas tenía, y parecióme lo más seguro metella de noche en la boca,
-                    porque ya, desde que viví con <persName corresp="#Ciego">el ciego</persName>, la
+                    porque ya, desde que viví con <persName corresp="#ciego">el ciego</persName>, la
                     tenía tan hecha bolsa que me acaeció tener en ella doce o quince maravedís, todo
                     en medias blancas, sin que me estorbase el comer, porque de otra manera no era
                     señor de una blanca que el maldito ciego no cayese con ella, no dejando costura
@@ -721,7 +743,7 @@
                 <p>A cabo de tres días yo torné en mi sentido, y vime echado en mis pajas, la cabeza
                     toda emplastada y llena de aceites y ungüentos, y, espantado, dije:</p>
                 <p>-¿Qué es esto?</p>
-                <p>Respondióme el cruel <persName corresp="#Clérigo">sacerdote</persName>:</p>
+                <p>Respondióme el cruel <persName corresp="#clerigo">sacerdote</persName>:</p>
                 <p>-A fe que los ratones y culebras que me destruían ya los he cazado.</p>
                 <p>Y miré por mí, y vime tan maltratado que luego sospeché mi mal.</p>
                 <p>A esta hora entró una vieja que ensalmaba, y los vecinos. Y comiénzanme a quitar
@@ -734,16 +756,19 @@
                     levanté y estuve sin peligro (mas no sin hambre) y medio sano.</p>
                 <p>Luego otro día que fui levantado, el señor mi amo me tomó por la mano y sacóme la
                     puerta fuera y, puesto en la calle, díjome:</p>
-                <p>-<persName corresp="#Lazarillo">Lázaro</persName>, de hoy más eres tuyo y no mío.
+                <p>-<persName corresp="#Lazaro">Lázaro</persName>, de hoy más eres tuyo y no mío.
                     Busca amo y vete con Dios, que yo no quiero en mi compañía tan diligente
                     servidor. No es posible sino que hayas sido mozo de ciego.</p>
                 <p>Y santiguándose de mí, como si yo estuviera endemoniado, tórnase a meter en casa
                     y cierra su puerta.</p>
             </div>
-            <div type="texto">
+
+            <div type="titulo" corresp="#tratado3">
                 <head>Tratado tercero</head>
-                <head>Cómo <persName xml:id="Lazaro">Lázaro</persName> se asentó con un escudero y
+                <head>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un escudero y
                     de lo que le acaeció con él</head>
+            </div>
+            <div type="texto" xml:id="tratado3">
                 <p>De esta manera me fue forzado sacar fuerzas de flaqueza, y poco a poco, con ayuda
                     de las buenas gentes, di conmigo en esta insigne ciudad de Toledo, adonde, con
                     la merced de Dios, dende a quince días se me cerró la herida. Y, mientras estaba
@@ -800,11 +825,11 @@
                     casa encantada. Estando así, díjome:</p>
                 <p><quote>Tú, mozo, ¿has comido?</quote></p>
                 <p><quote>No, señor</quote> -dije yo-, <quote>que aún no eran dadas las ocho cuando
-                        con <persName>Vuestra Merced</persName> encontré.</quote></p>
+                        con <persName corresp="#VuestraMerced">Vuestra Merced</persName> encontré.</quote></p>
                 <p><quote>Pues, aunque de mañana, yo había almorzado, y, cuando así como algo,
                         hágote saber que hasta la noche me estoy así. Por eso, pásate como pudieres,
                         que después cenaremos.</quote></p>
-                <p><persName>Vuestra Merced</persName> crea, cuando esto le oí, que estuve en poco
+                <p><persName corresp="#VuestraMerced">Vuestra Merced</persName> crea, cuando esto le oí, que estuve en poco
                     de caer de mi estado, no tanto de hambre como por conocer de todo en todo la
                     fortuna serme adversa. Allí se me representaron de nuevo mis fatigas y torné a
                     llorar mis trabajos; allí se me vino a la memoria la consideración que hacía
@@ -860,12 +885,12 @@
                     parecían a lo proprio entrecuesto de flaquísimo puerco. Y sobre aquel hambriento
                     colchón, un alfamar del mismo jaez, del cual el color yo no pude alcanzar.</p>
                 <p>Hecha la cama, y la noche venida, díjome:</p>
-                <p><quote><persName>Lázaro</persName>, ya es tarde, y de aquí a la plaza hay gran
+                <p><quote><persName corresp="#Lazaro">Lázaro</persName>, ya es tarde, y de aquí a la plaza hay gran
                         trecho. También en esta ciudad andan muchos ladrones, que, siendo de noche,
                         capean. Pasemos como podamos, y mañana, venido el día, Dios hará merced;
                         porque yo, por estar solo, no estoy proveído, antes he comido estos días por
                         allá fuera. Mas agora hacerlo hemos de otra manera.</quote></p>
-                <p><quote>Señor, de mí</quote> -dije yo- <quote>ninguna pena tenga <persName>Vuestra
+                <p><quote>Señor, de mí</quote> -dije yo- <quote>ninguna pena tenga <persName corresp="#VuestraMerced">Vuestra
                             Merced</persName>, que bien sé pasar una noche y aún más, si es
                         menester, sin comer.</quote></p>
                 <p><quote>Vivirás más y más sano</quote> -me respondió-, <quote>porque, como
@@ -898,7 +923,7 @@
                     gentiles meneos, echando el cabo de la capa sobre el hombro y a veces so el
                     brazo, y poniendo la mano derecha en el costado, salió por la puerta,
                     diciendo:</p>
-                <p><quote><persName>Lázaro</persName>, mira por la casa en tanto que voy a oír misa,
+                <p><quote><persName corresp="#Lazaro">Lázaro</persName>, mira por la casa en tanto que voy a oír misa,
                         y haz la cama y ve por la vasija de agua al río, que aquí bajo está, y
                         cierra la puerta con llave, no nos hurten algo, y ponla aquí al quicio
                         porque, si yo viniere en tanto, pueda entrar.</quote></p>
@@ -912,7 +937,7 @@
                         almorzado? ¡Grandes secretos son, Señor, los que vos hacéis y las gentes
                         ignoran! ¿A quién no engañará aquella buena disposición y razonable capa y
                         sayo? ¿Y quién pensará que aquel gentil hombre se pasó ayer todo el día sin
-                        comer con aquel mendrugo de pan que su criado <persName>Lázaro</persName>
+                        comer con aquel mendrugo de pan que su criado <persName corresp="#Lazaro">Lázaro</persName>
                         trajo un día y una noche en el arca de su seno, do no se le podía pegar
                         mucha limpieza, y hoy, lavándose las manos y cara, a falta de paño de manos,
                         se hacía servir de la halda del sayo? Nadie por cierto lo sospechará. ¡Oh
@@ -959,7 +984,7 @@
                     Pensé que me quería reñir por la tardanza; mas mejor lo hizo Dios. Preguntóme dó
                     venía. Yo le dije:</p>
                 <p><quote>Señor, hasta que dio las dos estuve aquí, y de que vi que
-                            <persName>Vuestra Merced</persName> no venía, fuime por esa ciudad a
+                            <persName corresp="#VuestraMerced">Vuestra Merced</persName> no venía, fuime por esa ciudad a
                         encomendarme a las buenas gentes, y hanme dado esto que veis.</quote></p>
                 <p>Mostréle el pan y las tripas, que en un cabo de la halda traía, a lo cual él
                     mostró buen semblante, y dijo:</p>
@@ -988,7 +1013,7 @@
                     mejor aparejo, por ser mejor la vianda y menos mi hambre.</p>
                 <p>Quiso Dios cumplir mi deseo, y aun pienso que el suyo; porque como comencé a
                     comer y él se andaba paseando, llegóse a mí y díjome:</p>
-                <p>Dígote, <persName>Lázaro</persName>, que tienes en comer la mejor gracia que en
+                <p>Dígote, <persName corresp="#Lazaro">Lázaro</persName>, que tienes en comer la mejor gracia que en
                     mi vida vi a hombre, y que nadie te lo verá hacer que no le pongas gana, aunque
                     no la tenga.</p>
                 <p><quote>La muy buena que tú tienes</quote> -dije yo entre mí- <quote>te hace
@@ -1017,7 +1042,7 @@
                     contentos nos fuimos a dormir, como la noche pasada.</p>
                 <p>Y por evitar prolijidad, de esta manera estuvimos ocho o diez días, yéndose el
                     pecador en la mañana con aquel contento y paso contado a papar aire por las
-                    calles, teniendo en el pobre <persName>Lázaro</persName> una cabeza de lobo.</p>
+                    calles, teniendo en el pobre <persName corresp="#Lazaro">Lázaro</persName> una cabeza de lobo.</p>
                 <p>Contemplaba yo muchas veces mi desastre, que, escapando de los amos ruines que
                     había tenido y buscando mejoría, viniese a topar con quien no sólo no me
                     mantuviese, mas a quien yo había de mantener. Con todo, le quería bien, con ver
@@ -1071,7 +1096,7 @@
                     dicha o ventura, en el pobre poder de mi amo entró un real, con el cual él vino
                     a casa tan ufano como si tuviera el tesoro de Venecia, y con gesto muy alegre y
                     risueño me lo dio, diciendo: </p>
-                <p><quote>Toma, <persName>Lázaro</persName>, que Dios ya va abriendo su mano. Ve a
+                <p><quote>Toma, <persName corresp="#Lazaro">Lázaro</persName>, que Dios ya va abriendo su mano. Ve a
                         la plaza y merca pan y vino y carne: ¡quebremos el ojo al diablo! Y más te
                         hago saber, porque te huelgues: que he alquilado otra casa y en ésta
                         desastrada no hemos de estar más de en cumpliendo el mes. ¡Maldita sea ella
@@ -1115,7 +1140,7 @@
                     gente con su muerto, y yo todavía me recelaba que nos le habían de meter en
                     casa. Y, desque fue ya más harto de reír que de comer, el bueno de mi amo,
                     díjome:</p>
-                <p><quote>Verdad es, <persName>Lázaro</persName>, según la viuda lo va diciendo, tú
+                <p><quote>Verdad es, <persName corresp="#Lazaro">Lázaro</persName>, según la viuda lo va diciendo, tú
                         tuviste razón de pensar lo que pensaste; mas, pues Dios lo ha hecho mejor y
                         pasan adelante, abre, abre y ve por de comer.</quote></p>
                 <p><quote>Dejálos, señor, acaben de pasar la calle</quote> -dije yo.</p>
@@ -1150,7 +1175,7 @@
                         justo, siendo hombre de bien, se descuide un punto de tener en mucho su
                         persona. Acuérdome que un día deshonré en mi tierra a un oficial y quise
                         poner en él las manos, porque cada vez que le topaba, me decía:
-                            <quote>Mantenga Dios a <persName>Vuestra Merced</persName>.</quote>
+                            <quote>Mantenga Dios a <persName corresp="#VuestraMerced">Vuestra Merced</persName>.</quote>
                         <quote>Vos, don villano ruin -le dije yo-, ¿por qué no sois bien criado?
                             ¿Manténgaos Dios, me habéis de decir, como si fuese quienquiera?</quote>
                         De allí adelante, de aquí acullá, me quitaba el bonete y hablaba como
@@ -1159,7 +1184,7 @@
                         <quote>decirle que le mantenga Dios?</quote></p>
                 <p><quote>¡Mira, mucho de enhoramala!</quote> -dijo él-. <quote>A los hombres de
                         poca arte dicen eso; mas a los más altos, como yo, no les han de hablar
-                        menos de: <quote>Beso las manos de <persName>Vuestra
+                        menos de: <quote>Beso las manos de <persName corresp="#VuestraMerced">Vuestra
                             Merced</persName></quote>, o por lo menos: <quote>Bésoos, señor, las
                             manos</quote>, si el que me habla es caballero. Y así, de aquél de mi
                         tierra que me atestaba de mantenimiento, nunca más le quise sufrir, ni
@@ -1273,11 +1298,13 @@
                     revés, que los amos, que suelen ser dejados de los mozos, en mí no fuese así,
                     mas que mi amo me dejase y huyese de mí.</p>
             </div>
-            <div type="tratado">
+            <div type="titulo" corresp="#tratado5">
                 <head>Tratado quinto</head>
-                <head>Cómo <persName corresp="Lázaro">Lázaro</persName> se asentó con un <persName
+                <head>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un <persName
                         xml:id="buldero">buldero</persName>, y de las cosas que con <persName
                         corresp="#buldero">él</persName> pasó</head>
+            </div>
+            <div type="tratado" xml:id="tratado5">
                 <p>En el quinto por mi ventura di, que fue un <persName corresp="#buldero"
                         >buldero</persName>, el más desenvuelto y desvergonzado, y el mayor echador
                     de ellas que jamás yo vi ni ver espero, ni pienso nadie vio, porque tenía y
@@ -1292,7 +1319,7 @@
                     mas aprovechábase de un gentil y bien cortado romance y desenvoltísima lengua. Y
                     si sabía que los dichos clérigos eran de los reverendos, digo que más con
                     dineros que con letras y con reverendas se ordenan, hacíase entre ellos un
-                        <persName xml:id="Tomás">santo Tomás</persName>, y hablaba dos horas en
+                        <persName xml:id="Tomas">santo Tomás</persName>, y hablaba dos horas en
                     latín, a lo menos que lo parecía, aunque no lo era.</p>
                 <p>Cuando por bien no le tomaban las bulas, buscaba cómo por mal se las tomasen. Y
                     para aquello hacía molestias al pueblo, y otras veces con mañosos artificios. Y
@@ -1303,12 +1330,10 @@
                     habían tomado bula ni, a mi ver, tenían intención de tomársela. Estaba dado al
                     diablo con aquello y, pensando qué hacer, se acordó de convidar al pueblo para
                     otro día de mañana despedir la bula.</p>
-                <p>Y esa noche, después de cenar, pusiéronse a jugar la colación <persName
-                        corresp="#buldero">él</persName> y el <persName xml:id="alguacil"
+                <p>Y esa noche, después de cenar, pusiéronse a jugar la colación él y el <persName xml:id="alguacil"
                         >alguacil</persName>. Y sobre el juego vinieron a reñir y a haber malas
-                    palabras. <persName corresp="#buldero">Él</persName> llamó al <persName
-                        corresp="#alguacil">alguacil</persName> ladrón y el otro a <persName
-                        corresp="#buldero">él</persName> falsario. Sobre esto, el <persName
+                    palabras. Él llamó al <persName
+                        corresp="#alguacil">alguacil</persName> ladrón y el otro a él falsario. Sobre esto, el <persName
                         corresp="#buldero">señor comisario</persName>, mi señor, tomó un lanzón, que
                     en el portal do jugaban estaba. El <persName corresp="#alguacil"
                         >alguacil</persName> puso mano a su espada, que en la cinta tenía. Al ruido
@@ -1349,26 +1374,24 @@
                         <persName corresp="#alguacil">alguacil</persName> fuera de la iglesia, por
                     evitar escándalo; mas <persName corresp="#buldero">mi amo</persName> les fue a
                     la mano y mandó a todos que, so pena de excomunión, no le estorbasen; mas que le
-                    dejasen decir todo lo que quisiese. Y así, <persName corresp="#buldero"
-                        >él</persName> también tuvo silencio mientras el <persName
+                    dejasen decir todo lo que quisiese. Y así, él también tuvo silencio mientras el <persName
                         corresp="#alguacil">alguacil</persName> dijo todo lo que he dicho. Como
                     calló, mi amo le preguntó si quería decir más que lo dijese. El <persName
                         corresp="#alguacil">alguacil</persName> dijo:</p>
                 <p>-Harto hay más que decir de vos y de vuestra falsedad; mas por agora basta.</p>
                 <p>El <persName corresp="#buldero">señor comisario</persName> se hincó de rodillas
                     en el púlpito y, puestas las manos y mirando al cielo, dijo así:</p>
-                <p>-<persName corresp="Dios">Señor Dios</persName>, a quien ninguna cosa es
+                <p>-<name type="religious" corresp="#Dios">Señor Dios</name>, a quien ninguna cosa es
                     escondida, antes todas manifiestas, y a quien nada es imposible, antes todo
-                    posible: <persName corresp="#Dios">tú</persName> sabes la verdad y cuán
+                    posible: <name type="religious" corresp="#Dios">tú</name> sabes la verdad y cuán
                     injustamente yo soy afrentado. En lo que a mí toca, yo le perdono, porque
-                        <persName corresp="#Dios">Tú, Señor</persName>, me perdones. No mires a
+                        <name type="religious" corresp="#Dios">Tú, Señor</name>, me perdones. No mires a
                     aquél, que no sabe lo que hace ni dice; mas la injuria a ti hecha te suplico, y
                     por justicia te pido no disimules. Porque alguno que está aquí, que por ventura
                     pensó tomar aquesta santa bula, y dando crédito a las falsas palabras de aquel
                     hombre, lo dejará de hacer. Y pues es tanto perjuicio del prójimo, te suplico
-                    yo, <persName corresp="#Dios">Señor</persName>, no lo disimules; mas luego
-                    muestra aquí milagro, y sea de esta manera: que, si es verdad lo que <persName
-                        corresp="#alguacil">aquél</persName> dice y que yo traigo maldad y falsedad,
+                    yo, <name type="religious" corresp="#Dios">Señor</name>, no lo disimules; mas luego
+                    muestra aquí milagro, y sea de esta manera: que, si es verdad lo que aquél dice y que yo traigo maldad y falsedad,
                     este púlpito se hunda conmigo y meta siete estados debajo de tierra, do él ni yo
                     jamás parezcamos; y, si es verdad lo que yo digo y <persName corresp="#alguacil"
                         >aquél</persName>, persuadido del demonio, por quitar y privar a los que
@@ -1382,8 +1405,8 @@
                     torcella, y hacer visajes con el gesto, dando de pie y de mano, revolviéndose
                     por aquel suelo a una parte y a otra.</p>
                 <p>El estruendo y voces de la gente era tan grande, que no se oían unos a otros.
-                    Algunos estaban espantados y temerosos. Unos decían: «<persName corresp="#Dios"
-                        >El Señor</persName> le socorra y valga». Otros: «Bien se le emplea, pues
+                    Algunos estaban espantados y temerosos. Unos decían: «<name type="religious" corresp="#Dios"
+                        >El Señor</name> le socorra y valga». Otros: «Bien se le emplea, pues
                     levantaba tan falso testimonio».</p>
                 <p>Finalmente, algunos que allí estaban, y a mi parecer no sin harto temor, se
                     llegaron y le trabaron de los brazos, con los cuales daba fuertes puñadas a los
@@ -1395,42 +1418,37 @@
                     púlpito de rodillas, las manos y los ojos puestos en el cielo, transportado en
                     la divina esencia, que el planto y ruido y voces, que en la iglesia había, no
                     eran parte para apartalle de su divina contemplación.</p>
-                <p>Aquellos buenos hombres llegaron a <persName corresp="#buldero">él</persName> y,
-                    dando voces le despertaron y le suplicaron quisiese socorrer a <persName
-                        corresp="#alguacil">aquel</persName> pobre que estaba muriendo y que no
+                <p>Aquellos buenos hombres llegaron a él y,
+                    dando voces le despertaron y le suplicaron quisiese socorrer a aquel pobre que estaba muriendo y que no
                     mirase a las cosas pasadas ni a sus dichos malos, pues ya dellos tenía el pago;
                     mas, si en algo podría aprovechar para librarle del peligro y pasión que
-                    padecía, por amor de <persName corresp="#Dios">Dios</persName> lo hiciese, pues
+                    padecía, por amor de <name type="religious" corresp="#Dios">Dios</name> lo hiciese, pues
                     ellos veían clara la culpa del culpado y la verdad y bondad suya, pues a su
                     petición y venganza el Señor no alargó el castigo.</p>
                 <p>El <persName corresp="#buldero">señor comisario</persName>, como quien despierta
                     de un dulce sueño, los miró y miró al delincuente y a todos los que alrededor
                     estaban, y muy pausadamente les dijo:</p>
                 <p>-Buenos hombres, vosotros nunca habíades de rogar por un hombre en quien
-                        <persName corresp="#Dios">Dios</persName> tan señaladamente se ha señalado;
-                    mas, pues <persName corresp="#Dios">Él</persName> nos manda que no volvamos mal
+                        <name type="religious" corresp="#Dios">Dios</name> tan señaladamente se ha señalado;
+                    mas, pues Él nos manda que no volvamos mal
                     por mal y perdonemos las injurias, con confianza podremos suplicarle que cumpla
-                    lo que nos manda, y <persName corresp="#Dios">Su Majestad</persName> perdone a
-                        <persName corresp="#alguacil">éste</persName> que le ofendió poniendo en su
+                    lo que nos manda, y <name type="religious" corresp="#Dios">Su Majestad</name> perdone a
+                        éste que le ofendió poniendo en su
                     santa fe obstáculo. Vamos todos a suplicalle.</p>
-                <p>Y así, bajó del púlpito y encomendó a que muy devotamente suplicasen a <persName
-                        corresp="#Dios">nuestro Señor</persName> tuviese por bien de perdonar a
-                    aquel pecador y volverle en su salud y sano juicio y lanzar de <persName
-                        corresp="#alguacil">él</persName> el demonio, si <persName corresp="#Dios"
-                        >Su Majestad</persName> había permitido que por su gran pecado en <persName
-                        corresp="#alguacil">él</persName> entrase.</p>
+                <p>Y así, bajó del púlpito y encomendó a que muy devotamente suplicasen a <name type="religious"
+                        corresp="#Dios">nuestro Señor</name> tuviese por bien de perdonar a
+                    aquel pecador y volverle en su salud y sano juicio y lanzar de él el demonio, si <name type="religious" corresp="#Dios"
+                        >Su Majestad</name> había permitido que por su gran pecado en él entrase.</p>
                 <p>Todos se hincaron de rodillas y delante del altar, con los clérigos, comenzaban a
-                    cantar con voz baja una letanía; y viniendo <persName corresp="#buldero"
-                        >él</persName> con la cruz y agua bendita, después de haber sobre <persName
-                        corresp="#alguacil">él</persName>
+                    cantar con voz baja una letanía; y viniendo él con la cruz y agua bendita, después de haber sobre él
                     <!-- es el alguacil o buldero? --> cantado, el <persName corresp="#buldero"
                         >señor mi amo</persName>, puestas las manos al cielo y los ojos que casi
                     nada se le parecía, sino un poco de blanco, comienza una oración no menos larga
                     que devota, con la cual hizo llorar a toda la gente, como suelen hacer en los
-                    sermones de Pasión, de predicador y auditorio devoto, suplicando a <persName
-                        corresp="#Dios">Nuestro Señor</persName>, pues no quería la muerte del
+                    sermones de Pasión, de predicador y auditorio devoto, suplicando a <name type="religious"
+                        corresp="#Dios">Nuestro Señor</name>, pues no quería la muerte del
                         <persName corresp="#alguacil">pecador</persName>, sino su vida y
-                    arrepentimiento, que <persName corresp="#alguacil">aquél</persName>, encaminado
+                    arrepentimiento, que aquél, encaminado
                     por el demonio y persuadido de la muerte y pecado, le quisiese perdonar y dar
                     vida y salud, para que se arrepintiese y confesase sus pecados.</p>
                 <p>Y esto hecho, mandó traer la bula y púsosela en la cabeza. Y luego el <persName
@@ -1438,7 +1456,7 @@
                     estar mejor y tornar en sí. Y desque fue bien vuelto en su acuerdo, echóse a los
                     pies del <persName corresp="#buldero">señor comisario</persName> y, demandándole
                     perdón, confesó haber dicho aquello por la boca y mandamiento del demonio; lo
-                    uno, por hacer a <persName corresp="#buldero">él</persName> daño y vengarse del
+                    uno, por hacer a él daño y vengarse del
                     enojo; lo otro, y más principal, porque el demonio recibía mucha pena del bien
                     que allí se hiciera en tomar la bula.</p>
                 <p>El <persName corresp="#buldero">señor mi amo</persName> le perdonó, y fueron
@@ -1451,7 +1469,7 @@
                     doce lugares de aquellos alrededores donde fuimos, echó el <persName
                         corresp="#buldero">señor mi amo</persName> otras tantas mil bulas sin
                     predicar sermón.</p>
-                <p>Cuando <persName corresp="#buldero">él</persName> hizo el ensayo, confieso mi
+                <p>Cuando él hizo el ensayo, confieso mi
                     pecado, que también fui de ello espantado, y creí que así era, como otros
                     muchos; mas con ver después la risa y burla que <persName corresp="#buldero">mi
                         amo</persName> y el <persName corresp="#alguacil">alguacil</persName>
@@ -1459,7 +1477,7 @@
                     industrioso y inventivo de mi amo.</p>
                 <p>2Acaeciónos en otro lugar, el cual no quiero nombrar por su honra, lo siguiente:
                     y fue que <persName corresp="#buldero">mi amo</persName> predicó dos o tres
-                    sermones, y dó a <persName corresp="#Dios">Dios</persName> la bula tomaban.
+                    sermones, y dó a <name type="religious" corresp="#Dios">Dios</name> la bula tomaban.
                     Visto por el astuto de <persName corresp="#buldero">mi amo</persName> lo que
                     pasaba, y que aunque decía se fiaban por un año no aprovechaba, y que estaban
                     tan rebeldes en tomarla, y que su trabajo era perdido, hizo tocar las campanas
@@ -1470,8 +1488,8 @@
                     llevaba, y las que yo tenía en las alforjas púsolas junto a sus pies, y tornóse
                     a poner en el púlpito con cara alegre, y arrojar desde allí de diez en diez y de
                     veinte en veinte de sus bulas hacia todas partes diciendo:</p>
-                <p>-Hermanos míos, tomad, tomad de las gracias que <persName corresp="#Dios"
-                        >Dios</persName> os envía hasta vuestras casas, y no os duela, pues es obra
+                <p>-Hermanos míos, tomad, tomad de las gracias que <name type="religious" corresp="#Dios"
+                        >Dios</name> os envía hasta vuestras casas, y no os duela, pues es obra
                     tan pía la redención de los cautivos cristianos que están en <placeName
                         xml:id="tierraDeMoros">tierra de moros</placeName>, porque no renieguen
                     nuestra santa fe y vayan a las penas del infierno, siquiera ayudalles con
@@ -1479,35 +1497,33 @@
                     cautiverio. Y aun también aprovechan para los padres y hermanos y deudos que
                     tenéis en el Purgatorio, como lo veréis en esta santa bula.</p>
                 <p>Como el pueblo las vio así arrojar, como cosa que la daba de balde y ser venida
-                    de la mano de <placeName corresp="#Dios">Dios</placeName>, tomaban a más tomar,
+                    de la mano de <name type="religious" corresp="#Dios">Dios</name>, tomaban a más tomar,
                     aun para los niños de la cuna y para todos sus difuntos, contando desde los
                     hijos hasta el menor criado que tenían, contándolos por los dedos. Vímonos en
                     tanta prisa, que a mí aínas me acabaron de romper un pobre y viejo sayo que
-                    traía, de manera que certifico a <persName xml:id="vMerced">Vuestra
+                    traía, de manera que certifico a <persName corresp="#VuestraMerced">Vuestra
                         Merced</persName> que en poco más de una hora no quedó bula en las alforjas
                     y fue necesario ir a la posada por más.</p>
                 <p>Acabados de tomar todos, dijo <persName corresp="#buldero">mi amo</persName>
                     desde el púlpito a su <persName corresp="#escribano">escribano</persName> y al
                     del Concejo <!-- que es esto --> que se levantasen, y para que se supiese quién
                     eran los que habían de gozar de la santa indulgencia y perdones de la santa bula
-                    y para que <persName corresp="#buldero">él</persName> diese buena cuenta a quien
+                    y para que él diese buena cuenta a quien
                     le había enviado, se escribiesen.</p>
                 <p>Y así, luego todos de muy buena voluntad decían las que habían tomado, contando
                     por orden los hijos y criados y difuntos.</p>
                 <p>Hecho su inventario, pidió a los <persName xml:id="alcaldes">alcaldes</persName>
-                    que, por caridad, porque <persName corresp="#buldero">él</persName> tenía que
+                    que, por caridad, porque él tenía que
                     hacer en otra parte, mandasen al <persName corresp="#escribano"
                         >escribano</persName> le diese autoridad del inventario y memoria de las que
                     allí quedaban, que según decía el <persName corresp="#escribano"
                         >escribano</persName> eran más de dos mil.</p>
-                <p>Hecho esto, <persName corresp="#buldero">él</persName> se despidió con mucha paz
+                <p>Hecho esto, él se despidió con mucha paz
                     y amor, y así nos partimos de este lugar. Y aun, antes que nos partiésemos, fue
-                    preguntando <persName corresp="#buldero">él</persName> por el teniente cura del
+                    preguntando él por el teniente cura del
                     lugar y por los regidores si la bula aprovechaba para las criaturas que estaban
-                    en el vientre de sus madres. A lo cual <persName corresp="#buldero"
-                        >él</persName> respondió, según las letras que él había estudiado, que no,
-                    que lo fuesen a preguntar a los doctores más antiguos que <persName
-                        corresp="#buldero">él</persName> y que esto era lo que sentía en este
+                    en el vientre de sus madres. A lo cual él respondió, según las letras que él había estudiado, que no,
+                    que lo fuesen a preguntar a los doctores más antiguos que él y que esto era lo que sentía en este
                     negocio.</p>
                 <p>Y así nos partimos, yendo todos muy alegres del buen negocio. Decía <persName
                         corresp="#buldero">mi amo</persName> al <persName corresp="#alguacil"
@@ -1515,10 +1531,11 @@
                     >escribano</persName>:</p>
                 <p>-¿Qué os parece, cómo a estos villanos, que con sólo decir cristianos viejos
                     somos, sin hacer obras de caridad, se piensan salvar, sin poner nada de su
-                    hacienda? Pues, por vida del <persName xml:id="Gómez">licenciado Pascasio
-                        Gómez</persName>, que a su costa se saquen más de diez cautivos.</p>
-                <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName xml:id="Toledo"
-                        >Toledo</placeName>, hacia <placeName xml:id="Mancha">la Mancha</placeName>
+                    hacienda? Pues, por vida del <persName xml:id="PascasioGomez">licenciado
+                        Pascasio Gómez</persName>, que a su costa se saquen más de diez
+                    cautivos.</p>
+                <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName corresp="#Toledo"
+                        >Toledo</placeName>, hacia <placeName xml:id="LaMancha">la Mancha</placeName>
                     que se dice, adonde topamos otros más obstinados en tomar bulas. Hechas
                         <persName corresp="#buldero">mi amo</persName> y los demás que íbamos
                     nuestras diligencias, en dos fiestas que allí estuvimos, no se habían echado
@@ -1543,22 +1560,22 @@
                     ¡Milagro!</p>
                 <p>Y así hicieron otros siete u ocho, y a todos les decía:</p>
                 <p>-¡Paso, señores! ¡Milagro!</p>
-                <p>Cuando <persName corresp="#buldero">él</persName> vio que los rostriquemados
+                <p>Cuando él vio que los rostriquemados
                     bastaban para testigos del milagro, no la quiso dar más a besar. Subióse al pie
                     del altar y de allí decía cosas maravillosas, diciendo que por la poca caridad
-                    que había en ellos había <persName corresp="#Dios">Dios</persName> permitido
+                    que había en ellos había <name type="religious" corresp="#Dios">Dios</name> permitido
                     aquel milagro, y que aquella cruz había de ser llevada a la santa iglesia mayor
                     de su obispado, que por la poca caridad que en el pueblo había, la cruz
                     ardía.</p>
                 <p>Fue tanta la prisa que hubo en el tomar de la bula, que no bastaban dos
                     escribanos ni los clérigos ni sacristanes a escribir. Creo de cierto que se
-                    tomaron más de tres mil bulas, como tengo dicho a <persName corresp="#vMerced"
-                        >Vuestra Merced</persName>.</p>
-                <p>Después, al partir, <persName corresp="#buldero">él</persName> fue con gran
+                    tomaron más de tres mil bulas, como tengo dicho a <persName
+                        corresp="#VuestraMerced">Vuestra Merced</persName>.</p>
+                <p>Después, al partir, él fue con gran
                     reverencia, como es razón, a tomar la santa cruz, diciendo que le había de hacer
                     engastonar en oro, como era razón. Fue rogado mucho del Concejo y clérigos del
                     lugar les dejase allí aquella santa cruz, por memoria del milagro allí acaecido.
-                        <persName corresp="#buldero">Él</persName> en ninguna manera lo quería
+                        Él en ninguna manera lo quería
                     hacer, y al fin, rogado de tantos, se la dejó; con que le dieron otra cruz vieja
                     que tenían, antigua, de plata, que podrá pesar dos o tres libras, según
                     decían.</p>
@@ -1584,3 +1601,4 @@
 
 
 </TEI>
+
