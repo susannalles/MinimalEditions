@@ -41,7 +41,7 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 ###Weekly Breakdown and assignments for each lecture
 
-**Lecture 1 (Jan 20)** (Unit 1) General introduction to textual scholarship and text editing
+**Lecture 1 (Jan 20)** (Unit 1) General introduction and plan of the course.
 
 **Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
 > 
@@ -53,29 +53,34 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 - Kathy Sutherland, [“Anglo-American editorial theory.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A011) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 42-78
 - Miguel Ángel Pérez Priego, *La edición de textos*. pp. 101-114 
 
-**Lecture 4 (Feb 1)** Introduction to Github (1)
->
-- GitHub, [GitHub Guides](https://guides.github.com/), 2015
-- MacManus, [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), *ReadWrite*, Sept. 30, 2013.
-
-**Lecture 5 (Feb 3)** Introduction to Github (2)
->
-- GitHub, [BootCamp](https://help.github.com/categories/bootcamp/), 2015
-- Tennen, [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), 2015. 
-
-**Lecture 6 (Feb 8)** (Unit 2) *The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
+**Lecture 4 (Feb 1)** 
+*The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
 >
 - *Lazarillo de Tormes*, 2011, pp. 91-205
 - Mainer, “Caminos de la ficción.” *Historia de la literatura española*. 2013, pp. 281-336
 <br/>
 
-**Lecture 7 (Feb 10)** A data model for the *Lazarillo* 
+**Lecture 5 (Feb 3)**
+A data model for the *Lazarillo* 
 >
 - McCarty. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. 2004, pp. 254-271
 - Sahle, “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015
 - Pierazzo, *Digital Scholarly Editing. Theories, Models and Methods.* 2015, 37-64; 65-84
 
-**Lecture 8 (Feb 15)** (Unit 3) Introduction to the Extensible Markup Languages
+**Lecture 6 (Feb 8)** 
+Introduction to Github (1)
+>
+- GitHub, [GitHub Guides](https://guides.github.com/), 2015
+- MacManus, [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), *ReadWrite*, Sept. 30, 2013.
+ 
+**Lecture 7 (Feb 10)** 
+(Unit 2) Introduction to Github (2)
+>
+- GitHub, [BootCamp](https://help.github.com/categories/bootcamp/), 2015
+- Tennen, [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), 2015. 
+
+
+**Lecture 8 (Feb 15)** (Unit 3) Introduction to the Extensible Markup Languages (1)
 >
 - “[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).” *P5: Guidelines for Electronic Text Encoding and Interchange*, 2015
 - Pierazzo 2015, 103-125 (“Work and Workflow of Digital Scholarly Editions.”)
