@@ -19,10 +19,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="titulo" corresp="#tratado1">
+            <div xml:id="tratado1">
+                <head type="titulo">
                 <!-- aquí se requiere el título -->
-            </div>
-            <div type="texto" xml:id="tratado1">
+                </head>
+                <div type="texto">
                 <p> Pues sepa <persName xml:id="VuestraMerced">Vuestra Merced,</persName> ante todas
                     cosas, que a mí llaman <persName xml:id="Lazaro">Lázaro de Tormes,</persName>
                     hijo de <persName xml:id="TomeGonzalez">Tomé González</persName> y de <persName
@@ -440,7 +441,7 @@
                     en <placeName ref="Torrijos">Torrijos.</placeName> No supe más lo que <name type="religious"
                         corresp="#Dios">Dios</name> de él hizo ni curé de saberlo.</p>
             </div>
-
+            </div>
 
             <div type="titulo" corresp="#tratado2">
                 <head>Tratado segundo</head>
