@@ -763,12 +763,12 @@
                     y cierra su puerta.</p>
             </div>
             </div>    
-            <div type="titulo" corresp="#tratado3">
-                <head>Tratado tercero</head>
-                <head>Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un escudero y
+            <div xml:id="tratado3">
+                
+                <head type="titulo">Tratado tercero</head>
+                <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un escudero y
                     de lo que le acaeció con él</head>
-            </div>
-            <div type="texto" xml:id="tratado3">
+            <div type="texto">
                 <p>De esta manera me fue forzado sacar fuerzas de flaqueza, y poco a poco, con ayuda
                     de las buenas gentes, di conmigo en esta insigne ciudad de Toledo, adonde, con
                     la merced de Dios, dende a quince días se me cerró la herida. Y, mientras estaba
@@ -1297,6 +1297,7 @@
                     dicha, pues, señalándose todo lo que podía contra mí, hacía mis negocios tan al
                     revés, que los amos, que suelen ser dejados de los mozos, en mí no fuese así,
                     mas que mi amo me dejase y huyese de mí.</p>
+            </div>
             </div>
             <div type="titulo" corresp="#tratado5">
                 <head>Tratado quinto</head>
