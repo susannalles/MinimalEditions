@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -20,7 +20,7 @@
     <text>
         <body>
             <div xml:id="prologo">
-                <head type="titlo">Prólogo</head>
+                <head type="titulo">Prólogo</head>
                 <div type="texto">
                     <p> Yo por bien tengo que cosas tan señaladas, y por ventura nunca oídas ni
                         vistas, vengan a noticia de muchos y no se entierren en la sepultura del
@@ -35,8 +35,9 @@
                         algún fruto. Porque, si así no fuese, muy pocos escribirían para uno solo,
                         pues no se hace sin trabajo, y quieren, ya que lo pasan, ser recompensados,
                         no con dineros, mas con que vean y lean sus obras y, si hay de qué, se las
-                        alaben. Y, a este propósito, dice <persName xml:id="Tulio">Tulio</persName>:
-                            <quote corresp="#Tulio">«La honra cría las artes»</quote>. </p>
+                        alaben. Y, a este propósito, dice <persName xml:id="Ciceron"
+                            >Tulio</persName>: <quote corresp="#Ciceron">«La honra cría las
+                            artes»</quote>. </p>
                     <p> ¿Quién piensa que el soldado que es primero del escala tiene más aborrecido
                         el vivir? No por cierto; mas el deseo de alabanza le hace ponerse al
                         peligro; y así en las artes y letras es lo mismo. Predica muy bien el
@@ -47,6 +48,7 @@
                         el sayete de armas al truhán, porque le loaba de haber llevado muy buenas
                         lanzas: ¿qué hiciera si fuera verdad? </p>
                     <!-- quién aquí es "su merced?" a quien corresponde este quote? -->
+                    <!-- SAT: en realidad este <quote> es impersonal, correspondería a "gente" -->
                     <p> Y todo va de esta manera: que, confesando yo no ser más santo que mis
                         vecinos, de esta nonada, que en este grosero estilo escribo, no me pesará
                         que hayan parte y se huelguen con ello todos los que en ella algún gusto
@@ -116,11 +118,9 @@
                         <p> -¡Hideputa! </p>
                     </sp>
                     <p> Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre
-                        mí:</p>
-                    <sp who="#Lazaro">
-                        <p>«¡Cuántos debe de haber en el mundo que huyen de otros porque no se ven a
-                            sí mismos!».</p>
-                    </sp>
+                        mí: <said who="#Lazaro">«¡Cuántos debe de haber en el mundo que huyen de
+                            otros porque no se ven a sí mismos!».</said>
+                    </p>
                     <p> Quiso nuestra fortuna que la conversación del <placeName xml:id="Zaide"
                             >Zaide,</placeName> que así se llamaba, llegó a oídos del mayordomo, y,
                         hecha pesquisa, hallóse que la mitad por medio de la cebada, que para las
@@ -181,13 +181,13 @@
                     </sp>
                     <p> Y rió mucho la burla.</p>
                     <p> Parecióme que en aquel instante desperté de la simpleza en que, como niño,
-                        dormido estaba. Dije entre mí:</p>
-                    <sp who="#Lazaro">
-                        <p>«Verdad dice éste, que me cumple avivar el ojo y avisar, pues solo soy, y
-                            pensar cómo me sepa valer».</p>
-                    </sp>
-                    <p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te
-                        mostraré.</p>
+                        dormido estaba. Dije entre mí:
+                    <said who="#Lazaro">
+                        «Verdad dice éste, que me cumple avivar el ojo y avisar, pues solo soy, y
+                            pensar cómo me sepa valer».</said></p>
+                    
+                    <sp who="#ciego"><p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te
+                        mostraré.</p></sp>
                     <p>Y fue así, que, después de <name type="religious" corresp="Dios">Dios,</name>
                         éste me dio la vida, y, siendo <persName corresp="#ciego">ciego,</persName>
                         me alumbró y adestró en la carrera de vivir.</p>
@@ -321,11 +321,12 @@
                             ensayara otra tal hazaña.</p>
                     </sp>
                     <p>Santiguándose los que lo oían, decían:</p>
-                    <sp who="#ciego">
+                    <sp who="#ciego"><!-- SAT: esto no lo dice el ciego -->
                         <p>-¡Mirad quién pensara de un muchacho tan pequeño tal ruindad!</p>
-                        <p>Y reían mucho el artificio y decíanle:</p>
+                        
                     </sp>
-                    <sp who="#ciego">
+                    <p>Y reían mucho el artificio y decíanle:</p>
+                    <sp who="#ciego"><!-- SAT: esto tampoco lo dice el ciego -->
                         <p>-¡Castigadlo, castigadlo, que de <name type="religious" corresp="#Dios"
                                 >Dios</name> lo habréis!</p>
                     </sp>
@@ -376,11 +377,7 @@
                             comido las uvas tres a tres.</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p> -No comí</p>
-                    </sp>
-                    <p>-dije yo-;</p>
-                    <sp who="#Lazaro">
-                        <p>mas ¿por qué sospecháis eso?</p>
+                        <p> -No comí -dije yo-; mas ¿por qué sospecháis eso?</p>
                     </sp>
                     <p> Respondió el sagacísimo <persName corresp="#ciego">ciego:</persName></p>
                     <sp who="#ciego">
@@ -425,11 +422,7 @@
                             mala comida y cena.</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p>-No le comeré yo</p>
-                    </sp>
-                    <p>-dije-</p>
-                    <sp who="#Lazaro">
-                        <p>y no me la dará.</p>
+                        <p>-No le comeré yo -dije- y no me la dará.</p>
                     </sp>
                     <sp who="#ciego">
                         <p>- Yo te digo verdad; si no, verlo has, si vives.</p>
@@ -470,19 +463,11 @@
                         <p> -¿Qué es esto, Lazarillo?</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p>-¡Lacerado de mí!</p>
-                    </sp>
-                    <p>-dije yo-.</p>
-                    <sp who="#Lazaro">
-                        <p>¿Si queréis a mí echar algo? ¿Yo no vengo de traer el vino? Alguno estaba
+                        <p>-¡Lacerado de mí! -dije yo-. ¿Si queréis a mí echar algo? ¿Yo no vengo de traer el vino? Alguno estaba
                             ahí y por burlar haría esto.</p>
                     </sp>
                     <sp who="#ciego">
-                        <p> -No, no</p>
-                    </sp>
-                    <p>-dijo él-,</p>
-                    <sp who="#ciego">
-                        <p>que yo no he dejado el asador de la mano; no es posible.</p>
+                        <p> -No, no -dijo él-, que yo no he dejado el asador de la mano; no es posible.</p>
                     </sp>
                     <p> Yo torné a jurar y perjurar que estaba libre de aquel trueco y cambio; mas
                         poco me aprovechó, pues a las astucias del maldito <persName
@@ -537,11 +522,7 @@
                     <p>Y luego contaba cuántas veces me había descalabrado y arpado la cara, y con
                         vino luego sanaba.</p>
                     <sp who="#ciego">
-                        <p> -Yo te digo</p>
-                    </sp>
-                    <p>-dijo-</p>
-                    <sp who="#ciego">
-                        <p>que, si hombre en el mundo ha de ser bienaventurado con vino, que serás
+                        <p> -Yo te digo -dijo- que, si hombre en el mundo ha de ser bienaventurado con vino, que serás
                             tú.</p>
                     </sp>
                     <p> Y reían mucho los que me lavaban con esto, aunque yo renegaba. Mas el
