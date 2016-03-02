@@ -148,7 +148,7 @@
                         algunos días, pareciéndole a mi amo que no era la ganancia a su contento,
                         determinó irse de allí; y cuando nos hubimos de partir, yo fui a ver a mi
                         madre, y, ambos llorando, me dio su bendición y dijo:</p>
-                    <sp who="#madre"><p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y <name religious="Dios">Dios</name> te guíe. Criado
+                    <sp who="#madre"><p>-Hijo, ya sé que no te veré más. Procura de ser bueno, y <name type="religious" corresp="Dios">Dios</name> te guíe. Criado
                         te he y con buen amo te he puesto; válete por ti.</p></sp>
                     <p> Y así me fui para mi amo, que esperándome estaba.</p>
                     <p> Salimos de <placeName corresp="#Salamanca">Salamanca,</placeName> y,
@@ -170,7 +170,7 @@
                         ojo y avisar, pues solo soy, y pensar cómo me sepa valer».</p></sp>
                     <p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te
                         mostraré.</p>
-                    <p>Y fue así, que, después de Dios, éste me dio la vida, y, siendo <persName
+                    <p>Y fue así, que, después de <name type="religious" corresp="Dios">Dios,</name> éste me dio la vida, y, siendo <persName
                             corresp="#ciego">ciego,</persName> me alumbró y adestró en la carrera de
                         vivir.</p>
                     <p>Huelgo de contar a <persName corresp="#VuestraMerced">Vuestra
@@ -448,14 +448,14 @@
                         para beber le había traído, laváronme la cara y la garganta. Sobre lo cual
                         discantaba <persName corresp="#ciego">el mal ciego</persName> donaires,
                         diciendo:</p>
-                    <p>-Por verdad, más vino me gasta este mozo en lavatorios al cabo del año, que
+                    <sp who="#ciego"><p>-Por verdad, más vino me gasta este mozo en lavatorios al cabo del año, que
                         yo bebo en dos. A lo menos, <persName corresp="#Lazaro">Lázaro,</persName>
                         eres en más cargo al vino que a tu padre, porque él una vez te engendró, mas
-                        el vino mil te ha dado la vida.</p>
+                        el vino mil te ha dado la vida.</p></sp>
                     <p>Y luego contaba cuántas veces me había descalabrado y arpado la cara, y con
                         vino luego sanaba.</p>
-                    <p> -Yo te digo -dijo- que, si hombre en el mundo ha de ser bienaventurado con
-                        vino, que serás tú.</p>
+                    <sp who="#ciego"><p> -Yo te digo</p></sp> <p>-dijo-</p> <sp who="#ciego"><p>que, si hombre en el mundo ha de ser bienaventurado con
+                        vino, que serás tú.</p></sp>
                     <p> Y reían mucho los que me lavaban con esto, aunque yo renegaba. Mas el
                         pronóstico del <persName corresp="#ciego">ciego</persName> no salió
                         mentiroso, y después acá muchas veces me acuerdo de aquel hombre, que sin
@@ -471,36 +471,36 @@
                         llovía, y andaba rezando debajo de unos portales que en aquel pueblo había,
                         donde no nos mojamos, mas como la noche se venía y el llover no cesaba,
                         díjome <persName corresp="#ciego">el ciego:</persName></p>
-                    <p> -<persName corresp="#Lazaro">Lázaro,</persName> esta agua es muy porfiada, y
-                        cuanto la noche más cierra, más recia. Acojámonos a la posada con tiempo. </p>
+                    <sp who="#ciego"><p> -<persName corresp="#Lazaro">Lázaro,</persName> esta agua es muy porfiada, y
+                        cuanto la noche más cierra, más recia. Acojámonos a la posada con tiempo. </p></sp>
                     <p> Para ir allá habíamos de pasar un arroyo, que con la mucha agua iba grande.
                         Yo le dije:</p>
-                    <p> -Tío, el arroyo va muy ancho; mas si queréis, yo veo por donde travesemos
+                    <sp who="#Lazaro"><p> -Tío, el arroyo va muy ancho; mas si queréis, yo veo por donde travesemos
                         más aína sin mojarnos, porque se estrecha allí mucho y, saltando, pasaremos
-                        a pie enjuto. </p>
+                        a pie enjuto. </p></sp>
                     <p> Parecióle buen consejo y dijo:</p>
-                    <p> -Discreto eres, por esto te quiero bien; llévame a ese lugar donde el arroyo
+                    <sp who="#ciego"><p> -Discreto eres, por esto te quiero bien; llévame a ese lugar donde el arroyo
                         se ensangosta, que agora es invierno y sabe mal el agua, y más llevar los
-                        pies mojados.</p>
+                        pies mojados.</p></sp>
                     <p> Yo que vi el aparejo a mi deseo, saquéle de bajo de los portales y llevélo
                         derecho de un pilar o poste de piedra que en la plaza estaba, sobre el cual
                         y sobre otros cargaban saledizos de aquellas casas, y dígole:</p>
-                    <p> -Tío, éste es el paso más angosto que en el arroyo hay.</p>
+                    <sp who="#Lazaro"><p> -Tío, éste es el paso más angosto que en el arroyo hay.</p></sp>
                     <p> Como llovía recio y el triste se mojaba, y con la priesa que llevábamos de
                         salir del agua, que encima de nos caía, y, lo más principal, porque <name
                             type="religious" corresp="#Dios">Dios</name> le cegó aquella hora el
                         entendimiento (fue por darme de él venganza), creyóse de mí, y dijo:</p>
-                    <p> -Ponme bien derecho y salta tú el arroyo.</p>
+                    <sp who="#ciego"><p> -Ponme bien derecho y salta tú el arroyo.</p></sp>
                     <p> Yo le puse bien derecho enfrente del pilar, y doy un salto y póngome detrás
                         del poste, como quien espera tope de toro, y díjele:</p>
-                    <p> -¡Sus, saltad todo lo que podáis, porque deis de este cabo del agua!</p>
+                    <sp who="#Lazaro"> <p> -¡Sus, saltad todo lo que podáis, porque deis de este cabo del agua!</p></sp>
                     <p> Aun apenas lo había acabado de decir, cuando se abalanza el pobre <persName
                             corresp="#ciego">ciego</persName> como cabrón y de toda su fuerza
                         arremete, tomando un paso atrás de la corrida para hacer mayor salto, y da
                         con la cabeza en el poste, que sonó tan recio como si diera con una gran
                         calabaza, y cayó luego para atrás medio muerto y hendida la cabeza.</p>
-                    <p> -¿Cómo, y olisteis la longaniza y no el poste? ¡Oled! ¡Oled! -le dije
-                        yo.</p>
+                    <sp who="#Lazaro"><p> -¿Cómo, y olisteis la longaniza y no el poste? ¡Oled! ¡Oled! -le dije
+                        yo.</p></sp>
                     <p>Y dejéle en poder de mucha gente que lo había ido a socorrer, y tomo la
                         puerta de la villa en los pies de un trote, y, antes de que la noche
                         viniese, di conmigo en <placeName ref="Torrijos">Torrijos.</placeName> No
