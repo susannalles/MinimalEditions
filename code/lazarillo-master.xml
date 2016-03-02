@@ -1422,8 +1422,8 @@
                         del arca, cerrase la puerta a mi consuelo y la abriese a mis trabajos».</sp></p>
                     <p>Así lamentaba yo, en tanto que mi solícito carpintero, con muchos clavos y
                         tablillas, dio fin a sus obras, diciendo:</p>
-                    <p>-Agora, donos traidores ratones, conviéneos mudar propósito, que en esta casa
-                        mala medra tenéis.</p>
+                    <p>-<sp who="#clerigo">Agora, donos traidores ratones, conviéneos mudar propósito, que en esta casa
+                        mala medra tenéis.</sp></p>
                     <p>De que salió de su casa, voy a ver la obra, y hallé que no dejó en la triste
                         y vieja arca agujero ni aun por donde le pudiese entrar un mosquito. Abro
                         con mi desaprovechada llave, sin esperanza de sacar provecho, y vi los dos o
@@ -1451,8 +1451,8 @@
                         cuidados del rey de Francia.</p>
                     <p>Otro día fue por el señor mi amo visto el daño, así del pan como del agujero
                         que yo había hecho, y comenzó a dar a los diablos los ratones y decir:</p>
-                    <p>-¿Qué diremos a esto? ¡Nunca haber sentido ratones en esta casa, sino
-                        agora!</p>
+                    <p>-<sp who="#clerigo">¿Qué diremos a esto? ¡Nunca haber sentido ratones en esta casa, sino
+                        agora!</sp></p>
                     <p>Y sin duda debía de decir verdad, porque, si casa había de haber en el reino
                         justamente de ellos privilegiada, aquélla de razón había de ser, porque no
                         suelen morar donde no hay qué comer. Torna a buscar clavos por la casa y por
@@ -1460,19 +1460,19 @@
                         yo era puesto en pie con mi aparejo y, cuantos él tapaba de día, destapaba
                         yo de noche.</p>
                     <p>En tal manera fue y tal prisa nos dimos, que sin duda por esto se debió
-                        decir: «donde una puerta se cierra, otra se abre». Finalmente, parecíamos
+                        decir: <!-- how to do a quote here??? -->«donde una puerta se cierra, otra se abre». Finalmente, parecíamos
                         tener a destajo la tela de <persName xml:id="Penelope">Penélope</persName>,
                         pues, cuanto él tejía de día rompía yo de noche. Ca en pocos días y noches
                         pusimos la pobre despensa de tal forma que, quien quisiera propiamente de
                         ella hablar, más corazas viejas de otro tiempo, que no arcaz, la llamara,
                         según la clavazón y tachuelas sobre sí tenía.</p>
                     <p>De que vio no aprovecharle nada su remedio, dijo:</p>
-                    <p>-Este arcaz está tan maltratado y es de madera tan vieja y flaca, que no
+                    <p>-<sp who="#clerigo">Este arcaz está tan maltratado y es de madera tan vieja y flaca, que no
                         habrá ratón a quien se defienda. Y va ya tal que, si andamos más con él, nos
                         dejará sin guarda. Y aun lo peor, que, aunque hace poca, todavía hará falta
                         faltando, y me pondrá en costa de tres o cuatro reales. El mejor remedio que
                         hallo, pues el de hasta aquí no aprovecha: armaré por de dentro a estos
-                        ratones malditos.</p>
+                        ratones malditos.</sp></p>
                     <p>Luego buscó prestada una ratonera, y con cortezas de queso que a los vecinos
                         pedía, contino el gato estaba armado dentro del arca. Lo cual era para mí
                         singular auxilio, porque, puesto caso que yo no había menester muchas salsas
@@ -1484,10 +1484,10 @@
                         caída la trampilla del gato.</p>
                     <p>Acordaron los vecinos no ser el ratón el que este daño hacía, porque no fuera
                         menos de haber caído alguna vez. Díjole un vecino:</p>
-                    <p>-En vuestra casa yo me acuerdo que solía andar una culebra, y ésta debe de
+                    <p>-<sp who="#vecino">En vuestra casa yo me acuerdo que solía andar una culebra, y ésta debe de
                         ser sin duda. Y lleva razón, que como es larga, tiene lugar de tomar el
                         cebo, y, aunque la coja la trampilla encima, como no entre toda dentro,
-                        tórnase a salir.</p>
+                        tórnase a salir.</sp></p>
                     <p>Cuadró a todos lo que aquél dijo y alteró mucho a mi amo, y dende en adelante
                         no dormía tan a sueño suelto, que cualquier gusano de la madera que de noche
                         sonase, pensaba ser la culebra que le roía el arca. Luego era puesto en pie,
@@ -1499,9 +1499,9 @@
                         le decían que de noche acaecía a estos animales, buscando calor, irse a las
                         cunas donde están criaturas, y aún mordellas y hacerles peligrar.</p>
                     <p>Yo las más veces hacía del dormido, y en la mañana, decíame él:</p>
-                    <p>-¿Esta noche, mozo, no sentiste nada? Pues tras la culebra anduve, y aun
-                        pienso se ha de ir para ti a la cama, que son muy frías y buscan calor.</p>
-                    <p>-¡Plega a Dios que no me muerda -decía yo-, que harto miedo le tengo!</p>
+                    <p>-<sp who="#clerigo">¿Esta noche, mozo, no sentiste nada? Pues tras la culebra anduve, y aun
+                        pienso se ha de ir para ti a la cama, que son muy frías y buscan calor.</sp></p>
+                    <p>-<sp who="#lazarillo">¡Plega a Dios que no me muerda</sp> -decía yo-, <sp who="#lazarillo">que harto miedo le tengo!</sp></p>
                     <p>De esta manera andaba tan elevado y levantado del sueño, que, mi fe, la
                         culebra (o culebro por mejor decir) no osaba roer de noche ni levantarse al
                         arca; mas de día, mientras estaba en la iglesia o por el lugar, hacía mis
