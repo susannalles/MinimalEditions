@@ -1302,8 +1302,7 @@
             <div xml:id="tratado5">
                 <head type="titulo">Tratado quinto</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con un <persName
-                        xml:id="buldero">buldero</persName>, y de las cosas que con <persName
-                        corresp="#buldero">él</persName> pasó</head>
+                        xml:id="buldero">buldero</persName>, y de las cosas que con él pasó</head>
             
             <div type="texto">
                 <p>En el quinto por mi ventura di, que fue un <persName corresp="#buldero"
