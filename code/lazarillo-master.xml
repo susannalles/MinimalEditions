@@ -41,11 +41,12 @@
                         el vivir? No por cierto; mas el deseo de alabanza le hace ponerse al
                         peligro; y así en las artes y letras es lo mismo. Predica muy bien el
                         presentado y es hombre que desea mucho el provecho de las ánimas; mas
-                        pregunten a su merced si le pesa cuando le dicen: «¡Oh, qué maravillosamente
-                        lo ha hecho vuestra reverencia!». Justó muy ruinmente el señor don Fulano, y
-                        dio el sayete de armas al truhán, porque le loaba de haber llevado muy
-                        buenas lanzas: ¿qué hiciera si fuera verdad? </p>
-                    <!-- quién aquí es "su merced?" -->
+                        pregunten a su merced si le pesa cuando le dicen: <quote>«¡Oh, qué
+                            maravillosamente lo ha hecho vuestra reverencia!»</quote>. Justó muy
+                        ruinmente el <persName xml:id="donFulano">señor don Fulano</persName>, y dio
+                        el sayete de armas al truhán, porque le loaba de haber llevado muy buenas
+                        lanzas: ¿qué hiciera si fuera verdad? </p>
+                    <!-- quién aquí es "su merced?" a quien corresponde este quote? -->
                     <p> Y todo va de esta manera: que, confesando yo no ser más santo que mis
                         vecinos, de esta nonada, que en este grosero estilo escribo, no me pesará
                         que hayan parte y se huelguen con ello todos los que en ella algún gusto
@@ -506,7 +507,6 @@
                         hizo ni curé de saberlo.</p>
                 </div>
             </div>
-
             <div xml:id="tratado2">
                 <head type="titulo">Tratado segundo</head>
                 <head type="subtitulo"> Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
@@ -1408,6 +1408,22 @@
                         ruin dicha, pues, señalándose todo lo que podía contra mí, hacía mis
                         negocios tan al revés, que los amos, que suelen ser dejados de los mozos, en
                         mí no fuese así, mas que mi amo me dejase y huyese de mí.</p>
+                </div>
+            </div>
+            <div xml:id="tratado4">
+                <head type="titlo">Tratado cuarto</head>
+                <head type="subtitulo">Cómo Lázaro se asentó con <persName xml:id="fraile">un fraile
+                        de la Merced</persName>, y de lo que le acaeció con él</head>
+                <div type="text">
+                    <p> Hube de buscar el cuarto, y éste fue <persName corresp="#fraile">un fraile
+                            de la Merced</persName>, que las mujercillas que digo me encaminaron, al
+                        cual ellas le llamaban pariente. Gran enemigo del coro y de comer en el
+                        convento, perdido por andar fuera, amicísimo de negocios seglares y visitar,
+                        tanto que pienso que rompía él más zapatos que todo el convento. Éste me dio
+                        los primeros zapatos que rompí en mi vida; mas no me duraron ocho días, ni
+                        yo pude con su trote durar más. Y por esto, y por otras cosillas que no
+                        digo, salí de él. </p>
+                    <!-- es el mismo merced aquí? -->
                 </div>
             </div>
             <div xml:id="tratado5">
