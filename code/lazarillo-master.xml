@@ -117,10 +117,10 @@
                     </sp>
                     <p> Yo, aunque bien mochacho, noté aquella palabra de mi hermanico, y dije entre
                         mí:</p>
-                    <sp who="#Lazaro">
+                    <quote>
                         <p>«¡Cuántos debe de haber en el mundo que huyen de otros porque no se ven a
                             sí mismos!».</p>
-                    </sp>
+                    </quote>
                     <p> Quiso nuestra fortuna que la conversación del <placeName xml:id="Zaide"
                             >Zaide,</placeName> que así se llamaba, llegó a oídos del mayordomo, y,
                         hecha pesquisa, hallóse que la mitad por medio de la cebada, que para las
@@ -154,7 +154,7 @@
                         huérfano. Él respondió que así lo haría y que me recibía, no por mozo, sino
                         por hijo. Y así le comencé a servir y adestrar a mi nuevo y viejo amo.</p>
                     <p> Como estuvimos en <placeName corresp="#Salamanca">Salamanca</placeName>
-                        algunos días, pareciéndole a mi amo que no era la ganancia a su contento,
+                        algunos días, pareciéndole a <persName corresp="#ceigo">mi amo</persName> que no era la ganancia a su contento,
                         determinó irse de allí; y cuando nos hubimos de partir, yo fui a ver a mi
                         madre, y, ambos llorando, me dio su bendición y dijo:</p>
                     <sp who="#madre">
@@ -162,7 +162,7 @@
                                 type="religious" corresp="Dios">Dios</name> te guíe. Criado te he y
                             con buen amo te he puesto; válete por ti.</p>
                     </sp>
-                    <p> Y así me fui para mi amo, que esperándome estaba.</p>
+                    <p> Y así me fui para <persName corresp="#ceigo">mi amo,</persName> que esperándome estaba.</p>
                     <p> Salimos de <placeName corresp="#Salamanca">Salamanca,</placeName> y,
                         llegando a la puente, está a la entrada de ella un animal de piedra, que
                         casi tiene forma de toro, y <persName corresp="#ciego">el ciego</persName>
@@ -182,10 +182,10 @@
                     <p> Y rió mucho la burla.</p>
                     <p> Parecióme que en aquel instante desperté de la simpleza en que, como niño,
                         dormido estaba. Dije entre mí:</p>
-                    <sp who="#Lazaro">
+                    <quote>
                         <p>«Verdad dice éste, que me cumple avivar el ojo y avisar, pues solo soy, y
                             pensar cómo me sepa valer».</p>
-                    </sp>
+                    </quote>
                     <p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te
                         mostraré.</p>
                     <p>Y fue así, que, después de <name type="religious" corresp="Dios">Dios,</name>
@@ -323,8 +323,8 @@
                     <p>Santiguándose los que lo oían, decían:</p>
                     <sp who="#ciego">
                         <p>-¡Mirad quién pensara de un muchacho tan pequeño tal ruindad!</p>
-                        <p>Y reían mucho el artificio y decíanle:</p>
                     </sp>
+                    <p>Y reían mucho el artificio y decíanle:</p>
                     <sp who="#ciego">
                         <p>-¡Castigadlo, castigadlo, que de <name type="religious" corresp="#Dios"
                                 >Dios</name> lo habréis!</p>
@@ -345,10 +345,10 @@
                             <placeName corresp="#Salamanca">Salamanca,</placeName> su motivo fue
                         venir a tierra de <placeName corresp="#Toledo">Toledo,</placeName> porque
                         decía ser la gente más rica, aunque no muy limosnera. Arrimábase a este
-                        refrán: «Más da el duro que el desnudo». Y vinimos a este camino por los
-                        mejores lugares. Donde hallaba buena acogida y ganancia, deteníamonos; donde
-                        no, a tercero día hacíamos <placeName ref="San Juan">San
-                        Juan.</placeName></p>
+                        refrán: <quote>«Más da el duro que el desnudo».</quote> Y vinimos a este
+                        camino por los mejores lugares. Donde hallaba buena acogida y ganancia,
+                        deteníamonos; donde no, a tercero día hacíamos <placeName ref="San Juan">San
+                            Juan.</placeName></p>
                     <p>Acaeció que, llegando a un lugar que llaman <placeName ref="Almorox"
                             >Almorox</placeName> al tiempo que cogían las uvas, un vendimiador le
                         dio un racimo de ellas en limosna. Y como suelen ir los cestos maltratados,
@@ -376,11 +376,7 @@
                             comido las uvas tres a tres.</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p> -No comí</p>
-                    </sp>
-                    <p>-dije yo-;</p>
-                    <sp who="#Lazaro">
-                        <p>mas ¿por qué sospecháis eso?</p>
+                        <p> -No comí -dije yo-; mas ¿por qué sospecháis eso?</p>
                     </sp>
                     <p> Respondió el sagacísimo <persName corresp="#ciego">ciego:</persName></p>
                     <sp who="#ciego">
@@ -390,7 +386,7 @@
                     <p> A lo cual yo no respondí. Yendo que íbamos así por debajo de unos
                         soportales, en <placeName ref="Escalona">Escalona</placeName> adonde a la
                         sazón estábamos, en casa de un zapatero había muchas sogas y otras cosas que
-                        de esparto se hacen, y parte de ellas dieron a mi amo en la cabeza. El cual,
+                        de esparto se hacen, y parte de ellas dieron a <persName corresp="#ceigo">mi amo</persName> en la cabeza. El cual,
                         alzando la mano, tocó en ellas, y viendo lo que era díjome:</p>
                     <sp who="#ciego">
                         <p>-Anda presto, muchacho; salgamos de entre tan mal manjar, que ahoga sin
@@ -425,11 +421,7 @@
                             mala comida y cena.</p>
                     </sp>
                     <sp who="#Lazaro">
-                        <p>-No le comeré yo</p>
-                    </sp>
-                    <p>-dije-</p>
-                    <sp who="#Lazaro">
-                        <p>y no me la dará.</p>
+                        <p>-No le comeré yo -dije- y no me la dará.</p>
                     </sp>
                     <sp who="#ciego">
                         <p>- Yo te digo verdad; si no, verlo has, si vives.</p>
@@ -457,7 +449,7 @@
                         había de gozar, no mirando qué me podría suceder, pospuesto todo el temor
                         por cumplir con el deseo, en tanto que <persName corresp="#ciego">el
                             ciego</persName> sacaba de la bolsa el dinero, saqué la longaniza y muy
-                        presto metí el sobredicho nabo en el asador, el cual, mi amo, dándome el
+                        presto metí el sobredicho nabo en el asador, el cual, <persName corresp="#ceigo">mi amo,</persName> dándome el
                         dinero para el vino, tomó y comenzó a dar vueltas al fuego, queriendo asar
                         al que, de ser cocido, por sus deméritos había escapado. Yo fui por el vino,
                         con el cual no tardé en despachar la longaniza y, cuando vine, hallé al
@@ -478,11 +470,8 @@
                             ahí y por burlar haría esto.</p>
                     </sp>
                     <sp who="#ciego">
-                        <p> -No, no</p>
-                    </sp>
-                    <p>-dijo él-,</p>
-                    <sp who="#ciego">
-                        <p>que yo no he dejado el asador de la mano; no es posible.</p>
+                        <p> -No, no -dijo él-, que yo no he dejado el asador de la mano; no es
+                            posible.</p>
                     </sp>
                     <p> Yo torné a jurar y perjurar que estaba libre de aquel trueco y cambio; mas
                         poco me aprovechó, pues a las astucias del maldito <persName
@@ -537,12 +526,8 @@
                     <p>Y luego contaba cuántas veces me había descalabrado y arpado la cara, y con
                         vino luego sanaba.</p>
                     <sp who="#ciego">
-                        <p> -Yo te digo</p>
-                    </sp>
-                    <p>-dijo-</p>
-                    <sp who="#ciego">
-                        <p>que, si hombre en el mundo ha de ser bienaventurado con vino, que serás
-                            tú.</p>
+                        <p> -Yo te digo -dijo- que, si hombre en el mundo ha de ser bienaventurado
+                            con vino, que serás tú.</p>
                     </sp>
                     <p> Y reían mucho los que me lavaban con esto, aunque yo renegaba. Mas el
                         pronóstico del <persName corresp="#ciego">ciego</persName> no salió
@@ -660,7 +645,7 @@
                         huesos roídos, y dábamelos en el plato, diciendo:</p>
                     <p>-Toma, come, triunfa, que para ti es el mundo. Mejor vida tienes que
                             <persName xml:id="Papa">el Papa</persName>.</p>
-                    <p>«¡Tal te la dé Dios!» -decía yo paso entre mí.</p>
+                    <p><quote>«¡Tal te la dé Dios!»</quote> -decía yo paso entre mí.</p>
                     <p>A cabo de tres semanas que estuve con él vine a tanta flaqueza, que no me
                         podía tener en las piernas de pura hambre. Vime claramente ir a la
                         sepultura, si Dios y mi saber no me remediaran. Para usar de mis mañas no
@@ -1845,8 +1830,28 @@
                         fatigas, aunque me daba bien de comer, a costa de los curas y otros clérigos
                         do iba a predicar.</p>
                 </div>
+            </div> 
+            <div xml:id="tratado6">
+                <head type="titulo">Tratado sexto</head>
+                <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con <persName xml:id="capellan">un capellán,</persName> y lo que con él pasó</head> 
+                <div type="texto">
+                    <p>Después de esto, asenté con <persName xml:id="pintor">un maestro de pintar panderos,</persName> para molelle los colores, y también
+                sufrí mil males.</p>
+            <p>Siendo ya en este tiempo buen mozuelo, entrando un día en la iglesia
+                mayor, <persName corresp="#capellan">un capellán</persName> de ella me recibió por suyo, y púsome en poder un asno y cuatro
+            cántaros y un azote, y comencé a echar agua por la ciudad. Éste fue el primer escalón
+            que yo subí para venir a alcanzar buena vida, porque mi boca era medida. Daba cada día a
+                <persName corresp="#capellan">mi amo</persName> treinta maravedís ganados, y los sábados ganaba para mí, y todo lo demás, entre
+            semana, de treinta maravedís.</p>
+            <p>Fueme tan bien en el oficio que, al cabo de cuatro años
+            que lo usé, con poner en la ganancia buen recaudo, ahorré para vestirme muy honradamente
+            de la ropa vieja, de la cual compré un jubón de fustán viejo, y un sayo raído de manga
+            trenzada y puerta, y una capa que había sido frisada, y una espada de las viejas
+            primeras de <placeName xml:id="Cuellar">Cuéllar.</placeName> Desque me vi en hábito de hombre de bien, dije a <persName corresp="#capellan">mi amo</persName> se tomase
+            su asno, que no quería más seguir aquel oficio.</p>
+                </div>
             </div>
-            <div xml:id="tratado7">
+                <div xml:id="tratado7">
                 <head type="titulo">Tratado séptimo</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
                     con un, <persName corresp="#alguacil">alguacil</persName> y de lo que le acaeció
