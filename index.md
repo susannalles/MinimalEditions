@@ -124,18 +124,16 @@ Introduction to Github (1)
 
 **Lecture 17 (March 28)** (Unit 5) Transforming the code: (XSLT)
 >
-- Spence, et al. *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. 2007 (Chapters 1, 2)
 - Bauman, and J. Flanders, [*“A Gentle Introduction to XSLT.”*](http://www.wwp.northeastern.edu/outreach/seminars/publishing_2013-11/presentations/xslt_intro/xslt_intro.xml#%281%29) Brown University, 2012
 - Allés Torrent, [“Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT,”](http://academiccommons.columbia.edu/catalog/ac%3A189047) *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21
 
 **Lecture 18 (March 30)** Advanced XSLT (1): from XML to HTML
 >
-- Spence, et al. *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. 2007 (Chapters 3, 4)
 - Bauman, and J. Flanders, [*“Navigating the Tree.”*] Brown University, 2012
 
 **Lecture 19 (April 4)** Advanced XSLT (2): from XML to HTML
 >
-- Spence, et al., *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. 2007 (Chapters 5)
+- 
 
 **Lecture 20 (April 6)** Advanced XSLT (3): from XML to other outputs
 >
@@ -195,7 +193,6 @@ Introduction to Github (1)
 -	Sahle, Patrick. [“Criteria for Reviewing Scholarly Digital Editions", version 1.1.”](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/) *A review journal for digital editions and resources*, IDE, 2014
 -	Sahle, Patrick. “[Digital Modelling (modelling the digital Edition)](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf).” *Medieval & Modern Manuscripts Studies in the Digital Age*, 2015
 -	Shopify, [*Liquid*](https://github.com/Shopify/liquid). GitHub, 2015
--	Spence, Paul, Elena Pierazzo, and J. Bradley, *An XSLT Tutorial. Introducing XSLT in a Humanities Context*. King College London, 2007
 -	TEI Wiki, “Ways to Publish TEI on the Web,”
 -	Tennen, Dennis, and G. Wythoff, [*“Sustainable Authorship in Plain Text using Pandoc and Markdown.”*](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) *The Programming Historian*, March 19, 2014
 -	Tennen, Dennis. [GiHub](https://github.com/xpmethod/dhnotes/wiki/GitHub), Github, 2015
