@@ -185,7 +185,7 @@
                     <said who="#Lazaro">
                         «Verdad dice éste, que me cumple avivar el ojo y avisar, pues solo soy, y
                             pensar cómo me sepa valer».</said></p>
-                    
+
                     <sp who="#ciego"><p>-Yo oro ni plata no te lo puedo dar; mas avisos para vivir muchos te
                         mostraré.</p></sp>
                     <p>Y fue así, que, después de <name type="religious" corresp="Dios">Dios,</name>
@@ -323,7 +323,7 @@
                     <p>Santiguándose los que lo oían, decían:</p>
                     <sp who="#ciego"><!-- SAT: esto no lo dice el ciego -->
                         <p>-¡Mirad quién pensara de un muchacho tan pequeño tal ruindad!</p>
-                        
+
                     </sp>
                     <p>Y reían mucho el artificio y decíanle:</p>
                     <sp who="#ciego"><!-- SAT: esto tampoco lo dice el ciego -->
@@ -1500,7 +1500,7 @@
                 </div>
             </div>
             <div xml:id="tratado4">
-                <head type="titlo">Tratado cuarto</head>
+                <head type="titulo">Tratado cuarto</head>
                 <head type="subtitulo">Cómo Lázaro se asentó con <persName xml:id="fraile">un fraile
                         de la Merced</persName>, y de lo que le acaeció con él</head>
                 <div type="text">
