@@ -1581,7 +1581,7 @@
                             <persName corresp="#alguacil">alguacil</persName> y, desque hizo
                         oración, levantóse y, con voz alta y pausada, cuerdamente comenzó a
                         decir:</p>
-                    <p>-Buenos hombres, oídme una palabra, que después oiréis a quien quisiéredes.
+                    <sp corresp="#alguacil"><p>-Buenos hombres, oídme una palabra, que después oiréis a quien quisiéredes.
                         Yo vine aquí con este <persName corresp="#buldero">echacuervo</persName> que
                         os predica, el cual me engañó, y dijo que le favoreciese en este negocio, y
                         que partiríamos la ganancia. Y agora, visto el daño que haría a mi
@@ -1591,7 +1591,7 @@
                         agora dejo la vara y doy con ella en el suelo. Y, si en algún tiempo éste
                         fuere castigado por la falsedad, que vosotros me seáis testigos cómo yo no
                         soy con él ni le doy a ello ayuda; antes os desengaño y declaro su maldad.
-                        -Y acabó su razonamiento.</p>
+                        -Y acabó su razonamiento.</p></sp>
                     <p>Algunos hombres honrados que allí estaban se quisieron levantar y echar al
                             <persName corresp="#alguacil">alguacil</persName> fuera de la iglesia,
                         por evitar escándalo; mas <persName corresp="#buldero">mi amo</persName> les
@@ -1600,12 +1600,12 @@
                         silencio mientras el <persName corresp="#alguacil">alguacil</persName> dijo
                         todo lo que he dicho. Como calló, mi amo le preguntó si quería decir más que
                         lo dijese. El <persName corresp="#alguacil">alguacil</persName> dijo:</p>
-                    <p>-Harto hay más que decir de vos y de vuestra falsedad; mas por agora
-                        basta.</p>
+                    <sp corresp="#alguacil"><p>-Harto hay más que decir de vos y de vuestra falsedad; mas por agora
+                        basta.</p></sp>
                     <p>El <persName corresp="#buldero">señor comisario</persName> se hincó de
                         rodillas en el púlpito y, puestas las manos y mirando al cielo, dijo
                         así:</p>
-                    <p>-<name type="religious" corresp="#Dios">Señor Dios</name>, a quien ninguna
+                    <sp corresp="#buldero"><p>-<name type="religious" corresp="#Dios">Señor Dios</name>, a quien ninguna
                         cosa es escondida, antes todas manifiestas, y a quien nada es imposible,
                         antes todo posible: <name type="religious" corresp="#Dios">tú</name> sabes
                         la verdad y cuán injustamente yo soy afrentado. En lo que a mí toca, yo le
@@ -1621,7 +1621,7 @@
                         debajo de tierra, do él ni yo jamás parezcamos; y, si es verdad lo que yo
                         digo y <persName corresp="#alguacil">aquél</persName>, persuadido del
                         demonio, por quitar y privar a los que están presentes de tan gran bien,
-                        dice maldad, también sea castigado y de todos conocida su malicia.</p>
+                        dice maldad, también sea castigado y de todos conocida su malicia.</p></sp>
                     <!-- ¿¿¿¿¿hay que marcar Dios????? -->
                     <p>Apenas había acabado su oración el devoto <persName corresp="#buldero">señor
                             mío</persName>, cuando el negro <persName corresp="#alguacil"
@@ -1630,9 +1630,9 @@
                         la boca y torcella, y hacer visajes con el gesto, dando de pie y de mano,
                         revolviéndose por aquel suelo a una parte y a otra.</p>
                     <p>El estruendo y voces de la gente era tan grande, que no se oían unos a otros.
-                        Algunos estaban espantados y temerosos. Unos decían: «<name type="religious"
-                            corresp="#Dios">El Señor</name> le socorra y valga». Otros: «Bien se le
-                        emplea, pues levantaba tan falso testimonio».</p>
+                        Algunos estaban espantados y temerosos. Unos decían: <quote>«<name type="religious"
+                            corresp="#Dios">El Señor</name> le socorra y valga»</quote>. Otros: <quote>«Bien se le
+                        emplea, pues levantaba tan falso testimonio»</quote>.</p>
                     <p>Finalmente, algunos que allí estaban, y a mi parecer no sin harto temor, se
                         llegaron y le trabaron de los brazos, con los cuales daba fuertes puñadas a
                         los que cerca de él estaban. Otros le tiraban por las piernas y tuvieron
@@ -1654,13 +1654,13 @@
                     <p>El <persName corresp="#buldero">señor comisario</persName>, como quien
                         despierta de un dulce sueño, los miró y miró al delincuente y a todos los
                         que alrededor estaban, y muy pausadamente les dijo:</p>
-                    <p>-Buenos hombres, vosotros nunca habíades de rogar por un hombre en quien
+                    <sp corresp="#buldero"><p>-Buenos hombres, vosotros nunca habíades de rogar por un hombre en quien
                             <name type="religious" corresp="#Dios">Dios</name> tan señaladamente se
                         ha señalado; mas, pues Él nos manda que no volvamos mal por mal y perdonemos
                         las injurias, con confianza podremos suplicarle que cumpla lo que nos manda,
                         y <name type="religious" corresp="#Dios">Su Majestad</name> perdone a éste
                         que le ofendió poniendo en su santa fe obstáculo. Vamos todos a
-                        suplicalle.</p>
+                        suplicalle.</p></sp>
                     <p>Y así, bajó del púlpito y encomendó a que muy devotamente suplicasen a <name
                             type="religious" corresp="#Dios">nuestro Señor</name> tuviese por bien
                         de perdonar a aquel pecador y volverle en su salud y sano juicio y lanzar de
@@ -1717,7 +1717,7 @@
                         las que yo tenía en las alforjas púsolas junto a sus pies, y tornóse a poner
                         en el púlpito con cara alegre, y arrojar desde allí de diez en diez y de
                         veinte en veinte de sus bulas hacia todas partes diciendo:</p>
-                    <p>-Hermanos míos, tomad, tomad de las gracias que <name type="religious"
+                    <sp corresp="#alguacil"><p>-Hermanos míos, tomad, tomad de las gracias que <name type="religious"
                             corresp="#Dios">Dios</name> os envía hasta vuestras casas, y no os
                         duela, pues es obra tan pía la redención de los cautivos cristianos que
                         están en <placeName xml:id="tierraDeMoros">tierra de moros</placeName>,
@@ -1725,7 +1725,7 @@
                         siquiera ayudalles con vuestra limosna y con cinco Pater nostres y cinco Ave
                         Marías, para que salgan de cautiverio. Y aun también aprovechan para los
                         padres y hermanos y deudos que tenéis en el Purgatorio, como lo veréis en
-                        esta santa bula.</p>
+                        esta santa bula.</p></sp>
                     <p>Como el pueblo las vio así arrojar, como cosa que la daba de balde y ser
                         venida de la mano de <name type="religious" corresp="#Dios">Dios</name>,
                         tomaban a más tomar, aun para los niños de la cuna y para todos sus
@@ -1760,11 +1760,11 @@
                             corresp="#buldero">mi amo</persName> al <persName corresp="#alguacil"
                             >alguacil</persName> y <persName corresp="#escribano"
                             >escribano</persName>:</p>
-                    <p>-¿Qué os parece, cómo a estos villanos, que con sólo decir cristianos viejos
+                    <sp corresp="#buldero"><p>-¿Qué os parece, cómo a estos villanos, que con sólo decir cristianos viejos
                         somos, sin hacer obras de caridad, se piensan salvar, sin poner nada de su
                         hacienda? Pues, por vida del <persName xml:id="PascasioGomez">licenciado
                             Pascasio Gómez</persName>, que a su costa se saquen más de diez
-                        cautivos.</p>
+                        cautivos.</p></sp>
                     <p>Y así nos fuimos hasta otro lugar de aquel, cabo de <placeName
                             corresp="#Toledo">Toledo</placeName>, hacia <placeName xml:id="LaMancha"
                             >la Mancha</placeName> que se dice, adonde topamos otros más obstinados
@@ -1788,10 +1788,10 @@
                             >alcalde</persName> viejo, aunque él le dio a besar la cruz bien
                         delicadamente, se abrasó los rostros y se quitó presto afuera. Lo cual visto
                         por <persName corresp="#buldero">mi amo</persName>, le dijo:</p>
-                    <p>-¡Paso, quedo, <persName corresp="#alcaldes">señor alcalde</persName>!
-                        ¡Milagro!</p>
+                    <sp corresp="#buldero"><p>-¡Paso, quedo, <persName corresp="#alcaldes">señor alcalde</persName>!
+                        ¡Milagro!</p></sp>
                     <p>Y así hicieron otros siete u ocho, y a todos les decía:</p>
-                    <p>-¡Paso, señores! ¡Milagro!</p>
+                    <sp corresp="#buldero"><p>-¡Paso, señores! ¡Milagro!</p></sp>
                     <p>Cuando él vio que los rostriquemados bastaban para testigos del milagro, no
                         la quiso dar más a besar. Subióse al pie del altar y de allí decía cosas
                         maravillosas, diciendo que por la poca caridad que había en ellos había
@@ -1819,8 +1819,8 @@
                         que el temor de <persName corresp="#buldero">mi astuto amo</persName> no me
                         lo dejaba comunicar con nadie, ni nunca de mí salió, porque me tomó
                         juramento que no descubriese el milagro y así lo hice hasta agora.</p>
-                    <p>Y, aunque muchacho, cayóme mucho en gracia, y dije entre mí: «¡Cuántas de
-                        éstas deben hacer estos burladores entre la inocente gente!».</p>
+                    <p>Y, aunque muchacho, cayóme mucho en gracia, y dije entre mí: <quote corresp="#Lazaro">«¡Cuántas de
+                        éstas deben hacer estos burladores entre la inocente gente!»</quote>.</p>
                     <p>Finalmente, estuve con este mi <persName corresp="#buldero">quinto
                             amo</persName> cerca de cuatro meses, en los cuales pasé también hartas
                         fatigas, aunque me daba bien de comer, a costa de los curas y otros clérigos
