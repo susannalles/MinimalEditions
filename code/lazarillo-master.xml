@@ -1827,6 +1827,26 @@
                         do iba a predicar.</p>
                 </div>
             </div>
+            <div xml:id="tratado6">
+                <head type="titulo">Tratado sexto</head>
+                <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó con <persName xml:id="capellan">un capellán,</persName> y lo que con él pasó</head> 
+                <div type="texto">
+                    <p>Después de esto, asenté con <persName xml:id="pintor">un maestro de pintar panderos,</persName> para molelle los colores, y también
+                        sufrí mil males.</p>
+                    <p>Siendo ya en este tiempo buen mozuelo, entrando un día en la iglesia
+                        mayor, <persName corresp="#capellan">un capellán</persName> de ella me recibió por suyo, y púsome en poder un asno y cuatro
+                        cántaros y un azote, y comencé a echar agua por la ciudad. Éste fue el primer escalón
+                        que yo subí para venir a alcanzar buena vida, porque mi boca era medida. Daba cada día a
+                        <persName corresp="#capellan">mi amo</persName> treinta maravedís ganados, y los sábados ganaba para mí, y todo lo demás, entre
+                        semana, de treinta maravedís.</p>
+                    <p>Fueme tan bien en el oficio que, al cabo de cuatro años
+                        que lo usé, con poner en la ganancia buen recaudo, ahorré para vestirme muy honradamente
+                        de la ropa vieja, de la cual compré un jubón de fustán viejo, y un sayo raído de manga
+                        trenzada y puerta, y una capa que había sido frisada, y una espada de las viejas
+                        primeras de <placeName xml:id="Cuellar">Cuéllar.</placeName> Desque me vi en hábito de hombre de bien, dije a <persName corresp="#capellan">mi amo</persName> se tomase
+                        su asno, que no quería más seguir aquel oficio.</p>
+                </div>
+            </div>
             <div xml:id="tratado7">
                 <head type="titulo">Tratado séptimo</head>
                 <head type="subtitulo">Cómo <persName corresp="#Lazaro">Lázaro</persName> se asentó
