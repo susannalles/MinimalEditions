@@ -3,7 +3,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs" version="2.0">
     
-    <!-- placeName_Lazarillo.xsl
+    <!-- add_geonames_uris.xsl
              add key attribute with geonames,org URI to each placeName element in lazarillo-master.xml
              
              WARNING: this is an automated lookup and may not produce correct results.
