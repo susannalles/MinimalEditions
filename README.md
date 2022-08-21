@@ -41,26 +41,26 @@ There will be one midterm evaluation on March 7  (20%) and a final examination (
 
 ### Weekly Breakdown and assignments for each lecture
 
-** Lecture 1 (Jan 20)** (Unit 1) General introduction and plan of the course.
+**Lecture 1 (Jan 20)** (Unit 1) General introduction and plan of the course.
 
-** Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
+**Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
 > 
 - David Greetham. [“A history of textual scholarship.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A010) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 16-41
 - Miguel Ángel Pérez Priego, *La edición de textos*. 2012, pp. 15-46, 47-76; 77-100 		
 
-** Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
+**Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
 >
 - Kathy Sutherland, [“Anglo-American editorial theory.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A011) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 42-78
 - Miguel Ángel Pérez Priego, *La edición de textos*. pp. 101-114 
 
-** Lecture 4 (Feb 1)** 
+**Lecture 4 (Feb 1)** 
 * The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
 >
 - *Lazarillo de Tormes*, 2011, pp. 91-205
 - Mainer, “Caminos de la ficción.” *Historia de la literatura española*. 2013, pp. 281-336
 <br/>
 
-** Lecture 5 (Feb 3)**
+**Lecture 5 (Feb 3)**
 A data model for the *Lazarillo* 
 >
 - McCarty. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. 2004, pp. 254-271
