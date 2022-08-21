@@ -1,10 +1,10 @@
-##Creating a Minimal Edition: From the Manuscript to the Web 
+## Creating a Minimal Edition: From the Manuscript to the Web 
 
-###Instructors:
+### Instructors:
 Susanna Allés Torrent - sa3251@columbia.edu <br/>
 Alexander Gil Fuentes - agil@columbia.edu 
 
-###Course description 
+### Course description 
 The main goal of this course is to introduce students to textual scholarship in general and digital scholarly editing in particular. The main outcome of this new course will be to publish a small-scale digital scholarly edition online of one of the most remarkable Spanish literary works, the Lazarillo de Tormes (XVIth century). The course is conceived as a combination between collaborative research and technical skills. At all steps of the process, we will work together toward the completion of our digital edition. Unlike other courses in digital editing taught worldwide, this course will introduce you to a "full stack," giving you the ability to make your own digital editions in the future without the need for funding, a publisher, or a "technical" team.  The course will be divided into lectures and recitation sessions, in order to offer theoretical concepts and to transfer them into practice. 
 
 This course will have five main units: 
@@ -27,7 +27,7 @@ The learning goals of this course are as follows:
 7. To understand the role of the XSLT language and Liquid. 
 8. To work collaboratively and to enhance the student’s experience while practicing the Spanish language and engaging in authentic communication.
 
-###Grading and Out-of-Class Assignments 
+### Grading and Out-of-Class Assignments 
 There will be a total of six assignments oriented around the following: 
 
 1. Exercise on Textual Criticism (Feb 1) - 5%
@@ -39,28 +39,28 @@ There will be a total of six assignments oriented around the following:
 
 There will be one midterm evaluation on March 7  (20%) and a final examination (20%) (Date as determined by the registrar’s office). The course is conceived as a collaborative project, where each student will be in charge of a main chapter, for this reason collaborative work will represent the rest of the grade (10%). 
 
-###Weekly Breakdown and assignments for each lecture
+### Weekly Breakdown and assignments for each lecture
 
-**Lecture 1 (Jan 20)** (Unit 1) General introduction and plan of the course.
+** Lecture 1 (Jan 20)** (Unit 1) General introduction and plan of the course.
 
-**Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
+** Lecture 2 (Jan 25)** What does it mean to edit a text?	<br/>
 > 
 - David Greetham. [“A history of textual scholarship.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A010) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 16-41
 - Miguel Ángel Pérez Priego, *La edición de textos*. 2012, pp. 15-46, 47-76; 77-100 		
 
-**Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
+** Lecture 3 (Jan 27)** Basic principles of textual criticism and the different trends from the nineteenth century to the present.
 >
 - Kathy Sutherland, [“Anglo-American editorial theory.”](http://universitypublishingonline.org.ezproxy.cul.columbia.edu/cambridge/companions/chapter.jsf?bid=CCO9781139044073&cid=CCO9781139044073A011) *The Cambridge Companion to Textual Scholarship*. 2013, pp. 42-78
 - Miguel Ángel Pérez Priego, *La edición de textos*. pp. 101-114 
 
-**Lecture 4 (Feb 1)** 
-*The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
+** Lecture 4 (Feb 1)** 
+* The Life of Lazarillo de Tormes and of His Fortunes and Adversities*, first encounter with the work. 
 >
 - *Lazarillo de Tormes*, 2011, pp. 91-205
 - Mainer, “Caminos de la ficción.” *Historia de la literatura española*. 2013, pp. 281-336
 <br/>
 
-**Lecture 5 (Feb 3)**
+** Lecture 5 (Feb 3)**
 A data model for the *Lazarillo* 
 >
 - McCarty. “[Modeling: A Study in Words and Meanings](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7).” *A Companion to Digital Humanities*. 2004, pp. 254-271
@@ -169,7 +169,7 @@ Introduction to Github (1)
 
 **Lecture 27 (May 2)** Testing and troubleshooting 
 
-###Bibliography:  
+### Bibliography:  
 -	[“A Gentle Introduction to XML.”](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) P5: Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1. Last updated on 15th October 2015
 -	Allés Torrent, Susanna. [“Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT,”](http://academiccommons.columbia.edu/catalog/ac%3A189047) *Insula. Revista de Letras y Ciencias Humanas* 822 (2015): 18-21
 -	Burnard, Lou, Katherine O’Brien O’Keeffe, John Unsworth, [*Electronic Textual Editing*](http://www.tei-c.org/About/Archive_new/ETE/Preview/index.xml), New York: Modern Language Association of America, 2006
@@ -199,7 +199,7 @@ Introduction to Github (1)
 -	Van den Branden, Ron, Melissa Terras & Edward Vanhoutte. TEI by Example. [http://www.teibyexample.org](http://www.teibyexample.org)
 
 
-###Departmental Policy on absences 
+### Departmental Policy on absences 
 
 The Department of Latin American and Iberian Cultures has an across-the-board policy on class absences. Students who have three (3) unexcused absences or more will see their final grade reduced by one letter. An excused absence is an absence due to a religious holiday or one for which you can provide some form of written justification from a physician or dean. You should not interpret this policy as entitling you to a given number of free absences from class. You should see it as a hedge against illness and other unforeseen circumstances that may make it impossible for you to attend class. 
 
